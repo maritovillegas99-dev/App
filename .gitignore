@@ -5,3 +5,8 @@ __pycache__/
 models/sherpa-onnx-*/
 models/kokoro/
 edit/*/voz/prueba_*
+reels/public/moto/plate.mp4
+reels/public/moto/mezcla.wav
+reels/public/moto/portada.jpg
+edit/*/tmp/
+edit/*/audio/premix.wav
