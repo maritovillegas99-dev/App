@@ -3,3 +3,5 @@ reels/out/
 __pycache__/
 .DS_Store
 models/sherpa-onnx-*/
+models/kokoro/
+edit/*/voz/prueba_*

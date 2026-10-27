@@ -17,6 +17,11 @@ P=sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8
 [ -f "models/$P/encoder.int8.onnx" ] || ( curl -sSfL -o "models/$P.tar.bz2" \
   "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/$P.tar.bz2" \
   && tar xjf "models/$P.tar.bz2" -C models && rm -f "models/$P.tar.bz2" ) >/dev/null 2>&1 &
+# Voz en off local (tools/tts_kokoro.py): Kokoro desde GitHub
+python3 -c "import kokoro_onnx" 2>/dev/null || pip install -q --root-user-action=ignore kokoro-onnx soundfile >/dev/null 2>&1
+mkdir -p models/kokoro
+for f in kokoro-v1.0.onnx voices-v1.0.bin; do [ -f "models/kokoro/$f" ] || curl -sSfL -o "models/kokoro/$f" \
+  "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f" >/dev/null 2>&1 & done
 wait
 python3 .claude/skills/it-reelsmaker/scripts/doctor.py --remotion reels 2>&1 | tail -1
 exit 0

@@ -1,0 +1,74 @@
+[
+ {
+  "n": 1,
+  "texto": "La vida no te espera.",
+  "archivo": "frase_01.wav",
+  "dur": 1.579
+ },
+ {
+  "n": 2,
+  "texto": "No te pregunta si estás listo.",
+  "archivo": "frase_02.wav",
+  "dur": 2.005
+ },
+ {
+  "n": 3,
+  "texto": "Solo te muestra el camino, y te deja elegir.",
+  "archivo": "frase_03.wav",
+  "dur": 2.795
+ },
+ {
+  "n": 4,
+  "texto": "Puedes quedarte mirando desde la orilla.",
+  "archivo": "frase_04.wav",
+  "dur": 2.624
+ },
+ {
+  "n": 5,
+  "texto": "O puedes encender el motor.",
+  "archivo": "frase_05.wav",
+  "dur": 1.941
+ },
+ {
+  "n": 6,
+  "texto": "Cada kilómetro es una decisión.",
+  "archivo": "frase_06.wav",
+  "dur": 2.261
+ },
+ {
+  "n": 7,
+  "texto": "Cada curva, una prueba.",
+  "archivo": "frase_07.wav",
+  "dur": 1.728
+ },
+ {
+  "n": 8,
+  "texto": "Y no importa qué tan lejos esté la meta.",
+  "archivo": "frase_08.wav",
+  "dur": 2.645
+ },
+ {
+  "n": 9,
+  "texto": "Lo que importa es con quién la recorres.",
+  "archivo": "frase_09.wav",
+  "dur": 2.389
+ },
+ {
+  "n": 10,
+  "texto": "Acelera.",
+  "archivo": "frase_10.wav",
+  "dur": 0.832
+ },
+ {
+  "n": 11,
+  "texto": "Vive.",
+  "archivo": "frase_11.wav",
+  "dur": 0.683
+ },
+ {
+  "n": 12,
+  "texto": "Que el camino sea tu historia.",
+  "archivo": "frase_12.wav",
+  "dur": 1.941
+ }
+]
