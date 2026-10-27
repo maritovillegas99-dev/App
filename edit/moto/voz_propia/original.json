@@ -1,0 +1,397 @@
+{
+ "language_code": "es",
+ "text": "La vida no te espera, no te pregunta si estás listo, solo te muestra el camino y te deja elegir. Puedes quedarte mirando desde la orilla o puedes encender el motor. Cada kilómetro es una decisión, cada curva una prueba. Y no importa qué tan lejos esté la meta, lo que importa es con quién la recorres. Acelera. Vive que el camino sea tu historia.",
+ "words": [
+  {
+   "text": "La",
+   "start": 1.2,
+   "end": 1.52,
+   "type": "word"
+  },
+  {
+   "text": "vida",
+   "start": 1.52,
+   "end": 1.84,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 2.16,
+   "end": 2.48,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 2.48,
+   "end": 2.8,
+   "type": "word"
+  },
+  {
+   "text": "espera,",
+   "start": 2.8,
+   "end": 3.28,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 3.52,
+   "end": 3.76,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 3.76,
+   "end": 3.92,
+   "type": "word"
+  },
+  {
+   "text": "pregunta",
+   "start": 3.92,
+   "end": 4.4,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 4.56,
+   "end": 4.8,
+   "type": "word"
+  },
+  {
+   "text": "estás",
+   "start": 4.8,
+   "end": 5.12,
+   "type": "word"
+  },
+  {
+   "text": "listo,",
+   "start": 5.12,
+   "end": 5.44,
+   "type": "word"
+  },
+  {
+   "text": "solo",
+   "start": 5.68,
+   "end": 5.76,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 5.92,
+   "end": 6.08,
+   "type": "word"
+  },
+  {
+   "text": "muestra",
+   "start": 6.08,
+   "end": 6.56,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 6.56,
+   "end": 6.72,
+   "type": "word"
+  },
+  {
+   "text": "camino",
+   "start": 6.72,
+   "end": 7.2,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 7.28,
+   "end": 7.52,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 7.52,
+   "end": 7.68,
+   "type": "word"
+  },
+  {
+   "text": "deja",
+   "start": 7.68,
+   "end": 8.08,
+   "type": "word"
+  },
+  {
+   "text": "elegir.",
+   "start": 8.08,
+   "end": 8.64,
+   "type": "word"
+  },
+  {
+   "text": "Puedes",
+   "start": 8.96,
+   "end": 9.44,
+   "type": "word"
+  },
+  {
+   "text": "quedarte",
+   "start": 9.44,
+   "end": 9.84,
+   "type": "word"
+  },
+  {
+   "text": "mirando",
+   "start": 9.92,
+   "end": 10.32,
+   "type": "word"
+  },
+  {
+   "text": "desde",
+   "start": 10.32,
+   "end": 10.56,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 10.56,
+   "end": 10.72,
+   "type": "word"
+  },
+  {
+   "text": "orilla",
+   "start": 10.72,
+   "end": 11.12,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 11.2,
+   "end": 11.44,
+   "type": "word"
+  },
+  {
+   "text": "puedes",
+   "start": 11.44,
+   "end": 11.84,
+   "type": "word"
+  },
+  {
+   "text": "encender",
+   "start": 11.84,
+   "end": 12.24,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 12.4,
+   "end": 12.56,
+   "type": "word"
+  },
+  {
+   "text": "motor.",
+   "start": 12.56,
+   "end": 13.12,
+   "type": "word"
+  },
+  {
+   "text": "Cada",
+   "start": 13.36,
+   "end": 13.76,
+   "type": "word"
+  },
+  {
+   "text": "kilómetro",
+   "start": 13.76,
+   "end": 14.48,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 14.48,
+   "end": 14.72,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 14.72,
+   "end": 14.96,
+   "type": "word"
+  },
+  {
+   "text": "decisión,",
+   "start": 14.96,
+   "end": 15.52,
+   "type": "word"
+  },
+  {
+   "text": "cada",
+   "start": 15.84,
+   "end": 16.0,
+   "type": "word"
+  },
+  {
+   "text": "curva",
+   "start": 16.16,
+   "end": 16.72,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 16.88,
+   "end": 17.2,
+   "type": "word"
+  },
+  {
+   "text": "prueba.",
+   "start": 17.2,
+   "end": 17.76,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 18.08,
+   "end": 18.32,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 18.32,
+   "end": 18.48,
+   "type": "word"
+  },
+  {
+   "text": "importa",
+   "start": 18.48,
+   "end": 18.96,
+   "type": "word"
+  },
+  {
+   "text": "qué",
+   "start": 18.96,
+   "end": 19.2,
+   "type": "word"
+  },
+  {
+   "text": "tan",
+   "start": 19.2,
+   "end": 19.44,
+   "type": "word"
+  },
+  {
+   "text": "lejos",
+   "start": 19.44,
+   "end": 19.84,
+   "type": "word"
+  },
+  {
+   "text": "esté",
+   "start": 19.84,
+   "end": 20.16,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 20.16,
+   "end": 20.32,
+   "type": "word"
+  },
+  {
+   "text": "meta,",
+   "start": 20.32,
+   "end": 20.56,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 20.96,
+   "end": 21.2,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 21.2,
+   "end": 21.36,
+   "type": "word"
+  },
+  {
+   "text": "importa",
+   "start": 21.36,
+   "end": 21.92,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 21.92,
+   "end": 22.24,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 22.24,
+   "end": 22.48,
+   "type": "word"
+  },
+  {
+   "text": "quién",
+   "start": 22.48,
+   "end": 22.88,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 22.88,
+   "end": 23.12,
+   "type": "word"
+  },
+  {
+   "text": "recorres.",
+   "start": 23.12,
+   "end": 23.84,
+   "type": "word"
+  },
+  {
+   "text": "Acelera.",
+   "start": 24.16,
+   "end": 24.64,
+   "type": "word"
+  },
+  {
+   "text": "Vive",
+   "start": 25.19,
+   "end": 25.75,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 25.99,
+   "end": 26.23,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 26.23,
+   "end": 26.39,
+   "type": "word"
+  },
+  {
+   "text": "camino",
+   "start": 26.39,
+   "end": 26.95,
+   "type": "word"
+  },
+  {
+   "text": "sea",
+   "start": 26.95,
+   "end": 27.35,
+   "type": "word"
+  },
+  {
+   "text": "tu",
+   "start": 27.35,
+   "end": 27.67,
+   "type": "word"
+  },
+  {
+   "text": "historia.",
+   "start": 27.67,
+   "end": 28.23,
+   "type": "word"
+  }
+ ],
+ "transcriber": "parakeet-tdt-0.6b-v3 (sherpa-onnx)"
+}

@@ -1,0 +1,435 @@
+[
+ {
+  "n": 1,
+  "texto": "La vida no te espera.",
+  "start": 0.4,
+  "end": 2.66,
+  "archivo": "frase_01.wav",
+  "words": [
+   {
+    "text": "La",
+    "start": 0.46,
+    "end": 0.78
+   },
+   {
+    "text": "vida",
+    "start": 0.78,
+    "end": 1.1
+   },
+   {
+    "text": "no",
+    "start": 1.42,
+    "end": 1.74
+   },
+   {
+    "text": "te",
+    "start": 1.74,
+    "end": 2.06
+   },
+   {
+    "text": "espera.",
+    "start": 2.06,
+    "end": 2.54
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "texto": "No te pregunta si estás listo.",
+  "start": 2.78,
+  "end": 4.88,
+  "archivo": "frase_02.wav",
+  "words": [
+   {
+    "text": "No",
+    "start": 2.84,
+    "end": 3.08
+   },
+   {
+    "text": "te",
+    "start": 3.08,
+    "end": 3.24
+   },
+   {
+    "text": "pregunta",
+    "start": 3.24,
+    "end": 3.72
+   },
+   {
+    "text": "si",
+    "start": 3.88,
+    "end": 4.12
+   },
+   {
+    "text": "estás",
+    "start": 4.12,
+    "end": 4.44
+   },
+   {
+    "text": "listo.",
+    "start": 4.44,
+    "end": 4.76
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "texto": "Solo te muestra el camino, y te deja elegir.",
+  "start": 5.0,
+  "end": 8.14,
+  "archivo": "frase_03.wav",
+  "words": [
+   {
+    "text": "Solo",
+    "start": 5.06,
+    "end": 5.14
+   },
+   {
+    "text": "te",
+    "start": 5.3,
+    "end": 5.46
+   },
+   {
+    "text": "muestra",
+    "start": 5.46,
+    "end": 5.94
+   },
+   {
+    "text": "el",
+    "start": 5.94,
+    "end": 6.1
+   },
+   {
+    "text": "camino,",
+    "start": 6.1,
+    "end": 6.58
+   },
+   {
+    "text": "y",
+    "start": 6.66,
+    "end": 6.9
+   },
+   {
+    "text": "te",
+    "start": 6.9,
+    "end": 7.06
+   },
+   {
+    "text": "deja",
+    "start": 7.06,
+    "end": 7.46
+   },
+   {
+    "text": "elegir.",
+    "start": 7.46,
+    "end": 8.02
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "texto": "Puedes quedarte mirando desde la orilla.",
+  "start": 8.26,
+  "end": 10.53,
+  "archivo": "frase_04.wav",
+  "words": [
+   {
+    "text": "Puedes",
+    "start": 8.32,
+    "end": 8.8
+   },
+   {
+    "text": "quedarte",
+    "start": 8.8,
+    "end": 9.2
+   },
+   {
+    "text": "mirando",
+    "start": 9.28,
+    "end": 9.68
+   },
+   {
+    "text": "desde",
+    "start": 9.68,
+    "end": 9.92
+   },
+   {
+    "text": "la",
+    "start": 9.92,
+    "end": 10.08
+   },
+   {
+    "text": "orilla.",
+    "start": 10.08,
+    "end": 10.48
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "texto": "O puedes encender el motor.",
+  "start": 10.65,
+  "end": 12.74,
+  "archivo": "frase_05.wav",
+  "words": [
+   {
+    "text": "O",
+    "start": 10.7,
+    "end": 10.94
+   },
+   {
+    "text": "puedes",
+    "start": 10.94,
+    "end": 11.34
+   },
+   {
+    "text": "encender",
+    "start": 11.34,
+    "end": 11.74
+   },
+   {
+    "text": "el",
+    "start": 11.9,
+    "end": 12.06
+   },
+   {
+    "text": "motor.",
+    "start": 12.06,
+    "end": 12.62
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "texto": "Cada kilómetro es una decisión.",
+  "start": 13.0,
+  "end": 15.34,
+  "archivo": "frase_06.wav",
+  "words": [
+   {
+    "text": "Cada",
+    "start": 13.06,
+    "end": 13.46
+   },
+   {
+    "text": "kilómetro",
+    "start": 13.46,
+    "end": 14.18
+   },
+   {
+    "text": "es",
+    "start": 14.18,
+    "end": 14.42
+   },
+   {
+    "text": "una",
+    "start": 14.42,
+    "end": 14.66
+   },
+   {
+    "text": "decisión.",
+    "start": 14.66,
+    "end": 15.22
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "texto": "Cada curva, una prueba.",
+  "start": 15.5,
+  "end": 17.6,
+  "archivo": "frase_07.wav",
+  "words": [
+   {
+    "text": "Cada",
+    "start": 15.56,
+    "end": 15.72
+   },
+   {
+    "text": "curva,",
+    "start": 15.88,
+    "end": 16.44
+   },
+   {
+    "text": "una",
+    "start": 16.6,
+    "end": 16.92
+   },
+   {
+    "text": "prueba.",
+    "start": 16.92,
+    "end": 17.48
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "texto": "Y no importa qué tan lejos esté la meta.",
+  "start": 17.72,
+  "end": 20.38,
+  "archivo": "frase_08.wav",
+  "words": [
+   {
+    "text": "Y",
+    "start": 17.78,
+    "end": 18.02
+   },
+   {
+    "text": "no",
+    "start": 18.02,
+    "end": 18.18
+   },
+   {
+    "text": "importa",
+    "start": 18.18,
+    "end": 18.66
+   },
+   {
+    "text": "qué",
+    "start": 18.66,
+    "end": 18.9
+   },
+   {
+    "text": "tan",
+    "start": 18.9,
+    "end": 19.14
+   },
+   {
+    "text": "lejos",
+    "start": 19.14,
+    "end": 19.54
+   },
+   {
+    "text": "esté",
+    "start": 19.54,
+    "end": 19.86
+   },
+   {
+    "text": "la",
+    "start": 19.86,
+    "end": 20.02
+   },
+   {
+    "text": "meta.",
+    "start": 20.02,
+    "end": 20.26
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "texto": "Lo que importa es con quién la recorres.",
+  "start": 20.5,
+  "end": 23.56,
+  "archivo": "frase_09.wav",
+  "words": [
+   {
+    "text": "Lo",
+    "start": 20.56,
+    "end": 20.8
+   },
+   {
+    "text": "que",
+    "start": 20.8,
+    "end": 20.96
+   },
+   {
+    "text": "importa",
+    "start": 20.96,
+    "end": 21.52
+   },
+   {
+    "text": "es",
+    "start": 21.52,
+    "end": 21.84
+   },
+   {
+    "text": "con",
+    "start": 21.84,
+    "end": 22.08
+   },
+   {
+    "text": "quién",
+    "start": 22.08,
+    "end": 22.48
+   },
+   {
+    "text": "la",
+    "start": 22.48,
+    "end": 22.72
+   },
+   {
+    "text": "recorres.",
+    "start": 22.72,
+    "end": 23.44
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "texto": "Acelera.",
+  "start": 23.68,
+  "end": 24.34,
+  "archivo": "frase_10.wav",
+  "words": [
+   {
+    "text": "Acelera.",
+    "start": 23.74,
+    "end": 24.22
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "texto": "Vive.",
+  "start": 24.8,
+  "end": 25.54,
+  "archivo": "frase_11.wav",
+  "words": [
+   {
+    "text": "Vive.",
+    "start": 24.86,
+    "end": 25.42
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "texto": "Que el camino sea tu historia.",
+  "start": 26.3,
+  "end": 28.72,
+  "archivo": "frase_12.wav",
+  "words": [
+   {
+    "text": "Que",
+    "start": 26.36,
+    "end": 26.6
+   },
+   {
+    "text": "el",
+    "start": 26.6,
+    "end": 26.76
+   },
+   {
+    "text": "camino",
+    "start": 26.76,
+    "end": 27.32
+   },
+   {
+    "text": "sea",
+    "start": 27.32,
+    "end": 27.72
+   },
+   {
+    "text": "tu",
+    "start": 27.72,
+    "end": 28.04
+   },
+   {
+    "text": "historia.",
+    "start": 28.04,
+    "end": 28.6
+   }
+  ]
+ }
+]

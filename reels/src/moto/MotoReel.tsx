@@ -22,8 +22,8 @@ const { fontFamily } = loadFont("normal", { weights: ["400"], subsets: ["latin",
 export const FPS = 30;
 export const DURATION = 30 * FPS;
 const AMBER = "#F5B83D";
-const CLIMAX = 22.85; // golpe de "Acelera"
-const HIT = 24.62; // golpe de "Vive al máximo"
+const CLIMAX = 23.6; // golpe de "Acelera"
+const HIT = 24.75; // golpe de "Vive"
 const FADE_OUT = [25.9, 26.5]; // el video se va a negro antes de la frase final
 const BAND_Y = 1385; // centro de la franja de subtítulos (y 1290–1490, fuera de la UI de las apps)
 
@@ -152,7 +152,7 @@ export const MotoReel: React.FC = () => (
     <CameraMotionBlur shutterAngle={180} samples={6}>
       <Captions />
     </CameraMotionBlur>
-    <Audio src={staticFile("moto/mezcla.wav")} />
+    <Audio src={staticFile("moto/mezcla_v4.wav")} />
   </AbsoluteFill>
 );
 
