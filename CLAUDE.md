@@ -20,6 +20,7 @@ usuario en español.
 ## Qué hacer según lo que pida el usuario
 
 - Sube referentes o pide "analiza mi estilo" → skill `editor-ia-estilo` (Paso 3).
+- No tiene estilo ni referentes y pide una propuesta → `editor-ia-estilo`, sección "Sin referentes".
 - Sube un video crudo o pide "edita mi video" → skill `editor-ia-editar` (Paso 4).
 - Pide una corrección ("corta la pausa del segundo 12") → `editor-ia-editar`, nueva versión.
 - Archivos subidos por el chat: copiarlos a la carpeta correcta antes de trabajar.
