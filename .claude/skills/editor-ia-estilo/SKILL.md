@@ -18,7 +18,7 @@ Antes de empezar:
    sola tanda (máximo 4 preguntas de opción múltiple, con tu recomendación).
 
 Herramientas: transcripción con `faster-whisper` (o
-`.claude/skills/it-reelsmaker/scripts/transcribe.py`), hojas de contacto y cortes con
+`.claude/skills/it-reelsmaker/scripts/transcribe.py`; sin Hugging Face, `tools/transcribe_parakeet.py`), hojas de contacto y cortes con
 ffmpeg (`-vf "fps=4,scale=270:-1,tile=6x4"`, `select='gt(scene,0.3)'`), colores
 medidos con Pillow sobre los frames. Mide, no adivines.
 

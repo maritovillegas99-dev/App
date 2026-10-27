@@ -17,6 +17,11 @@ Preparación:
 3. Datos de [MI VIDEO] que falten: pregúntalos junto con tus dudas, máximo 4
    preguntas de opción múltiple con tu recomendación marcada.
 
+Transcripción: si el modelo de faster-whisper no se puede descargar (Hugging Face bloqueado en
+la nube), usa el respaldo local: `python3 .claude/skills/it-reelsmaker/scripts/transcribe.py audio edit/<id> <fuente>`
+y luego `python3 tools/transcribe_parakeet.py <wav> edit/<id>/transcripts/<stem>.json`, y valida con
+`transcribe.py check`.
+
 Mapa de skills (orden del FLUJO):
 
 | Paso | Skill | Para qué |

@@ -33,6 +33,8 @@ usuario en español.
 - **HyperFrames** (`hyperframes`, `hyperframes-cli`, `hyperframes-registry`): motion graphics HTML, vía `npx hyperframes`.
 - **Media Use** (`media-use`): música, efectos de sonido y mezcla.
 - **yt-dlp**: descarga de referentes desde links (solo para estudiar el estilo).
+- **Transcriptor de respaldo** (`tools/transcribe_parakeet.py`, Parakeet v3 vía sherpa-onnx): se usa cuando
+  faster-whisper no tiene su modelo (Hugging Face bloqueado en la nube). Mismo formato que `transcribe.py check`.
 
 ## Entorno
 
