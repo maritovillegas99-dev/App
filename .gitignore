@@ -1,0 +1,4 @@
+node_modules/
+reels/out/
+__pycache__/
+.DS_Store
