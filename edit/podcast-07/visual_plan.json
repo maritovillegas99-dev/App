@@ -1,0 +1,378 @@
+{
+ "schema": 1,
+ "id": "podcast-07",
+ "created": "2026-10-29T22:37",
+ "duration": 45.3,
+ "segments": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 5.723,
+   "text": "¿Cuál es el péptido que más te preocupa en este momento que la gente esté inyectando?",
+   "cut_segs": [
+    0,
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "hook: the first 1.5 s decide whether people keep watching"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 5.723,
+   "end": 8.183,
+   "text": "—Lo que más me preocupa en este momento",
+   "cut_segs": [
+    1,
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 6.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s03",
+   "start": 8.183,
+   "end": 12.156,
+   "text": "de los péptidos, son específicamente de los péptidos para bajar de peso.",
+   "cut_segs": [
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 12.156,
+   "end": 14.9,
+   "text": "Porque yo he tenido pacientes que me llegan y me dicen, no,",
+   "cut_segs": [
+    2,
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 6.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s05",
+   "start": 14.9,
+   "end": 18.327,
+   "text": "el gimnasio, el gimnasio del entrenador me vendió este péptido.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 18.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s06",
+   "start": 18.327,
+   "end": 23.466,
+   "text": "Estoy súper feliz porque he bajado 5 kilos en dos semanas, 5 kilos en dos semanas,",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 18.3 s segment without a cut: room for a change of picture",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s07",
+   "start": 23.466,
+   "end": 26.906,
+   "text": "no me da casi hambre, estoy comiendo una sola vez al día y felices.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 18.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s08",
+   "start": 26.906,
+   "end": 28.506,
+   "text": "Yo pregunto, ¿estás entrenando?",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 18.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s09",
+   "start": 28.506,
+   "end": 33.2,
+   "text": "No, la energía no me da, pues obviamente no te va la energía si estás comiendo una sola vez al día.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 18.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s10",
+   "start": 33.2,
+   "end": 37.52,
+   "text": "Y si pones al metabolismo en ese estrés tan severo, no vas a dormir",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 12.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s11",
+   "start": 37.52,
+   "end": 41.37,
+   "text": "bien, no te vas a recuperar bien, vas a perder músculo.",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 12.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 41.37,
+   "end": 43.61,
+   "text": "Y al final cuando suspendas el medicamento",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 12.1 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 43.61,
+   "end": 45.3,
+   "text": "vas a quedar con menos músculo.",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 12.1 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  }
+ ],
+ "inserts": [],
+ "keep_clear": [],
+ "captions_id": "9566e5684659",
+ "brand": "podcast-peptidos",
+ "settings": {
+  "brand": "podcast-peptidos",
+  "style": null,
+  "subtitles": "none",
+  "subtitles_shade": null,
+  "profile": null,
+  "content_format": null,
+  "intensity": "moderate",
+  "use_broll": false,
+  "use_project_footage": true,
+  "use_local_footage": true,
+  "use_code_scenes": true,
+  "use_memes": false,
+  "use_local_memes": true,
+  "broll_priority": [
+   "project",
+   "local",
+   "generated"
+  ],
+  "meme_priority": [
+   "local"
+  ],
+  "footage_dirs": [
+   "footage",
+   "broll"
+  ],
+  "memes_dirs": [
+   "memes"
+  ],
+  "generation_engines": [
+   "code"
+  ],
+  "library_dirs": [],
+  "meme_size": "s",
+  "scene_tone": "calm",
+  "use_scenes": false,
+  "workflow": "standard",
+  "use_generated_footage": true,
+  "brand_tone": {
+   "label": "Expert, calm",
+   "for": "consulting, recruiting, education, B2B expertise",
+   "intensity": "moderate",
+   "motion": "calm",
+   "loudness": "calm",
+   "memes": {
+    "allowed": true,
+    "max": 1,
+    "size_max": "s",
+    "cutaway": false
+   },
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "shake": false,
+   "overshoot": false,
+   "full_scenes_max": 2,
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "scene_tone": "calm",
+   "sfx": "sparse",
+   "preset": "expert"
+  },
+  "profile_rules": null
+ },
+ "provenance": {
+  "brand": "reel.json",
+  "style": "defaults",
+  "subtitles": "reel.json",
+  "subtitles_shade": "defaults",
+  "profile": "defaults",
+  "content_format": "defaults",
+  "intensity": "tone:expert",
+  "use_broll": "defaults",
+  "use_project_footage": "defaults",
+  "use_local_footage": "defaults",
+  "use_code_scenes": "defaults",
+  "use_memes": "defaults",
+  "use_local_memes": "defaults",
+  "broll_priority": "defaults",
+  "meme_priority": "defaults",
+  "footage_dirs": "defaults",
+  "memes_dirs": "defaults",
+  "generation_engines": "defaults",
+  "library_dirs": "defaults",
+  "meme_size": "tone:expert",
+  "scene_tone": "tone:expert",
+  "use_scenes": "defaults",
+  "workflow": "defaults",
+  "brand_tone": "brand:podcast-peptidos"
+ },
+ "effective": {
+  "broll": false,
+  "project_footage": false,
+  "local_footage": false,
+  "generated_code": false,
+  "memes": false,
+  "local_memes": false,
+  "scenes": false,
+  "online_footage": false,
+  "generated_prompts": false,
+  "generate_now": false,
+  "online_memes": false,
+  "online_footage_providers": [],
+  "online_meme_providers": []
+ },
+ "fallback": {
+  "broll": "use_broll=false",
+  "project_footage": "off",
+  "local_footage": "off",
+  "generated_code": "off",
+  "memes": "use_memes=false",
+  "local_memes": "off",
+  "scenes": "use_scenes=false",
+  "online_footage": "off",
+  "generated_prompts": "off",
+  "generate_now": "off",
+  "online_memes": "off"
+ },
+ "budget": {
+  "label": "moderate",
+  "broll_per_30s": 3,
+  "memes_max": 2,
+  "coverage_max": 0.22,
+  "min_gap_s": 3.5,
+  "broll_max": 5,
+  "coverage_max_s": 9.97
+ },
+ "auto": true,
+ "subtitles_band": [
+  1250,
+  1430
+ ],
+ "export": {
+  "hook": null,
+  "corner": false,
+  "end": null
+ }
+}
