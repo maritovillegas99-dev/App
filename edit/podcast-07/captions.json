@@ -169,60 +169,46 @@
    "seg": 0
   },
   {
-   "text": "inyectando?",
    "src": 7.963,
+   "seg": 1,
+   "text": "inyectando?",
    "start": 4.933,
-   "end": 5.9,
-   "seg": 1
+   "end": 5.723
   },
   {
-   "text": "el",
-   "src": 3.03,
-   "start": 5.9,
-   "end": 6.023,
-   "seg": 2
+   "src": 7.963,
+   "seg": 1,
+   "text": "—Lo",
+   "start": 5.723,
+   "end": 5.986
   },
   {
-   "text": "de",
-   "src": 3.35,
-   "start": 6.183,
-   "end": 6.343,
-   "seg": 2
-  },
-  {
-   "text": "lo",
-   "src": 3.51,
-   "start": 6.343,
-   "end": 6.503,
-   "seg": 2
-  },
-  {
+   "src": 7.963,
+   "seg": 1,
    "text": "que",
-   "src": 3.67,
-   "start": 6.503,
-   "end": 6.663,
-   "seg": 2
+   "start": 5.986,
+   "end": 6.25
   },
   {
+   "src": 7.963,
+   "seg": 1,
    "text": "más",
-   "src": 3.83,
-   "start": 6.663,
-   "end": 6.823,
-   "seg": 2
+   "start": 6.25,
+   "end": 6.513
   },
   {
+   "src": 7.963,
+   "seg": 1,
    "text": "me",
-   "src": 3.99,
-   "start": 6.823,
-   "end": 6.903,
-   "seg": 2
+   "start": 6.513,
+   "end": 6.711
   },
   {
+   "src": 7.963,
+   "seg": 1,
    "text": "preocupa",
-   "src": 4.07,
-   "start": 6.903,
-   "end": 7.303,
-   "seg": 2
+   "start": 6.711,
+   "end": 7.303
   },
   {
    "text": "en",
@@ -323,32 +309,32 @@
    "seg": 2
   },
   {
-   "text": "peso.",
    "src": 9.11,
+   "seg": 2,
+   "text": "peso.",
    "start": 11.943,
-   "end": 12.133,
-   "seg": 2
+   "end": 12.156
   },
   {
-   "text": "porque",
-   "src": 3.023,
-   "start": 12.133,
-   "end": 12.216,
-   "seg": 3
+   "src": 9.11,
+   "seg": 2,
+   "text": "Porque",
+   "start": 12.156,
+   "end": 12.403
   },
   {
+   "src": 9.11,
+   "seg": 2,
    "text": "yo",
-   "src": 3.343,
-   "start": 12.376,
-   "end": 12.536,
-   "seg": 3
+   "start": 12.403,
+   "end": 12.51
   },
   {
+   "src": 9.11,
+   "seg": 2,
    "text": "he",
-   "src": 3.503,
-   "start": 12.536,
-   "end": 12.616,
-   "seg": 3
+   "start": 12.51,
+   "end": 12.616
   },
   {
    "text": "tenido",
@@ -470,32 +456,25 @@
    "seg": 4
   },
   {
-   "text": "este",
    "src": 8.703,
+   "seg": 4,
+   "text": "este",
    "start": 17.536,
-   "end": 17.616,
-   "seg": 4
+   "end": 17.819
   },
   {
-   "text": "pep.",
-   "src": 8.863,
-   "start": 17.696,
-   "end": 17.936,
-   "seg": 4
+   "src": 8.703,
+   "seg": 4,
+   "text": "péptido.",
+   "start": 17.819,
+   "end": 18.327
   },
   {
-   "text": "Tío,",
-   "src": 9.353,
-   "start": 18.186,
-   "end": 18.426,
-   "seg": 4
-  },
-  {
-   "text": "estoy",
-   "src": 9.673,
-   "start": 18.506,
-   "end": 18.666,
-   "seg": 4
+   "src": 8.703,
+   "seg": 4,
+   "text": "Estoy",
+   "start": 18.327,
+   "end": 18.666
   },
   {
    "text": "súper",
@@ -876,25 +855,25 @@
    "seg": 4
   },
   {
-   "text": "Ya",
    "src": 24.633,
+   "seg": 5,
+   "text": "Y",
    "start": 33.2,
-   "end": 33.44,
-   "seg": 5
+   "end": 33.433
   },
   {
+   "src": 24.633,
+   "seg": 5,
    "text": "si",
-   "src": 25.113,
-   "start": 33.68,
-   "end": 33.92,
-   "seg": 5
+   "start": 33.433,
+   "end": 33.782
   },
   {
+   "src": 24.633,
+   "seg": 5,
    "text": "pones",
-   "src": 25.513,
-   "start": 34.08,
-   "end": 34.48,
-   "seg": 5
+   "start": 33.782,
+   "end": 34.48
   },
   {
    "text": "al",
@@ -1128,18 +1107,18 @@
    "seg": 5
   },
   {
-   "text": "menos",
    "src": 35.923,
+   "seg": 5,
+   "text": "menos",
    "start": 44.49,
-   "end": 44.81,
-   "seg": 5
+   "end": 44.81
   },
   {
-   "text": "músculo,",
-   "src": 36.243,
+   "src": 35.923,
+   "seg": 5,
+   "text": "músculo.",
    "start": 44.81,
-   "end": 45.29,
-   "seg": 5
+   "end": 45.29
   }
  ],
  "leveling": {
@@ -1196,5 +1175,6 @@
    }
   },
   "max_gain_db": 4.75
- }
+ },
+ "fixed": 5
 }
