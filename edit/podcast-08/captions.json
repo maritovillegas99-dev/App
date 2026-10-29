@@ -74,39 +74,25 @@
  ],
  "words": [
   {
-   "text": "Pero",
    "src": 1.247,
+   "seg": 0,
+   "text": "¿Pero",
    "start": 0.114,
-   "end": 0.194,
-   "seg": 0
+   "end": 0.525
   },
   {
+   "src": 1.247,
+   "seg": 0,
    "text": "es",
-   "src": 1.407,
-   "start": 0.274,
-   "end": 0.354,
-   "seg": 0
+   "start": 0.525,
+   "end": 0.731
   },
   {
-   "text": "sostenible,",
-   "src": 1.567,
-   "start": 0.434,
-   "end": 1.074,
-   "seg": 0
-  },
-  {
-   "text": "o",
-   "src": 2.367,
-   "start": 1.234,
-   "end": 1.394,
-   "seg": 0
-  },
-  {
-   "text": "sea.",
-   "src": 2.527,
-   "start": 1.394,
-   "end": 1.554,
-   "seg": 0
+   "src": 1.247,
+   "seg": 0,
+   "text": "sostenible?",
+   "start": 0.731,
+   "end": 1.554
   },
   {
    "text": "No,",
@@ -144,39 +130,32 @@
    "seg": 0
   },
   {
-   "text": "estos",
    "src": 4.367,
+   "seg": 0,
+   "text": "estos",
    "start": 3.234,
-   "end": 3.634,
-   "seg": 0
+   "end": 3.803
   },
   {
-   "text": "térpidos",
-   "src": 4.767,
-   "start": 3.634,
-   "end": 4.274,
-   "seg": 0
+   "src": 4.367,
+   "seg": 0,
+   "text": "péptidos",
+   "start": 3.803,
+   "end": 4.656
   },
   {
-   "text": "de",
-   "src": 5.887,
-   "start": 4.754,
-   "end": 4.994,
-   "seg": 0
-  },
-  {
+   "src": 4.367,
+   "seg": 0,
    "text": "para",
-   "src": 6.367,
-   "start": 5.234,
-   "end": 5.474,
-   "seg": 0
+   "start": 4.656,
+   "end": 5.13
   },
   {
+   "src": 4.367,
+   "seg": 0,
    "text": "perder",
-   "src": 6.607,
-   "start": 5.474,
-   "end": 5.794,
-   "seg": 0
+   "start": 5.13,
+   "end": 5.794
   },
   {
    "text": "peso",
@@ -221,60 +200,53 @@
    "seg": 0
   },
   {
-   "text": "Porque",
    "src": 9.247,
+   "seg": 0,
+   "text": "Porque",
    "start": 8.114,
-   "end": 8.514,
-   "seg": 0
+   "end": 8.645
   },
   {
+   "src": 9.247,
+   "seg": 0,
+   "text": "te",
+   "start": 8.645,
+   "end": 8.873
+  },
+  {
+   "src": 9.247,
+   "seg": 0,
    "text": "lo",
-   "src": 10.127,
-   "start": 8.794,
-   "end": 8.954,
-   "seg": 1
+   "start": 8.873,
+   "end": 9.1
   },
   {
+   "src": 9.247,
+   "seg": 0,
    "text": "juro",
-   "src": 10.287,
-   "start": 8.954,
-   "end": 9.194,
-   "seg": 1
+   "start": 9.1,
+   "end": 9.48
   },
   {
+   "src": 9.247,
+   "seg": 0,
    "text": "que",
-   "src": 10.607,
-   "start": 9.274,
-   "end": 9.514,
-   "seg": 1
+   "start": 9.48,
+   "end": 9.783
   },
   {
+   "src": 9.247,
+   "seg": 0,
    "text": "el",
-   "src": 10.847,
-   "start": 9.514,
-   "end": 9.674,
-   "seg": 1
+   "start": 9.783,
+   "end": 10.011
   },
   {
-   "text": "ochenta",
-   "src": 11.007,
-   "start": 9.674,
-   "end": 9.914,
-   "seg": 1
-  },
-  {
-   "text": "por",
-   "src": 11.407,
-   "start": 10.074,
-   "end": 10.154,
-   "seg": 1
-  },
-  {
-   "text": "ciento",
-   "src": 11.487,
-   "start": 10.154,
-   "end": 10.314,
-   "seg": 1
+   "src": 9.247,
+   "seg": 0,
+   "text": "80%",
+   "start": 10.011,
+   "end": 10.314
   },
   {
    "text": "de",
@@ -494,60 +466,32 @@
    "seg": 2
   },
   {
-   "text": "se",
    "src": 22.337,
+   "seg": 3,
+   "text": "Si",
    "start": 20.504,
-   "end": 20.664,
-   "seg": 3
+   "end": 20.776
   },
   {
-   "text": "les",
-   "src": 22.497,
-   "start": 20.664,
-   "end": 20.744,
-   "seg": 3
-  },
-  {
-   "text": "hizo,",
-   "src": 22.577,
-   "start": 20.744,
-   "end": 20.984,
-   "seg": 3
-  },
-  {
+   "src": 22.337,
+   "seg": 3,
    "text": "se",
-   "src": 22.817,
-   "start": 20.984,
-   "end": 21.064,
-   "seg": 3
+   "start": 20.776,
+   "end": 21.048
   },
   {
-   "text": "si",
-   "src": 22.977,
-   "start": 21.144,
-   "end": 21.224,
-   "seg": 3
-  },
-  {
-   "text": "se",
-   "src": 23.217,
-   "start": 21.384,
-   "end": 21.464,
-   "seg": 3
-  },
-  {
+   "src": 22.337,
+   "seg": 3,
    "text": "les",
-   "src": 23.297,
-   "start": 21.464,
-   "end": 21.624,
-   "seg": 3
+   "start": 21.048,
+   "end": 21.411
   },
   {
+   "src": 22.337,
+   "seg": 3,
    "text": "hizo",
-   "src": 23.457,
-   "start": 21.624,
-   "end": 21.864,
-   "seg": 3
+   "start": 21.411,
+   "end": 21.864
   },
   {
    "text": "una",
@@ -753,25 +697,25 @@
    "seg": 4
   },
   {
-   "text": "los",
    "src": 3.987,
+   "seg": 5,
+   "text": "los",
    "start": 29.4,
-   "end": 29.607,
-   "seg": 5
+   "end": 29.656
   },
   {
-   "text": "tóptidos",
-   "src": 4.307,
-   "start": 29.607,
-   "end": 30.327,
-   "seg": 5
+   "src": 3.987,
+   "seg": 5,
+   "text": "péptidos",
+   "start": 29.656,
+   "end": 30.231
   },
   {
+   "src": 3.987,
+   "seg": 5,
    "text": "son",
-   "src": 5.027,
-   "start": 30.327,
-   "end": 30.487,
-   "seg": 5
+   "start": 30.231,
+   "end": 30.487
   },
   {
    "text": "una",
@@ -802,39 +746,39 @@
    "seg": 5
   },
   {
-   "text": "pero",
    "src": 7.187,
+   "seg": 5,
+   "text": "pero",
    "start": 32.487,
-   "end": 32.727,
-   "seg": 5
+   "end": 32.829
   },
   {
+   "src": 7.187,
+   "seg": 5,
    "text": "no",
-   "src": 7.427,
-   "start": 32.727,
-   "end": 32.967,
-   "seg": 5
+   "start": 32.829,
+   "end": 33.034
   },
   {
-   "text": "es.",
-   "src": 7.667,
-   "start": 32.967,
-   "end": 33.127,
-   "seg": 5
+   "src": 7.187,
+   "seg": 5,
+   "text": "es",
+   "start": 33.034,
+   "end": 33.239
   },
   {
+   "src": 7.187,
+   "seg": 5,
    "text": "la",
-   "src": 8.397,
-   "start": 33.464,
-   "end": 33.704,
-   "seg": 6
+   "start": 33.239,
+   "end": 33.444
   },
   {
+   "src": 7.187,
+   "seg": 5,
    "text": "herramienta",
-   "src": 8.637,
-   "start": 33.704,
-   "end": 34.264,
-   "seg": 6
+   "start": 33.444,
+   "end": 34.264
   },
   {
    "text": "base,",
@@ -1283,5 +1227,6 @@
    }
   },
   "max_gain_db": 4.31
- }
+ },
+ "fixed": 6
 }

@@ -1,0 +1,1317 @@
+{
+ "video": "podcast-08/video.mp4",
+ "captions": {
+  "duration": 50.967,
+  "segments": [
+   {
+    "i": 0,
+    "source": "a",
+    "src_start": 1.133,
+    "src_end": 9.833,
+    "out_start": 0.0,
+    "out_dur": 8.7,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 1,
+    "source": "a",
+    "src_start": 10.033,
+    "src_end": 18.233,
+    "out_start": 8.7,
+    "out_dur": 8.2,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 2,
+    "source": "a",
+    "src_start": 18.467,
+    "src_end": 21.233,
+    "out_start": 16.9,
+    "out_dur": 2.767,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 3,
+    "source": "a",
+    "src_start": 21.5,
+    "src_end": 30.4,
+    "out_start": 19.667,
+    "out_dur": 8.9,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 4,
+    "source": "b",
+    "src_start": 3.0,
+    "src_end": 3.833,
+    "out_start": 28.567,
+    "out_dur": 0.833,
+    "speed": 1.0,
+    "beat": "piece b"
+   },
+   {
+    "i": 5,
+    "source": "b",
+    "src_start": 4.1,
+    "src_end": 7.933,
+    "out_start": 29.4,
+    "out_dur": 3.833,
+    "speed": 1.0,
+    "beat": "piece b"
+   },
+   {
+    "i": 6,
+    "source": "b",
+    "src_start": 8.167,
+    "src_end": 25.9,
+    "out_start": 33.233,
+    "out_dur": 17.733,
+    "speed": 1.0,
+    "beat": "piece b"
+   }
+  ],
+  "words": [
+   {
+    "src": 1.247,
+    "seg": 0,
+    "text": "¿Pero",
+    "start": 0.114,
+    "end": 0.525
+   },
+   {
+    "src": 1.247,
+    "seg": 0,
+    "text": "es",
+    "start": 0.525,
+    "end": 0.731
+   },
+   {
+    "src": 1.247,
+    "seg": 0,
+    "text": "sostenible?",
+    "start": 0.731,
+    "end": 1.554
+   },
+   {
+    "text": "No,",
+    "src": 3.007,
+    "start": 1.874,
+    "end": 2.034,
+    "seg": 0
+   },
+   {
+    "text": "y",
+    "src": 3.247,
+    "start": 2.114,
+    "end": 2.274,
+    "seg": 0
+   },
+   {
+    "text": "el",
+    "src": 3.407,
+    "start": 2.274,
+    "end": 2.514,
+    "seg": 0
+   },
+   {
+    "text": "tema",
+    "src": 3.647,
+    "start": 2.514,
+    "end": 2.834,
+    "seg": 0
+   },
+   {
+    "text": "con",
+    "src": 4.047,
+    "start": 2.914,
+    "end": 3.234,
+    "seg": 0
+   },
+   {
+    "src": 4.367,
+    "seg": 0,
+    "text": "estos",
+    "start": 3.234,
+    "end": 3.803
+   },
+   {
+    "src": 4.367,
+    "seg": 0,
+    "text": "péptidos",
+    "start": 3.803,
+    "end": 4.656
+   },
+   {
+    "src": 4.367,
+    "seg": 0,
+    "text": "para",
+    "start": 4.656,
+    "end": 5.13
+   },
+   {
+    "src": 4.367,
+    "seg": 0,
+    "text": "perder",
+    "start": 5.13,
+    "end": 5.794
+   },
+   {
+    "text": "peso",
+    "src": 7.087,
+    "start": 5.954,
+    "end": 6.274,
+    "seg": 0
+   },
+   {
+    "text": "no",
+    "src": 7.487,
+    "start": 6.354,
+    "end": 6.514,
+    "seg": 0
+   },
+   {
+    "text": "es",
+    "src": 7.647,
+    "start": 6.514,
+    "end": 6.834,
+    "seg": 0
+   },
+   {
+    "text": "que",
+    "src": 7.967,
+    "start": 6.834,
+    "end": 7.074,
+    "seg": 0
+   },
+   {
+    "text": "pierda",
+    "src": 8.207,
+    "start": 7.074,
+    "end": 7.394,
+    "seg": 0
+   },
+   {
+    "text": "peso.",
+    "src": 8.687,
+    "start": 7.554,
+    "end": 7.874,
+    "seg": 0
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "Porque",
+    "start": 8.114,
+    "end": 8.645
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "te",
+    "start": 8.645,
+    "end": 8.873
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "lo",
+    "start": 8.873,
+    "end": 9.1
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "juro",
+    "start": 9.1,
+    "end": 9.48
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "que",
+    "start": 9.48,
+    "end": 9.783
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "el",
+    "start": 9.783,
+    "end": 10.011
+   },
+   {
+    "src": 9.247,
+    "seg": 0,
+    "text": "80%",
+    "start": 10.011,
+    "end": 10.314
+   },
+   {
+    "text": "de",
+    "src": 11.647,
+    "start": 10.314,
+    "end": 10.394,
+    "seg": 1
+   },
+   {
+    "text": "los",
+    "src": 11.727,
+    "start": 10.394,
+    "end": 10.474,
+    "seg": 1
+   },
+   {
+    "text": "pacientes",
+    "src": 11.887,
+    "start": 10.554,
+    "end": 10.874,
+    "seg": 1
+   },
+   {
+    "text": "sí",
+    "src": 12.367,
+    "start": 11.034,
+    "end": 11.274,
+    "seg": 1
+   },
+   {
+    "text": "o",
+    "src": 12.607,
+    "start": 11.274,
+    "end": 11.434,
+    "seg": 1
+   },
+   {
+    "text": "sí",
+    "src": 12.767,
+    "start": 11.434,
+    "end": 11.594,
+    "seg": 1
+   },
+   {
+    "text": "pierden",
+    "src": 13.087,
+    "start": 11.754,
+    "end": 12.074,
+    "seg": 1
+   },
+   {
+    "text": "peso.",
+    "src": 13.567,
+    "start": 12.234,
+    "end": 12.554,
+    "seg": 1
+   },
+   {
+    "text": "El",
+    "src": 14.287,
+    "start": 12.954,
+    "end": 13.114,
+    "seg": 1
+   },
+   {
+    "text": "problema",
+    "src": 14.447,
+    "start": 13.114,
+    "end": 13.354,
+    "seg": 1
+   },
+   {
+    "text": "es",
+    "src": 14.767,
+    "start": 13.434,
+    "end": 13.514,
+    "seg": 1
+   },
+   {
+    "text": "cómo",
+    "src": 15.007,
+    "start": 13.674,
+    "end": 13.834,
+    "seg": 1
+   },
+   {
+    "text": "van",
+    "src": 15.247,
+    "start": 13.914,
+    "end": 14.074,
+    "seg": 1
+   },
+   {
+    "text": "a",
+    "src": 15.407,
+    "start": 14.074,
+    "end": 14.234,
+    "seg": 1
+   },
+   {
+    "text": "sostener",
+    "src": 15.567,
+    "start": 14.234,
+    "end": 14.714,
+    "seg": 1
+   },
+   {
+    "text": "esa",
+    "src": 16.047,
+    "start": 14.714,
+    "end": 14.874,
+    "seg": 1
+   },
+   {
+    "text": "pérdida",
+    "src": 16.207,
+    "start": 14.874,
+    "end": 15.194,
+    "seg": 1
+   },
+   {
+    "text": "de",
+    "src": 16.527,
+    "start": 15.194,
+    "end": 15.274,
+    "seg": 1
+   },
+   {
+    "text": "peso.",
+    "src": 16.607,
+    "start": 15.274,
+    "end": 15.594,
+    "seg": 1
+   },
+   {
+    "text": "El",
+    "src": 17.407,
+    "start": 16.074,
+    "end": 16.234,
+    "seg": 1
+   },
+   {
+    "text": "problema",
+    "src": 17.567,
+    "start": 16.234,
+    "end": 16.474,
+    "seg": 1
+   },
+   {
+    "text": "es",
+    "src": 17.967,
+    "start": 16.634,
+    "end": 16.874,
+    "seg": 1
+   },
+   {
+    "text": "cómo",
+    "src": 18.367,
+    "start": 16.9,
+    "end": 17.28,
+    "seg": 2
+   },
+   {
+    "text": "van",
+    "src": 18.847,
+    "start": 17.28,
+    "end": 17.44,
+    "seg": 2
+   },
+   {
+    "text": "a",
+    "src": 19.007,
+    "start": 17.44,
+    "end": 17.6,
+    "seg": 2
+   },
+   {
+    "text": "manejar",
+    "src": 19.167,
+    "start": 17.6,
+    "end": 17.92,
+    "seg": 2
+   },
+   {
+    "text": "la",
+    "src": 19.487,
+    "start": 17.92,
+    "end": 18.08,
+    "seg": 2
+   },
+   {
+    "text": "pérdida",
+    "src": 19.647,
+    "start": 18.08,
+    "end": 18.48,
+    "seg": 2
+   },
+   {
+    "text": "de",
+    "src": 20.047,
+    "start": 18.48,
+    "end": 18.64,
+    "seg": 2
+   },
+   {
+    "text": "masa",
+    "src": 20.207,
+    "start": 18.64,
+    "end": 18.88,
+    "seg": 2
+   },
+   {
+    "text": "muscular.",
+    "src": 20.447,
+    "start": 18.88,
+    "end": 19.667,
+    "seg": 2
+   },
+   {
+    "src": 22.337,
+    "seg": 3,
+    "text": "Si",
+    "start": 20.504,
+    "end": 20.776
+   },
+   {
+    "src": 22.337,
+    "seg": 3,
+    "text": "se",
+    "start": 20.776,
+    "end": 21.048
+   },
+   {
+    "src": 22.337,
+    "seg": 3,
+    "text": "les",
+    "start": 21.048,
+    "end": 21.411
+   },
+   {
+    "src": 22.337,
+    "seg": 3,
+    "text": "hizo",
+    "start": 21.411,
+    "end": 21.864
+   },
+   {
+    "text": "una",
+    "src": 23.697,
+    "start": 21.864,
+    "end": 21.944,
+    "seg": 3
+   },
+   {
+    "text": "prescripción",
+    "src": 24.017,
+    "start": 22.184,
+    "end": 22.664,
+    "seg": 3
+   },
+   {
+    "text": "del",
+    "src": 24.497,
+    "start": 22.664,
+    "end": 22.824,
+    "seg": 3
+   },
+   {
+    "text": "entrenamiento,",
+    "src": 24.657,
+    "start": 22.824,
+    "end": 23.304,
+    "seg": 3
+   },
+   {
+    "text": "si",
+    "src": 25.297,
+    "start": 23.464,
+    "end": 23.624,
+    "seg": 3
+   },
+   {
+    "text": "se",
+    "src": 25.457,
+    "start": 23.624,
+    "end": 23.704,
+    "seg": 3
+   },
+   {
+    "text": "les",
+    "src": 25.537,
+    "start": 23.704,
+    "end": 23.784,
+    "seg": 3
+   },
+   {
+    "text": "mandó",
+    "src": 25.617,
+    "start": 23.784,
+    "end": 23.944,
+    "seg": 3
+   },
+   {
+    "text": "a",
+    "src": 25.857,
+    "start": 24.024,
+    "end": 24.104,
+    "seg": 3
+   },
+   {
+    "text": "tomar",
+    "src": 25.937,
+    "start": 24.104,
+    "end": 24.344,
+    "seg": 3
+   },
+   {
+    "text": "creatina,",
+    "src": 26.177,
+    "start": 24.344,
+    "end": 24.904,
+    "seg": 3
+   },
+   {
+    "text": "si",
+    "src": 26.817,
+    "start": 24.984,
+    "end": 25.144,
+    "seg": 3
+   },
+   {
+    "text": "se",
+    "src": 26.977,
+    "start": 25.144,
+    "end": 25.224,
+    "seg": 3
+   },
+   {
+    "text": "les",
+    "src": 27.057,
+    "start": 25.224,
+    "end": 25.384,
+    "seg": 3
+   },
+   {
+    "text": "explicó",
+    "src": 27.217,
+    "start": 25.384,
+    "end": 25.784,
+    "seg": 3
+   },
+   {
+    "text": "cuántos",
+    "src": 27.617,
+    "start": 25.784,
+    "end": 26.024,
+    "seg": 3
+   },
+   {
+    "text": "gramos",
+    "src": 27.937,
+    "start": 26.104,
+    "end": 26.424,
+    "seg": 3
+   },
+   {
+    "text": "de",
+    "src": 28.257,
+    "start": 26.424,
+    "end": 26.504,
+    "seg": 3
+   },
+   {
+    "text": "proteína",
+    "src": 28.337,
+    "start": 26.504,
+    "end": 26.984,
+    "seg": 3
+   },
+   {
+    "text": "por",
+    "src": 28.817,
+    "start": 26.984,
+    "end": 27.064,
+    "seg": 3
+   },
+   {
+    "text": "kilo",
+    "src": 28.897,
+    "start": 27.064,
+    "end": 27.384,
+    "seg": 3
+   },
+   {
+    "text": "tenían",
+    "src": 29.217,
+    "start": 27.384,
+    "end": 27.704,
+    "seg": 3
+   },
+   {
+    "text": "que",
+    "src": 29.537,
+    "start": 27.704,
+    "end": 27.864,
+    "seg": 3
+   },
+   {
+    "text": "comer",
+    "src": 29.697,
+    "start": 27.864,
+    "end": 28.104,
+    "seg": 3
+   },
+   {
+    "text": "al",
+    "src": 29.937,
+    "start": 28.104,
+    "end": 28.344,
+    "seg": 3
+   },
+   {
+    "text": "día.",
+    "src": 30.177,
+    "start": 28.344,
+    "end": 28.567,
+    "seg": 3
+   },
+   {
+    "text": "Y",
+    "src": 3.027,
+    "start": 28.594,
+    "end": 28.754,
+    "seg": 4
+   },
+   {
+    "text": "siento",
+    "src": 3.187,
+    "start": 28.754,
+    "end": 29.154,
+    "seg": 4
+   },
+   {
+    "text": "que",
+    "src": 3.587,
+    "start": 29.154,
+    "end": 29.394,
+    "seg": 4
+   },
+   {
+    "src": 3.987,
+    "seg": 5,
+    "text": "los",
+    "start": 29.4,
+    "end": 29.656
+   },
+   {
+    "src": 3.987,
+    "seg": 5,
+    "text": "péptidos",
+    "start": 29.656,
+    "end": 30.231
+   },
+   {
+    "src": 3.987,
+    "seg": 5,
+    "text": "son",
+    "start": 30.231,
+    "end": 30.487
+   },
+   {
+    "text": "una",
+    "src": 5.187,
+    "start": 30.487,
+    "end": 30.567,
+    "seg": 5
+   },
+   {
+    "text": "excelente",
+    "src": 5.267,
+    "start": 30.567,
+    "end": 31.047,
+    "seg": 5
+   },
+   {
+    "text": "herramienta,",
+    "src": 5.747,
+    "start": 31.047,
+    "end": 31.687,
+    "seg": 5
+   },
+   {
+    "text": "sí,",
+    "src": 6.627,
+    "start": 31.927,
+    "end": 32.247,
+    "seg": 5
+   },
+   {
+    "src": 7.187,
+    "seg": 5,
+    "text": "pero",
+    "start": 32.487,
+    "end": 32.829
+   },
+   {
+    "src": 7.187,
+    "seg": 5,
+    "text": "no",
+    "start": 32.829,
+    "end": 33.034
+   },
+   {
+    "src": 7.187,
+    "seg": 5,
+    "text": "es",
+    "start": 33.034,
+    "end": 33.239
+   },
+   {
+    "src": 7.187,
+    "seg": 5,
+    "text": "la",
+    "start": 33.239,
+    "end": 33.444
+   },
+   {
+    "src": 7.187,
+    "seg": 5,
+    "text": "herramienta",
+    "start": 33.444,
+    "end": 34.264
+   },
+   {
+    "text": "base,",
+    "src": 9.197,
+    "start": 34.264,
+    "end": 34.504,
+    "seg": 6
+   },
+   {
+    "text": "¿ya?",
+    "src": 9.757,
+    "start": 34.824,
+    "end": 34.984,
+    "seg": 6
+   },
+   {
+    "text": "Es",
+    "src": 10.557,
+    "start": 35.624,
+    "end": 35.944,
+    "seg": 6
+   },
+   {
+    "text": "algo",
+    "src": 10.877,
+    "start": 35.944,
+    "end": 36.264,
+    "seg": 6
+   },
+   {
+    "text": "que",
+    "src": 11.197,
+    "start": 36.264,
+    "end": 36.504,
+    "seg": 6
+   },
+   {
+    "text": "puede",
+    "src": 11.437,
+    "start": 36.504,
+    "end": 36.824,
+    "seg": 6
+   },
+   {
+    "text": "contribuir,",
+    "src": 11.757,
+    "start": 36.824,
+    "end": 37.464,
+    "seg": 6
+   },
+   {
+    "text": "pero",
+    "src": 12.557,
+    "start": 37.624,
+    "end": 37.944,
+    "seg": 6
+   },
+   {
+    "text": "hay",
+    "src": 12.877,
+    "start": 37.944,
+    "end": 38.104,
+    "seg": 6
+   },
+   {
+    "text": "que",
+    "src": 13.037,
+    "start": 38.104,
+    "end": 38.264,
+    "seg": 6
+   },
+   {
+    "text": "tener",
+    "src": 13.197,
+    "start": 38.264,
+    "end": 38.584,
+    "seg": 6
+   },
+   {
+    "text": "en",
+    "src": 13.517,
+    "start": 38.584,
+    "end": 38.664,
+    "seg": 6
+   },
+   {
+    "text": "cuenta",
+    "src": 13.597,
+    "start": 38.664,
+    "end": 38.904,
+    "seg": 6
+   },
+   {
+    "text": "que",
+    "src": 13.837,
+    "start": 38.904,
+    "end": 39.064,
+    "seg": 6
+   },
+   {
+    "text": "esos",
+    "src": 13.997,
+    "start": 39.064,
+    "end": 39.384,
+    "seg": 6
+   },
+   {
+    "text": "estudios",
+    "src": 14.317,
+    "start": 39.384,
+    "end": 39.864,
+    "seg": 6
+   },
+   {
+    "text": "que",
+    "src": 14.797,
+    "start": 39.864,
+    "end": 40.024,
+    "seg": 6
+   },
+   {
+    "text": "se",
+    "src": 14.957,
+    "start": 40.024,
+    "end": 40.184,
+    "seg": 6
+   },
+   {
+    "text": "hacen",
+    "src": 15.117,
+    "start": 40.184,
+    "end": 40.584,
+    "seg": 6
+   },
+   {
+    "text": "son",
+    "src": 15.757,
+    "start": 40.824,
+    "end": 41.064,
+    "seg": 6
+   },
+   {
+    "text": "en",
+    "src": 15.997,
+    "start": 41.064,
+    "end": 41.304,
+    "seg": 6
+   },
+   {
+    "text": "gente",
+    "src": 16.237,
+    "start": 41.304,
+    "end": 41.704,
+    "seg": 6
+   },
+   {
+    "text": "obesa,",
+    "src": 16.637,
+    "start": 41.704,
+    "end": 42.184,
+    "seg": 6
+   },
+   {
+    "text": "¿ya?",
+    "src": 17.437,
+    "start": 42.504,
+    "end": 42.664,
+    "seg": 6
+   },
+   {
+    "text": "Y",
+    "src": 17.757,
+    "start": 42.824,
+    "end": 42.984,
+    "seg": 6
+   },
+   {
+    "text": "si",
+    "src": 17.917,
+    "start": 42.984,
+    "end": 43.144,
+    "seg": 6
+   },
+   {
+    "text": "tú",
+    "src": 18.077,
+    "start": 43.144,
+    "end": 43.224,
+    "seg": 6
+   },
+   {
+    "text": "no",
+    "src": 18.157,
+    "start": 43.224,
+    "end": 43.384,
+    "seg": 6
+   },
+   {
+    "text": "estás",
+    "src": 18.317,
+    "start": 43.384,
+    "end": 43.624,
+    "seg": 6
+   },
+   {
+    "text": "obeso,",
+    "src": 18.557,
+    "start": 43.624,
+    "end": 44.024,
+    "seg": 6
+   },
+   {
+    "text": "no",
+    "src": 19.037,
+    "start": 44.104,
+    "end": 44.264,
+    "seg": 6
+   },
+   {
+    "text": "puedes",
+    "src": 19.197,
+    "start": 44.264,
+    "end": 44.504,
+    "seg": 6
+   },
+   {
+    "text": "empezar",
+    "src": 19.437,
+    "start": 44.504,
+    "end": 44.744,
+    "seg": 6
+   },
+   {
+    "text": "a",
+    "src": 19.677,
+    "start": 44.744,
+    "end": 44.904,
+    "seg": 6
+   },
+   {
+    "text": "usar",
+    "src": 19.837,
+    "start": 44.904,
+    "end": 45.224,
+    "seg": 6
+   },
+   {
+    "text": "dosis",
+    "src": 20.157,
+    "start": 45.224,
+    "end": 45.624,
+    "seg": 6
+   },
+   {
+    "text": "de",
+    "src": 20.557,
+    "start": 45.624,
+    "end": 45.784,
+    "seg": 6
+   },
+   {
+    "text": "obeso,",
+    "src": 20.717,
+    "start": 45.784,
+    "end": 46.184,
+    "seg": 6
+   },
+   {
+    "text": "o",
+    "src": 21.197,
+    "start": 46.264,
+    "end": 46.424,
+    "seg": 6
+   },
+   {
+    "text": "no",
+    "src": 21.357,
+    "start": 46.424,
+    "end": 46.584,
+    "seg": 6
+   },
+   {
+    "text": "puedes",
+    "src": 21.517,
+    "start": 46.584,
+    "end": 46.904,
+    "seg": 6
+   },
+   {
+    "text": "empezar",
+    "src": 21.837,
+    "start": 46.904,
+    "end": 47.304,
+    "seg": 6
+   },
+   {
+    "text": "a",
+    "src": 22.237,
+    "start": 47.304,
+    "end": 47.464,
+    "seg": 6
+   },
+   {
+    "text": "titular",
+    "src": 22.397,
+    "start": 47.464,
+    "end": 47.944,
+    "seg": 6
+   },
+   {
+    "text": "la",
+    "src": 22.877,
+    "start": 47.944,
+    "end": 48.104,
+    "seg": 6
+   },
+   {
+    "text": "dosis",
+    "src": 23.037,
+    "start": 48.104,
+    "end": 48.424,
+    "seg": 6
+   },
+   {
+    "text": "así.",
+    "src": 23.357,
+    "start": 48.424,
+    "end": 48.504,
+    "seg": 6
+   },
+   {
+    "text": "Además",
+    "src": 23.597,
+    "start": 48.664,
+    "end": 48.904,
+    "seg": 6
+   },
+   {
+    "text": "que",
+    "src": 23.917,
+    "start": 48.984,
+    "end": 49.144,
+    "seg": 6
+   },
+   {
+    "text": "todos",
+    "src": 24.077,
+    "start": 49.144,
+    "end": 49.384,
+    "seg": 6
+   },
+   {
+    "text": "los",
+    "src": 24.317,
+    "start": 49.384,
+    "end": 49.464,
+    "seg": 6
+   },
+   {
+    "text": "pacientes",
+    "src": 24.397,
+    "start": 49.464,
+    "end": 49.784,
+    "seg": 6
+   },
+   {
+    "text": "son",
+    "src": 24.877,
+    "start": 49.944,
+    "end": 50.104,
+    "seg": 6
+   },
+   {
+    "text": "un",
+    "src": 25.037,
+    "start": 50.104,
+    "end": 50.264,
+    "seg": 6
+   },
+   {
+    "text": "mundo",
+    "src": 25.197,
+    "start": 50.264,
+    "end": 50.424,
+    "seg": 6
+   },
+   {
+    "text": "aparte.",
+    "src": 25.437,
+    "start": 50.504,
+    "end": 50.744,
+    "seg": 6
+   }
+  ],
+  "leveling": {
+   "threshold_db": {
+    "a": -40.1,
+    "b": -39.0
+   },
+   "target_db": -24.3,
+   "pieces": [
+    {
+     "source": "a",
+     "level_db": -24.31,
+     "gain_db": 0.01
+    },
+    {
+     "source": "a",
+     "level_db": -24.65,
+     "gain_db": 0.35
+    },
+    {
+     "source": "a",
+     "level_db": -23.73,
+     "gain_db": -0.57
+    },
+    {
+     "source": "a",
+     "level_db": -25.46,
+     "gain_db": 1.16
+    },
+    {
+     "source": "b",
+     "level_db": -23.78,
+     "gain_db": -0.53
+    },
+    {
+     "source": "b",
+     "level_db": -22.97,
+     "gain_db": -1.33
+    },
+    {
+     "source": "b",
+     "level_db": -23.89,
+     "gain_db": -0.41
+    }
+   ],
+   "sources": {
+    "a": {
+     "before_db": -24.7,
+     "after_db": -24.28
+    },
+    "b": {
+     "before_db": -23.78,
+     "after_db": -24.29
+    }
+   },
+   "max_gain_db": 4.31
+  },
+  "fixed": 6
+ },
+ "brand": {
+  "slug": "podcast-peptidos",
+  "name": "Podcast Peptidos",
+  "tagline": "",
+  "colors": {
+   "primary": "#111111",
+   "accent": "#FFFFFF",
+   "light": "#FFFFFF",
+   "text_on_primary": "#FFFFFF",
+   "text_on_accent": "#111111",
+   "extra": {}
+  },
+  "fonts": {
+   "heading": {
+    "family": "Montserrat",
+    "weights": [
+     600,
+     700,
+     800
+    ],
+    "source": "google"
+   },
+   "body": {
+    "family": "Montserrat",
+    "weights": [
+     500,
+     600,
+     700
+    ],
+    "source": "google"
+   }
+  },
+  "logos": {},
+  "motion": "calm",
+  "tone": {
+   "preset": "expert",
+   "label": "Expert, calm",
+   "loudness": "calm",
+   "overshoot": false,
+   "shake": false,
+   "scene_tone": "calm",
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "full_scenes_max": 2,
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "sfx": "sparse"
+  },
+  "subtitles_default": "accent",
+  "style_default": "marker"
+ },
+ "inserts": [],
+ "subtitles": "none",
+ "style": "marker",
+ "hideSubtitles": [],
+ "drift": true,
+ "hook": null,
+ "corner": false,
+ "endCard": null,
+ "subtitlesTop": 1250,
+ "callouts": [],
+ "scenes": [],
+ "sceneTone": "calm",
+ "minimalHook": null,
+ "emphasis": [
+  "sostenible",
+  "80%",
+  "sostener",
+  "herramienta",
+  "obeso"
+ ]
+}
