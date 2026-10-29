@@ -1,0 +1,395 @@
+{
+ "schema": 1,
+ "id": "podcast-09",
+ "created": "2026-10-29T22:49",
+ "duration": 56.6,
+ "segments": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 3.926,
+   "text": "Entre todos esos péptidos que has mencionado, que hemos mencionado en este",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "hook: the first 1.5 s decide whether people keep watching",
+    "scene:hook - a weak start (a filler word, or > 2 s without a number or a question) -> a hook scene"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 3.926,
+   "end": 7.733,
+   "text": "episodio, ¿hay alguno que prolongue la vida?",
+   "cut_segs": [
+    0,
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s03",
+   "start": 7.733,
+   "end": 10.843,
+   "text": "Pues un péptido como tal que prolongue la vida, ¿no?",
+   "cut_segs": [
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 10.843,
+   "end": 15.23,
+   "text": "Eso es algo muy prometedor, obviamente, pero sí hay péptidos que se usan, o sea, hay",
+   "cut_segs": [
+    2,
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s05",
+   "start": 15.23,
+   "end": 17.19,
+   "text": "protocolos de longevidad",
+   "cut_segs": [
+    3,
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s06",
+   "start": 17.19,
+   "end": 22.67,
+   "text": "en los que se usa péptidos, y hay un especial que se llama el epitalón. No sé si lo has notado.",
+   "cut_segs": [
+    4,
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s07",
+   "start": 22.67,
+   "end": 24.716,
+   "text": "Bueno, el epitalón es un péptido,",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s08",
+   "start": 24.716,
+   "end": 29.036,
+   "text": "que es un derivado, que es derivado de la glándula pineal, y lo que hace ese péptido es que tiene",
+   "cut_segs": [
+    6
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s09",
+   "start": 29.036,
+   "end": 31.593,
+   "text": "actividad sobre la telomerasa. ¿Qué es la telomerasa?",
+   "cut_segs": [
+    6,
+    7
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s10",
+   "start": 31.593,
+   "end": 34.653,
+   "text": "Nosotros tenemos nuestros cromosomas, y al final,",
+   "cut_segs": [
+    7,
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s11",
+   "start": 34.653,
+   "end": 38.367,
+   "text": "esa figurita, y al final de los cromosomas tenemos algo que se llama los telómeros.",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 38.367,
+   "end": 43.68,
+   "text": "Y el envejecimiento tiene mucho que ver con el acortamiento de los telómeros. Entonces,",
+   "cut_segs": [
+    9
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 9.7 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 43.68,
+   "end": 49.413,
+   "text": "la frase prometedora de este péptido es que tiene acción sobre disminuir",
+   "cut_segs": [
+    9,
+    10
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 9.7 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s14",
+   "start": 49.413,
+   "end": 52.55,
+   "text": "el acortamiento de los telómeros. Entonces, eso.",
+   "cut_segs": [
+    10,
+    11,
+    12
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s15",
+   "start": 52.55,
+   "end": 56.6,
+   "text": "Pero pues no hay estudios que avalen eso. Todavía. Sí.",
+   "cut_segs": [
+    12,
+    13
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  }
+ ],
+ "inserts": [],
+ "keep_clear": [],
+ "captions_id": "0fd0f974557b",
+ "brand": "podcast-peptidos",
+ "settings": {
+  "brand": "podcast-peptidos",
+  "style": null,
+  "subtitles": "none",
+  "subtitles_shade": null,
+  "profile": null,
+  "content_format": null,
+  "intensity": "moderate",
+  "use_broll": false,
+  "use_project_footage": true,
+  "use_local_footage": true,
+  "use_code_scenes": true,
+  "use_memes": false,
+  "use_local_memes": true,
+  "broll_priority": [
+   "project",
+   "local",
+   "generated"
+  ],
+  "meme_priority": [
+   "local"
+  ],
+  "footage_dirs": [
+   "footage",
+   "broll"
+  ],
+  "memes_dirs": [
+   "memes"
+  ],
+  "generation_engines": [
+   "code"
+  ],
+  "library_dirs": [],
+  "meme_size": "s",
+  "scene_tone": "calm",
+  "use_scenes": false,
+  "workflow": "standard",
+  "use_generated_footage": true,
+  "brand_tone": {
+   "label": "Expert, calm",
+   "for": "consulting, recruiting, education, B2B expertise",
+   "intensity": "moderate",
+   "motion": "calm",
+   "loudness": "calm",
+   "memes": {
+    "allowed": true,
+    "max": 1,
+    "size_max": "s",
+    "cutaway": false
+   },
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "shake": false,
+   "overshoot": false,
+   "full_scenes_max": 2,
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "scene_tone": "calm",
+   "sfx": "sparse",
+   "preset": "expert"
+  },
+  "profile_rules": null
+ },
+ "provenance": {
+  "brand": "reel.json",
+  "style": "defaults",
+  "subtitles": "reel.json",
+  "subtitles_shade": "defaults",
+  "profile": "defaults",
+  "content_format": "defaults",
+  "intensity": "tone:expert",
+  "use_broll": "defaults",
+  "use_project_footage": "defaults",
+  "use_local_footage": "defaults",
+  "use_code_scenes": "defaults",
+  "use_memes": "defaults",
+  "use_local_memes": "defaults",
+  "broll_priority": "defaults",
+  "meme_priority": "defaults",
+  "footage_dirs": "defaults",
+  "memes_dirs": "defaults",
+  "generation_engines": "defaults",
+  "library_dirs": "defaults",
+  "meme_size": "tone:expert",
+  "scene_tone": "tone:expert",
+  "use_scenes": "defaults",
+  "workflow": "defaults",
+  "brand_tone": "brand:podcast-peptidos"
+ },
+ "effective": {
+  "broll": false,
+  "project_footage": false,
+  "local_footage": false,
+  "generated_code": false,
+  "memes": false,
+  "local_memes": false,
+  "scenes": false,
+  "online_footage": false,
+  "generated_prompts": false,
+  "generate_now": false,
+  "online_memes": false,
+  "online_footage_providers": [],
+  "online_meme_providers": []
+ },
+ "fallback": {
+  "broll": "use_broll=false",
+  "project_footage": "off",
+  "local_footage": "off",
+  "generated_code": "off",
+  "memes": "use_memes=false",
+  "local_memes": "off",
+  "scenes": "use_scenes=false",
+  "online_footage": "off",
+  "generated_prompts": "off",
+  "generate_now": "off",
+  "online_memes": "off"
+ },
+ "budget": {
+  "label": "moderate",
+  "broll_per_30s": 3,
+  "memes_max": 2,
+  "coverage_max": 0.22,
+  "min_gap_s": 3.5,
+  "broll_max": 6,
+  "coverage_max_s": 12.45
+ },
+ "auto": true,
+ "subtitles_band": [
+  1250,
+  1430
+ ],
+ "export": {
+  "hook": null,
+  "corner": false,
+  "end": null
+ }
+}
