@@ -19,3 +19,4 @@
 <!-- revisions: brand.py rule adds dated rules at the end of this section; the heading may be in any language -->
 - 2026-10-29: Subtítulos blanco minimalista: blanco grueso (Montserrat 800) con sombra suave, sin color de acento ni placa; palabra por palabra; las palabras clave se agrandan en vez de cambiar de color. Nunca subtítulos amarillos.
 - 2026-10-29: Sin música de fondo en los clips del podcast: la voz sola.
+- 2026-10-29: Sin títulos ni ganchos de texto sobre el video: solo los subtítulos, centrados.

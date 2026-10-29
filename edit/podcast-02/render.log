@@ -1,195 +1,203 @@
 Detected differing memory amounts:
-Memory reported by CGroup: 8796093016006.25 MB
-Memory reported by /proc/meminfo: 14582.07 MB
-Memory reported by Node: 14582.07 MB
+Memory reported by CGroup: 8796093015665.88 MB
+Memory reported by /proc/meminfo: 15024.99 MB
+Memory reported by Node: 15024.99 MB
 You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
 Using the lower amount of memory for calculation.
 Bundling 6%
 Bundling 20%
-Bundling 54%
-Bundling 65%
-Bundling 71%
-Bundling 76%
-Bundling 81%
-Bundling 87%
-Bundling 92%
+Bundling 64%
+Bundling 70%
+Bundling 75%
+Bundling 80%
+Bundling 85%
+Bundling 91%
 Bundling 98%
 Bundling 100%
 Getting composition
 Detected differing memory amounts:
-Memory reported by CGroup: 8796093015567.86 MB
-Memory reported by /proc/meminfo: 14116.02 MB
-Memory reported by Node: 14116.02 MB
+Memory reported by CGroup: 8796093015170.29 MB
+Memory reported by /proc/meminfo: 14543.16 MB
+Memory reported by Node: 14543.16 MB
 You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
 Using the lower amount of memory for calculation.
 Composition          ReelMinimal
 Codec                h264
-Output               /home/user/App/reels/out/podcast-02.mp4
+Output               /tmp/claude-0/-home-user-App/f49cf625-b4a8-5f3c-a751-a7af08200fa8/scratchpad/test02.mp4
 Concurrency          3x
 Detected differing memory amounts:
-Memory reported by CGroup: 8796093015574.36 MB
-Memory reported by /proc/meminfo: 14095.49 MB
-Memory reported by Node: 14095.49 MB
+Memory reported by CGroup: 8796093015158.41 MB
+Memory reported by /proc/meminfo: 14529.76 MB
+Memory reported by Node: 14529.76 MB
 You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
 Using the lower amount of memory for calculation.
-Rendered 0/1420
+Rendered 0/121
 Detected differing memory amounts:
-Memory reported by CGroup: 8796093015533.97 MB
-Memory reported by /proc/meminfo: 14092.19 MB
-Memory reported by Node: 14092.19 MB
-You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
-Using the lower amount of memory for calculation.
-Detected differing memory amounts:
-Memory reported by CGroup: 8796093015533.78 MB
-Memory reported by /proc/meminfo: 14092.19 MB
-Memory reported by Node: 14092.19 MB
+Memory reported by CGroup: 8796093015141.76 MB
+Memory reported by /proc/meminfo: 14513.49 MB
+Memory reported by Node: 14513.49 MB
 You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
 Using the lower amount of memory for calculation.
 Detected differing memory amounts:
-Memory reported by CGroup: 8796093015533.02 MB
-Memory reported by /proc/meminfo: 14092.19 MB
-Memory reported by Node: 14092.19 MB
+Memory reported by CGroup: 8796093015136.59 MB
+Memory reported by /proc/meminfo: 14509.66 MB
+Memory reported by Node: 14509.66 MB
 You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
 Using the lower amount of memory for calculation.
-Rendered 1/1420, time remaining: 26m 10s
-Rendered 2/1420, time remaining: 14m 44s
-Rendered 3/1420, time remaining: 9m 49s
-Rendered 4/1420, time remaining: 7m 38s
-Rendered 5/1420, time remaining: 7m 26s
-Rendered 6/1420, time remaining: 6m 12s
-Rendered 7/1420, time remaining: 5m 26s
-Rendered 8/1420, time remaining: 5m 6s
-Rendered 9/1420, time remaining: 5m 9s
-Rendered 10/1420, time remaining: 4m 38s
-Rendered 11/1420, time remaining: 4m 20s
-Rendered 12/1420, time remaining: 4m 22s
-Rendered 13/1420, time remaining: 4m 2s
-Rendered 14/1420, time remaining: 3m 54s
-Rendered 15/1420, time remaining: 3m 54s
-Rendered 16/1420, time remaining: 3m 39s
-Rendered 17/1420, time remaining: 3m 33s
-Rendered 18/1420, time remaining: 3m 37s
-Rendered 19/1420, time remaining: 3m 27s
-Rendered 20/1420, time remaining: 3m 21s
-Rendered 21/1420, time remaining: 3m 56s
-Rendered 22/1420, time remaining: 3m 51s
-Rendered 23/1420, time remaining: 3m 41s
-Rendered 24/1420, time remaining: 3m 42s
-Rendered 25/1420, time remaining: 4m 21s
-Rendered 26/1420, time remaining: 4m 11s
-Rendered 27/1420, time remaining: 4m 1s
-Rendered 28/1420, time remaining: 4m 5s
-Rendered 29/1420, time remaining: 3m 58s
-Rendered 30/1420, time remaining: 3m 55s
-Rendered 31/1420, time remaining: 3m 49s
-Rendered 32/1420, time remaining: 3m 57s
-Rendered 33/1420, time remaining: 3m 50s
-Rendered 34/1420, time remaining: 4m 8s
-Rendered 35/1420, time remaining: 4m 1s
-Rendered 36/1420, time remaining: 3m 55s
-Rendered 36/1420, time remaining: 3m 55s
-Rendered 37/1420, time remaining: 4m 2s
-Rendered 37/1420, time remaining: 4m 2s
-Rendered 38/1420, time remaining: 4m 13s
-Rendered 39/1420, time remaining: 4m 7s
-Rendered 40/1420, time remaining: 4m 0s
-Rendered 40/1420, time remaining: 4m 0s
-Rendered 41/1420, time remaining: 4m 11s
-Rendered 42/1420, time remaining: 4m 7s
-Rendered 43/1420, time remaining: 4m 1s
-Rendered 43/1420, time remaining: 4m 1s
-Rendered 43/1420, time remaining: 4m 1s
-Rendered 44/1420, time remaining: 4m 18s
-Rendered 45/1420, time remaining: 4m 14s
-Rendered 46/1420, time remaining: 4m 8s
-Rendered 47/1420, time remaining: 4m 9s
-Rendered 48/1420, time remaining: 4m 6s
-Rendered 48/1420, time remaining: 4m 6s
-Rendered 49/1420, time remaining: 4m 2s
-Rendered 50/1420, time remaining: 4m 2s
-Rendered 51/1420, time remaining: 4m 5s
-Rendered 51/1420, time remaining: 4m 5s
-Rendered 52/1420, time remaining: 4m 5s
-Rendered 53/1420, time remaining: 4m 2s
-Rendered 53/1420, time remaining: 4m 2s
-Rendered 54/1420, time remaining: 4m 5s
-Rendered 55/1420, time remaining: 4m 0s
-Rendered 56/1420, time remaining: 3m 56s
-Rendered 57/1420, time remaining: 3m 59s
-Rendered 58/1420, time remaining: 3m 55s
-Rendered 58/1420, time remaining: 3m 55s
-Rendered 59/1420, time remaining: 3m 57s
-Rendered 60/1420, time remaining: 3m 56s
-Rendered 61/1420, time remaining: 3m 52s
-Rendered 61/1420, time remaining: 3m 52s
-Rendered 62/1420, time remaining: 3m 59s
-Rendered 63/1420, time remaining: 3m 58s
-Rendered 64/1420, time remaining: 3m 54s
-Rendered 64/1420, time remaining: 3m 54s
-Rendered 65/1420, time remaining: 3m 56s
-Rendered 66/1420, time remaining: 3m 58s
-Rendered 67/1420, time remaining: 3m 54s
-Rendered 67/1420, time remaining: 3m 54s
-Rendered 68/1420, time remaining: 3m 53s
-Rendered 68/1420, time remaining: 3m 53s
-Rendered 69/1420, time remaining: 3m 59s
-Rendered 70/1420, time remaining: 3m 55s
-Rendered 71/1420, time remaining: 3m 52s
-Rendered 71/1420, time remaining: 3m 52s
-Rendered 72/1420, time remaining: 4m 0s
-Rendered 73/1420, time remaining: 3m 56s
-Rendered 74/1420, time remaining: 3m 53s
-Rendered 74/1420, time remaining: 3m 53s
-Rendered 75/1420, time remaining: 3m 57s
-Rendered 76/1420, time remaining: 3m 56s
-Rendered 77/1420, time remaining: 3m 53s
-Rendered 78/1420, time remaining: 3m 53s
-Rendered 78/1420, time remaining: 3m 53s
-Rendered 79/1420, time remaining: 3m 53s
-Rendered 80/1420, time remaining: 3m 54s
-Rendered 81/1420, time remaining: 3m 51s
-Rendered 81/1420, time remaining: 3m 51s
-Rendered 82/1420, time remaining: 3m 52s
-Rendered 83/1420, time remaining: 3m 53s
-Rendered 84/1420, time remaining: 3m 51s
-Rendered 85/1420, time remaining: 3m 50s
-Rendered 85/1420, time remaining: 3m 50s
-Rendered 86/1420, time remaining: 3m 51s
-Rendered 87/1420, time remaining: 3m 49s
-Rendered 88/1420, time remaining: 3m 49s
-Rendered 88/1420, time remaining: 3m 49s
-Rendered 89/1420, time remaining: 3m 50s
-Rendered 90/1420, time remaining: 3m 47s
-Rendered 91/1420, time remaining: 3m 48s
-Rendered 92/1420, time remaining: 3m 45s
-Rendered 93/1420, time remaining: 3m 43s
-Rendered 93/1420, time remaining: 3m 43s
-Rendered 94/1420, time remaining: 3m 44s
-Rendered 95/1420, time remaining: 3m 45s
-Rendered 95/1420, time remaining: 3m 45s
-Rendered 96/1420, time remaining: 3m 45s
-Rendered 97/1420, time remaining: 3m 42s
-Rendered 98/1420, time remaining: 3m 42s
-Rendered 98/1420, time remaining: 3m 42s
-Rendered 99/1420, time remaining: 3m 44s
-Rendered 100/1420, time remaining: 3m 42s
-Rendered 101/1420, time remaining: 3m 40s
-Rendered 102/1420, time remaining: 3m 41s
-Rendered 103/1420, time remaining: 3m 39s
-Rendered 103/1420, time remaining: 3m 39s
-Rendered 104/1420, time remaining: 3m 39s
-Rendered 105/1420, time remaining: 3m 38s
-Rendered 106/1420, time remaining: 3m 39s
-Rendered 106/1420, time remaining: 3m 39s
-Rendered 107/1420, time remaining: 3m 38s
-Rendered 108/1420, time remaining: 3m 37s
-Rendered 109/1420, time remaining: 3m 35s
-Rendered 109/1420, time remaining: 3m 35s
-Rendered 110/1420, time remaining: 3m 37s
-Rendered 111/1420, time remaining: 3m 36s
-Rendered 112/1420, time remaining: 3m 34s
-Rendered 113/1420, time remaining: 3m 33s
-Rendered 114/1420, time remaining: 3m 33s
-Rendered 114/1420, time remaining: 3m 33s
-Rendered 115/1420, time remaining: 3m 33s
-Rendered 116/1420, time remaining: 3m 31s
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093015113.57 MB
+Memory reported by /proc/meminfo: 14498.24 MB
+Memory reported by Node: 14498.24 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Rendered 1/121, time remaining: 2m 9s
+Rendered 2/121, time remaining: 1m 4s
+Rendered 3/121, time remaining: 42s
+Rendered 4/121, time remaining: 39s
+Rendered 5/121, time remaining: 32s
+Rendered 6/121, time remaining: 27s
+Rendered 7/121, time remaining: 25s
+Rendered 8/121, time remaining: 24s
+Rendered 9/121, time remaining: 21s
+Rendered 10/121, time remaining: 19s
+Rendered 11/121, time remaining: 20s
+Rendered 12/121, time remaining: 18s
+Rendered 13/121, time remaining: 17s
+Rendered 14/121, time remaining: 17s
+Rendered 15/121, time remaining: 16s
+Rendered 16/121, time remaining: 15s
+Rendered 17/121, time remaining: 15s
+Rendered 18/121, time remaining: 15s
+Rendered 19/121, time remaining: 14s
+Rendered 20/121, time remaining: 13s
+Rendered 21/121, time remaining: 14s
+Rendered 22/121, time remaining: 13s
+Rendered 23/121, time remaining: 13s
+Rendered 24/121, time remaining: 13s
+Rendered 25/121, time remaining: 13s
+Rendered 26/121, time remaining: 12s
+Rendered 27/121, time remaining: 12s
+Rendered 28/121, time remaining: 12s
+Rendered 29/121, time remaining: 11s
+Rendered 30/121, time remaining: 11s
+Rendered 31/121, time remaining: 11s
+Rendered 32/121, time remaining: 11s
+Rendered 33/121, time remaining: 11s
+Rendered 34/121, time remaining: 11s
+Rendered 35/121, time remaining: 11s
+Rendered 36/121, time remaining: 10s
+Rendered 36/121, time remaining: 10s
+Rendered 37/121, time remaining: 10s
+Rendered 38/121, time remaining: 10s
+Rendered 39/121, time remaining: 10s
+Rendered 40/121, time remaining: 10s
+Rendered 40/121, time remaining: 10s
+Rendered 41/121, time remaining: 10s
+Rendered 42/121, time remaining: 9s
+Rendered 43/121, time remaining: 9s
+Rendered 44/121, time remaining: 9s
+Rendered 45/121, time remaining: 9s
+Rendered 45/121, time remaining: 9s
+Rendered 46/121, time remaining: 9s
+Rendered 47/121, time remaining: 9s
+Rendered 48/121, time remaining: 9s
+Rendered 49/121, time remaining: 9s
+Rendered 49/121, time remaining: 9s
+Rendered 50/121, time remaining: 8s
+Rendered 51/121, time remaining: 8s
+Rendered 52/121, time remaining: 8s
+Rendered 53/121, time remaining: 8s
+Rendered 54/121, time remaining: 8s
+Rendered 54/121, time remaining: 8s
+Rendered 55/121, time remaining: 8s
+Rendered 56/121, time remaining: 8s
+Rendered 57/121, time remaining: 8s
+Rendered 57/121, time remaining: 8s
+Rendered 58/121, time remaining: 8s
+Rendered 59/121, time remaining: 7s
+Rendered 59/121, time remaining: 7s
+Rendered 60/121, time remaining: 8s
+Rendered 61/121, time remaining: 7s
+Rendered 62/121, time remaining: 7s
+Rendered 62/121, time remaining: 7s
+Rendered 63/121, time remaining: 7s
+Rendered 64/121, time remaining: 7s
+Rendered 65/121, time remaining: 7s
+Rendered 66/121, time remaining: 7s
+Rendered 66/121, time remaining: 7s
+Rendered 67/121, time remaining: 7s
+Rendered 68/121, time remaining: 6s
+Rendered 69/121, time remaining: 6s
+Rendered 69/121, time remaining: 6s
+Rendered 70/121, time remaining: 6s
+Rendered 71/121, time remaining: 6s
+Rendered 72/121, time remaining: 6s
+Rendered 72/121, time remaining: 6s
+Rendered 73/121, time remaining: 6s
+Rendered 74/121, time remaining: 6s
+Rendered 75/121, time remaining: 6s
+Rendered 76/121, time remaining: 6s
+Rendered 76/121, time remaining: 6s
+Rendered 77/121, time remaining: 5s
+Rendered 78/121, time remaining: 5s
+Rendered 79/121, time remaining: 5s
+Rendered 79/121, time remaining: 5s
+Rendered 80/121, time remaining: 5s
+Rendered 81/121, time remaining: 5s
+Rendered 82/121, time remaining: 5s
+Rendered 83/121, time remaining: 5s
+Rendered 83/121, time remaining: 5s
+Rendered 84/121, time remaining: 4s
+Rendered 85/121, time remaining: 4s
+Rendered 86/121, time remaining: 4s
+Rendered 87/121, time remaining: 4s
+Rendered 88/121, time remaining: 4s
+Rendered 88/121, time remaining: 4s
+Rendered 89/121, time remaining: 4s
+Rendered 90/121, time remaining: 4s
+Rendered 91/121, time remaining: 3s
+Rendered 91/121, time remaining: 3s
+Rendered 92/121, time remaining: 3s
+Rendered 93/121, time remaining: 3s
+Rendered 94/121, time remaining: 3s
+Rendered 95/121, time remaining: 3s
+Rendered 95/121, time remaining: 3s
+Rendered 96/121, time remaining: 3s
+Rendered 97/121, time remaining: 3s
+Rendered 98/121, time remaining: 3s
+Rendered 99/121, time remaining: 2s
+Rendered 99/121, time remaining: 2s
+Rendered 100/121, time remaining: 2s
+Rendered 101/121, time remaining: 2s
+Rendered 102/121, time remaining: 2s
+Rendered 103/121, time remaining: 2s
+Rendered 104/121, time remaining: 2s
+Rendered 104/121, time remaining: 2s
+Rendered 105/121, time remaining: 2s
+Rendered 106/121, time remaining: 1s
+Rendered 106/121, time remaining: 1s
+Rendered 107/121, time remaining: 1s
+Rendered 108/121, time remaining: 1s
+Rendered 109/121, time remaining: 1s
+Rendered 110/121, time remaining: 1s
+Rendered 111/121, time remaining: 1s
+Rendered 112/121, time remaining: 1s
+Rendered 112/121, time remaining: 1s
+Rendered 113/121, time remaining: 1s
+Rendered 114/121, time remaining: 0s
+Rendered 115/121, time remaining: 0s
+Rendered 115/121, time remaining: 0s
+Rendered 116/121, time remaining: 0s
+Rendered 117/121, time remaining: 0s
+Rendered 118/121, time remaining: 0s
+Rendered 119/121, time remaining: 0s
+Rendered 119/121, time remaining: 0s
+Rendered 120/121, time remaining: 0s
+Encoded 54/121
+Encoded 62/121
+Encoded 71/121
+Encoded 78/121
+Encoded 87/121
+Encoded 97/121
+Encoded 121/121
++                    /tmp/claude-0/-home-user-App/f49cf625-b4a8-5f3c-a751-a7af08200fa8/scratchpad/test02.mp4 5 MB

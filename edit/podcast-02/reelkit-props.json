@@ -1178,11 +1178,7 @@
  "callouts": [],
  "scenes": [],
  "sceneTone": "calm",
- "minimalHook": {
-  "text": "BPC-157: ¿cura milagrosa?",
-  "until": 2.6,
-  "top": 1053
- },
+ "minimalHook": null,
  "emphasis": [
   "curé",
   "días",

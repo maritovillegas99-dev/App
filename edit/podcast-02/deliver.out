@@ -1,0 +1,12 @@
+summary:
+  ok   faces audit
+  ok   contact sheet
+all checks passed
+next: poster.py guide edit/podcast-02/cover.jpg -o edit/podcast-02/cover-guide.png to check the grid crop; poster.py bake reels/out/podcast-02.mp4 --cover edit/podcast-02/cover.jpg -o <render>-cover.mp4
+output: -14.1 LUFS, true peak -1.4 dBFS, video 47.33 s, audio 47.32 s (input 47.33 s) → OK
+attach: cover art in reels/out/podcast-02-final.mp4 (video and audio copied, 1420 frames, 47.333 s); the thumbnail in a file manager may update only after its cache refreshes
+stream|width=1080|height=1920|
+stream|
+stream|width=1080|height=1920
+format|duration=47.333333
+    I:         -14.1 LUFS

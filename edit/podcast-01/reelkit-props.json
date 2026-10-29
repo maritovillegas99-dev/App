@@ -1491,11 +1491,7 @@
  "callouts": [],
  "scenes": [],
  "sceneTone": "calm",
- "minimalHook": {
-  "text": "Por qué los péptidos no te funcionan",
-  "until": 2.6,
-  "top": 1068
- },
+ "minimalHook": null,
  "emphasis": [
   "mensajero",
   "escucharla",

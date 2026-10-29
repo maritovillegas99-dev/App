@@ -1,0 +1,392 @@
+{
+ "schema": 1,
+ "id": "podcast-04",
+ "created": "2026-10-29T22:14",
+ "duration": 56.7,
+ "segments": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 4.856,
+   "text": "El problema siento con estos que con estos péptidos es la pureza del péptido, ¿ya?",
+   "cut_segs": [
+    0,
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "hook: the first 1.5 s decide whether people keep watching"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 4.856,
+   "end": 9.896,
+   "text": "Lo que pasa es que para producir un péptido tú necesitas hacer ciertos procesos, ¿cierto?",
+   "cut_segs": [
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 17.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s03",
+   "start": 9.896,
+   "end": 13.362,
+   "text": "Necesitas eliminar los metales pesados que pueden intoxicar tu cuerpo.",
+   "cut_segs": [
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 17.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 13.362,
+   "end": 18.606,
+   "text": "Necesitas verificar que no tenga otros microorganismos, que tengas bacterias, ya, y para eso es que",
+   "cut_segs": [
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 17.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s05",
+   "start": 18.606,
+   "end": 23.767,
+   "text": "los laboratorios siempre entregan el péptido con el que se llama COA, que es el certificado de análisis.",
+   "cut_segs": [
+    2,
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 17.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s06",
+   "start": 23.767,
+   "end": 26.1,
+   "text": "Pero a ti nada te garantiza que",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 7.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s07",
+   "start": 26.1,
+   "end": 31.206,
+   "text": "ese papel que te están mostrando pues no fue editado, o que lo que dice ahí es verdad.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 7.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s08",
+   "start": 31.206,
+   "end": 34.936,
+   "text": "Lo que pasa y lo que han hecho, porque han hecho estudios con estos péptidos",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s09",
+   "start": 34.936,
+   "end": 39.376,
+   "text": "que se venden así como en el mercado negro es que han visto varias cosas",
+   "cut_segs": [
+    5,
+    6
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s10",
+   "start": 39.376,
+   "end": 41.056,
+   "text": "que tienen metales pesados.",
+   "cut_segs": [
+    6
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s11",
+   "start": 41.056,
+   "end": 45.956,
+   "text": "Eso te puede intoxicar, que tiene bacterias, eso también puede ser muy perjudicial para tu cuerpo.",
+   "cut_segs": [
+    6,
+    7
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 45.956,
+   "end": 49.867,
+   "text": "Que las dosis que dice ahí no son las dosis que tiene, sino que tiene más.",
+   "cut_segs": [
+    7
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 7.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 49.867,
+   "end": 54.616,
+   "text": "Que tiene además de esa molécula otras moléculas diferentes. Exacto.",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 6.8 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s14",
+   "start": 54.616,
+   "end": 56.7,
+   "text": "Ese es el peligro real de los péptidos.",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 6.8 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  }
+ ],
+ "inserts": [],
+ "keep_clear": [],
+ "captions_id": "cee32b56c79c",
+ "brand": "podcast-peptidos",
+ "settings": {
+  "brand": "podcast-peptidos",
+  "style": null,
+  "subtitles": "none",
+  "subtitles_shade": null,
+  "profile": null,
+  "content_format": null,
+  "intensity": "moderate",
+  "use_broll": false,
+  "use_project_footage": true,
+  "use_local_footage": true,
+  "use_code_scenes": true,
+  "use_memes": false,
+  "use_local_memes": true,
+  "broll_priority": [
+   "project",
+   "local",
+   "generated"
+  ],
+  "meme_priority": [
+   "local"
+  ],
+  "footage_dirs": [
+   "footage",
+   "broll"
+  ],
+  "memes_dirs": [
+   "memes"
+  ],
+  "generation_engines": [
+   "code"
+  ],
+  "library_dirs": [],
+  "meme_size": "s",
+  "scene_tone": "calm",
+  "use_scenes": false,
+  "workflow": "standard",
+  "use_generated_footage": true,
+  "brand_tone": {
+   "label": "Expert, calm",
+   "for": "consulting, recruiting, education, B2B expertise",
+   "intensity": "moderate",
+   "motion": "calm",
+   "loudness": "calm",
+   "memes": {
+    "allowed": true,
+    "max": 1,
+    "size_max": "s",
+    "cutaway": false
+   },
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "shake": false,
+   "overshoot": false,
+   "full_scenes_max": 2,
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "scene_tone": "calm",
+   "sfx": "sparse",
+   "preset": "expert"
+  },
+  "profile_rules": null
+ },
+ "provenance": {
+  "brand": "reel.json",
+  "style": "defaults",
+  "subtitles": "reel.json",
+  "subtitles_shade": "defaults",
+  "profile": "defaults",
+  "content_format": "defaults",
+  "intensity": "tone:expert",
+  "use_broll": "defaults",
+  "use_project_footage": "defaults",
+  "use_local_footage": "defaults",
+  "use_code_scenes": "defaults",
+  "use_memes": "defaults",
+  "use_local_memes": "defaults",
+  "broll_priority": "defaults",
+  "meme_priority": "defaults",
+  "footage_dirs": "defaults",
+  "memes_dirs": "defaults",
+  "generation_engines": "defaults",
+  "library_dirs": "defaults",
+  "meme_size": "tone:expert",
+  "scene_tone": "tone:expert",
+  "use_scenes": "defaults",
+  "workflow": "defaults",
+  "brand_tone": "brand:podcast-peptidos"
+ },
+ "effective": {
+  "broll": false,
+  "project_footage": false,
+  "local_footage": false,
+  "generated_code": false,
+  "memes": false,
+  "local_memes": false,
+  "scenes": false,
+  "online_footage": false,
+  "generated_prompts": false,
+  "generate_now": false,
+  "online_memes": false,
+  "online_footage_providers": [],
+  "online_meme_providers": []
+ },
+ "fallback": {
+  "broll": "use_broll=false",
+  "project_footage": "off",
+  "local_footage": "off",
+  "generated_code": "off",
+  "memes": "use_memes=false",
+  "local_memes": "off",
+  "scenes": "use_scenes=false",
+  "online_footage": "off",
+  "generated_prompts": "off",
+  "generate_now": "off",
+  "online_memes": "off"
+ },
+ "budget": {
+  "label": "moderate",
+  "broll_per_30s": 3,
+  "memes_max": 2,
+  "coverage_max": 0.22,
+  "min_gap_s": 3.5,
+  "broll_max": 6,
+  "coverage_max_s": 12.47
+ },
+ "auto": true,
+ "subtitles_band": [
+  1250,
+  1430
+ ],
+ "export": {
+  "hook": null,
+  "corner": false,
+  "end": null
+ }
+}

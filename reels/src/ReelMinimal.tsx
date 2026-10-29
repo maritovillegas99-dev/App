@@ -18,7 +18,6 @@ const FONT: BrandFont = { family: "Montserrat", weights: [700, 800, 900], source
 const SIZE = 76;
 const EMPH = 1.38;
 const MAX_W = 900;
-const LEFT = 80;
 const BOTTOM = 1500; // nothing below: the app's UI
 const HOOK_UP = 100; // the hook starts this far above the subtitle top (still under the chin: export puts that top at chin + 30 or lower)
 const HOOK_H = 2 * 64 * 1.08 + 26; // two hook lines + the gap to the subtitles
@@ -64,17 +63,17 @@ const MinimalSubs: React.FC<{ words: Word[]; top: number; emphasis: string[]; hi
   const total = lines.reduce((n, l) => n + l.height, 0);
   const y0 = Math.min(top, BOTTOM - total);
   return (
-    <div data-rk="sub" style={{ position: "absolute", left: LEFT, width: MAX_W, top: y0, display: "flex", flexDirection: "column", alignItems: "flex-start" }}>
+    <div data-rk="sub" style={{ position: "absolute", left: (1080 - MAX_W) / 2, width: MAX_W, top: y0, display: "flex", flexDirection: "column", alignItems: "center" }}>
       {lines.map((l, i) => (
-        <div key={i} style={{ display: "flex", alignItems: "baseline", justifyContent: "flex-start", gap: SIZE * 0.28, height: l.height, whiteSpace: "pre" }}>
-          {l.words.map((w, k) => {
+        <div key={i} style={{ display: "flex", alignItems: "baseline", justifyContent: "center", gap: SIZE * 0.28, height: l.height, whiteSpace: "pre" }}>
+          {/* only the words already said: each line stays centered on what is on screen (line breaks fixed per chunk) */}
+          {l.words.filter((w) => w === c.words[0] || t >= w.start - 0.03).map((w, k) => {
             const big = emph.has(norm(w.text));
             const since = t - (w.start - 0.03);
             const p = interpolate(since * fps, [0, 4], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
-            const shown = w === c.words[0] || since >= 0;
             return (
               <span key={k} style={{ fontFamily: font, fontWeight: big ? 900 : 800, fontSize: big ? SIZE * EMPH : SIZE, lineHeight: 1.05, color: "#FFFFFF",
-                textShadow: SHADOW, opacity: shown ? (w === c.words[0] ? 1 : p) : 0, transform: `translateY(${shown ? (1 - p) * 10 : 10}px) scale(${shown ? 0.92 + 0.08 * p : 0.92})`,
+                textShadow: SHADOW, opacity: w === c.words[0] ? 1 : p, transform: `translateY(${(1 - p) * 10}px) scale(${0.92 + 0.08 * p})`,
                 display: "inline-block", transformOrigin: "50% 80%" }}>
                 {w.text}
               </span>
@@ -94,7 +93,7 @@ const MinimalHook: React.FC<{ hook: { text: string; until: number }; top: number
   const a = interpolate(frame, [0, 6, hook.until * fps - 6, hook.until * fps], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const y = interpolate(frame, [0, 8], [24, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
   return (
-    <div data-rk="hook" style={{ position: "absolute", left: LEFT, width: MAX_W, top, textAlign: "left", fontFamily: font, fontWeight: 900, fontSize: 64,
+    <div data-rk="hook" style={{ position: "absolute", left: (1080 - MAX_W) / 2, width: MAX_W, top, textAlign: "center", fontFamily: font, fontWeight: 900, fontSize: 64,
       lineHeight: 1.08, color: "#FFFFFF", textShadow: SHADOW, opacity: a, transform: `translateY(${y}px)`, textTransform: "uppercase", letterSpacing: 0.5 }}>
       {hook.text}
     </div>

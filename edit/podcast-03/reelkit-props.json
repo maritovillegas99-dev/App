@@ -1656,11 +1656,7 @@
  "callouts": [],
  "scenes": [],
  "sceneTone": "calm",
- "minimalHook": {
-  "text": "Lo venden en Instagram y sigue en estudio",
-  "until": 2.6,
-  "top": 1100
- },
+ "minimalHook": null,
  "emphasis": [
   "20%",
   "Instagram",

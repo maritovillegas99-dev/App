@@ -32,7 +32,7 @@ def main():
         top = min(top, int(BOTTOM - SUB_BLOCK - HOOK_H))  # gancho + subtítulos caben sobre y 1500
         if top < chin + 20:
             print(f"{cid}: ojo, el gancho queda a {top - chin} px del mentón")
-        props["minimalHook"] = {"text": cfg["hook"], "until": until, "top": top}
+        props["minimalHook"] = {"text": cfg["hook"], "until": until, "top": top} if cfg.get("hook") else None
         props["emphasis"] = cfg["emphasis"]
         props_path.write_text(json.dumps(props, ensure_ascii=False, indent=1))
         print(f"{cid}: gancho «{cfg['hook']}» en y {top} (mentón {chin}), subtítulos en y {props.get('subtitlesTop')}")
