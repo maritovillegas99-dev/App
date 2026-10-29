@@ -14,3 +14,6 @@ reels/public/podcast-*/
 edit/**/*.m4a
 edit/**/verify/
 edit/**/clips/
+edit/**/render.log
+edit/**/render.out
+edit/**/deliver.out
