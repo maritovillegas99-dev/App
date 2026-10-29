@@ -4,13 +4,13 @@
  "props": "/home/user/App/edit/podcast-01/reelkit-props.json",
  "ok": true,
  "code": 0,
- "seconds": 355.0,
+ "seconds": 226.3,
  "duration": 53.233333,
  "attempts": [
   {
    "code": 0,
-   "seconds": 355.0
+   "seconds": 226.3
   }
  ],
- "at": "2026-10-29 22:07:07"
+ "at": "2026-10-29 22:24:40"
 }
