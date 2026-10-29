@@ -11,7 +11,7 @@ for i in "$@"; do
   if [ "$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=p=0 $d/final.mp4)" != "1080" ]; then
     python3 tools/reframe_vertical.py $d 2>&1 | grep -vE "WARN|partial file" | tail -2
   fi
-  python3 tools/fix_captions.py $i | head -1
+  python3 tools/fix_captions.py $i > $d/fix_captions.out && head -1 $d/fix_captions.out
   python3 $S/faces.py scan $d 2>&1 | tail -1
   python3 $S/faces.py zones $d > /dev/null 2>&1
   python3 $S/visual_plan.py export $d --remotion reels --props $d/reelkit-props.json --subtitles none --no-hook --no-end --no-corner 2>&1 | grep -E "subtitles:|error|ERROR" || true

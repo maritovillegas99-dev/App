@@ -17,3 +17,4 @@ edit/**/clips/
 edit/**/render.log
 edit/**/render.out
 edit/**/deliver.out
+edit/**/fix_captions.out
