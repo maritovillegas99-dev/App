@@ -158,25 +158,25 @@
    "seg": 0
   },
   {
-   "text": "esos",
    "src": 3.653,
+   "seg": 0,
+   "text": "esos",
    "start": 0.486,
-   "end": 0.646,
-   "seg": 0
+   "end": 0.819
   },
   {
-   "text": "pérptidos",
-   "src": 3.893,
-   "start": 0.726,
-   "end": 1.526,
-   "seg": 0
+   "src": 3.653,
+   "seg": 0,
+   "text": "péptidos",
+   "start": 0.819,
+   "end": 1.419
   },
   {
+   "src": 3.653,
+   "seg": 0,
    "text": "que",
-   "src": 4.693,
-   "start": 1.526,
-   "end": 1.686,
-   "seg": 0
+   "start": 1.419,
+   "end": 1.686
   },
   {
    "text": "has",
@@ -284,32 +284,32 @@
    "seg": 2
   },
   {
-   "text": "un",
    "src": 12.743,
+   "seg": 2,
+   "text": "un",
    "start": 8.043,
-   "end": 8.203,
-   "seg": 2
+   "end": 8.223
   },
   {
-   "text": "pépti",
-   "src": 12.903,
-   "start": 8.203,
-   "end": 8.763,
-   "seg": 2
+   "src": 12.743,
+   "seg": 2,
+   "text": "péptido",
+   "start": 8.223,
+   "end": 8.703
   },
   {
+   "src": 12.743,
+   "seg": 2,
    "text": "como",
-   "src": 13.463,
-   "start": 8.763,
-   "end": 8.843,
-   "seg": 2
+   "start": 8.703,
+   "end": 9.003
   },
   {
+   "src": 12.743,
+   "seg": 2,
    "text": "tal",
-   "src": 13.783,
-   "start": 9.083,
-   "end": 9.243,
-   "seg": 2
+   "start": 9.003,
+   "end": 9.243
   },
   {
    "text": "que",
@@ -389,32 +389,32 @@
    "seg": 3
   },
   {
-   "text": "pero",
    "src": 18.103,
+   "seg": 3,
+   "text": "pero",
    "start": 13.07,
-   "end": 13.23,
-   "seg": 3
+   "end": 13.299
   },
   {
-   "text": "si",
-   "src": 18.263,
-   "start": 13.23,
-   "end": 13.31,
-   "seg": 3
+   "src": 18.103,
+   "seg": 3,
+   "text": "sí",
+   "start": 13.299,
+   "end": 13.436
   },
   {
+   "src": 18.103,
+   "seg": 3,
    "text": "hay",
-   "src": 18.343,
-   "start": 13.31,
-   "end": 13.47,
-   "seg": 3
+   "start": 13.436,
+   "end": 13.619
   },
   {
+   "src": 18.103,
+   "seg": 3,
    "text": "péptidos",
-   "src": 18.503,
-   "start": 13.47,
-   "end": 14.03,
-   "seg": 3
+   "start": 13.619,
+   "end": 14.03
   },
   {
    "text": "que",
@@ -837,32 +837,32 @@
    "seg": 6
   },
   {
-   "text": "Que",
    "src": 36.753,
+   "seg": 7,
+   "text": "¿Qué",
    "start": 30.553,
-   "end": 30.633,
-   "seg": 7
+   "end": 30.744
   },
   {
+   "src": 36.753,
+   "seg": 7,
    "text": "es",
-   "src": 36.833,
-   "start": 30.633,
-   "end": 30.713,
-   "seg": 7
+   "start": 30.744,
+   "end": 30.859
   },
   {
+   "src": 36.753,
+   "seg": 7,
    "text": "la",
-   "src": 36.913,
-   "start": 30.713,
-   "end": 30.873,
-   "seg": 7
+   "start": 30.859,
+   "end": 30.974
   },
   {
-   "text": "telomerasa.",
-   "src": 37.073,
-   "start": 30.873,
-   "end": 31.433,
-   "seg": 7
+   "src": 36.753,
+   "seg": 7,
+   "text": "telomerasa?",
+   "start": 30.974,
+   "end": 31.433
   },
   {
    "text": "Nosotros",
@@ -1019,67 +1019,95 @@
    "seg": 8
   },
   {
-   "text": "And",
    "src": 45.153,
+   "seg": 9,
+   "text": "Y",
    "start": 38.367,
-   "end": 38.48,
-   "seg": 9
+   "end": 38.47
   },
   {
+   "src": 45.153,
+   "seg": 9,
    "text": "el",
-   "src": 45.313,
-   "start": 38.48,
-   "end": 38.64,
-   "seg": 9
+   "start": 38.47,
+   "end": 38.626
   },
   {
+   "src": 45.153,
+   "seg": 9,
    "text": "envejecimiento",
-   "src": 45.473,
-   "start": 38.64,
-   "end": 39.6,
-   "seg": 9
+   "start": 38.626,
+   "end": 39.401
   },
   {
+   "src": 45.153,
+   "seg": 9,
    "text": "tiene",
-   "src": 46.433,
-   "start": 39.6,
-   "end": 39.68,
-   "seg": 9
+   "start": 39.401,
+   "end": 39.711
   },
   {
-   "text": "muchas",
-   "src": 46.753,
-   "start": 39.92,
-   "end": 40.16,
-   "seg": 9
+   "src": 45.153,
+   "seg": 9,
+   "text": "mucho",
+   "start": 39.711,
+   "end": 40.022
   },
   {
-   "text": "toalamiento",
-   "src": 46.993,
-   "start": 40.16,
-   "end": 41.44,
-   "seg": 9
+   "src": 45.153,
+   "seg": 9,
+   "text": "que",
+   "start": 40.022,
+   "end": 40.228
   },
   {
+   "src": 45.153,
+   "seg": 9,
+   "text": "ver",
+   "start": 40.228,
+   "end": 40.435
+  },
+  {
+   "src": 45.153,
+   "seg": 9,
+   "text": "con",
+   "start": 40.435,
+   "end": 40.642
+  },
+  {
+   "src": 45.153,
+   "seg": 9,
+   "text": "el",
+   "start": 40.642,
+   "end": 40.797
+  },
+  {
+   "src": 45.153,
+   "seg": 9,
+   "text": "acortamiento",
+   "start": 40.797,
+   "end": 41.469
+  },
+  {
+   "src": 45.153,
+   "seg": 9,
    "text": "de",
-   "src": 48.273,
-   "start": 41.44,
-   "end": 41.52,
-   "seg": 9
+   "start": 41.469,
+   "end": 41.624
   },
   {
+   "src": 45.153,
+   "seg": 9,
    "text": "los",
-   "src": 48.353,
-   "start": 41.52,
-   "end": 41.68,
-   "seg": 9
+   "start": 41.624,
+   "end": 41.831
   },
   {
+   "src": 45.153,
+   "seg": 9,
    "text": "telómeros.",
-   "src": 48.513,
-   "start": 41.68,
-   "end": 42.4,
-   "seg": 9
+   "start": 41.831,
+   "end": 42.4
   },
   {
    "text": "Entonces,",
@@ -1264,18 +1292,18 @@
    "seg": 12
   },
   {
-   "text": "avalen",
    "src": 62.423,
+   "seg": 13,
+   "text": "avalen",
    "start": 54.49,
-   "end": 54.81,
-   "seg": 13
+   "end": 54.91
   },
   {
-   "text": "esa.",
-   "src": 62.983,
-   "start": 55.05,
-   "end": 55.21,
-   "seg": 13
+   "src": 62.423,
+   "seg": 13,
+   "text": "eso.",
+   "start": 54.91,
+   "end": 55.21
   },
   {
    "text": "Todavía.",
@@ -1376,5 +1404,6 @@
    }
   },
   "max_gain_db": 4.65
- }
+ },
+ "fixed": 6
 }
