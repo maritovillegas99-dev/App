@@ -1,0 +1,549 @@
+{
+ "goal": "clips virales para TikTok/Reels/Shorts sobre péptidos, con la Dra. Michelle González: educar con responsabilidad",
+ "length": [
+  35,
+  70
+ ],
+ "blockers": [
+  "consentimiento de las dos personas en pantalla para publicar los clips",
+  "contenido de salud: nombres de medicamentos, cifras y dosis solo como se dicen"
+ ],
+ "rubrics": {
+  "insight": {
+   "label": "PÉPTIDOS"
+  },
+  "story": {
+   "label": "PÉPTIDOS",
+   "content_format": "story"
+  }
+ },
+ "excluded": [
+  {
+   "start": "24:05",
+   "end": "24:30",
+   "why": "transcripción confusa, audio a revisar"
+  }
+ ],
+ "clips": [
+  {
+   "id": "01",
+   "title": "Por qué a mucha gente no le funcionan los péptidos",
+   "rubric": "insight",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "El péptido es como un mensajero",
+     "to_words": "pero sí también funcionan sobre el terreno limpio",
+     "near": "02:31",
+     "near_end": "03:20",
+     "resolved": {
+      "start": 150.7,
+      "end": 206.4,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "El péptido es como un mensajero... pero nadie entrega un mensaje si no lo quieren escuchar",
+   "why": "metáfora clara + giro: sin terreno limpio no funciona",
+   "ending": "sí funcionan, sobre el terreno limpio",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "270861d6f70e",
+    "errors": [],
+    "warnings": [],
+    "length": 55.7
+   }
+  },
+  {
+   "id": "02",
+   "title": "BPC-157: 'me curé en dos días'... ¿y el riesgo?",
+   "rubric": "insight",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "de personas que dicen yo tenía asiática",
+     "to_words": "es cuestión de dos días ya lo pueden mover",
+     "near": "05:21",
+     "resolved": {
+      "start": 321.18,
+      "end": 342.94,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "El BPC 157 es un péptido de 15 aminoácidos",
+     "to_words": "No tiene investigaciones suficientes en humanos",
+     "near": "06:06",
+     "resolved": {
+      "start": 365.7,
+      "end": 375.94,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "bueno, algo con este festivo que ha tenido",
+     "to_words": "por eso ha sido un peptido un poquito controversial",
+     "near": "06:40",
+     "resolved": {
+      "start": 399.29,
+      "end": 415.14,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "La pregunta de los testimonios: 'gracias a ese péptido me curé'",
+   "why": "testimonio viral + contrapunto médico (vasos nuevos y cáncer)",
+   "ending": "por eso ha sido un péptido controversial",
+   "speaker": "Michelle",
+   "host": "keep",
+   "risks": [
+    "salud: menciona el mecanismo de células cancerígenas, mostrarlo tal cual lo dice"
+   ],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "fa84c865cf62",
+    "errors": [],
+    "warnings": [],
+    "length": 47.8
+   }
+  },
+  {
+   "id": "03",
+   "title": "Retatrutide: lo venden en Instagram antes de terminar los estudios",
+   "rubric": "insight",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "Y recientemente, esta semana, The Lancet",
+     "to_words": "podrían perder hasta un 20% de su peso con la dosis máxima",
+     "near": "10:32",
+     "resolved": {
+      "start": 631.91,
+      "end": 647.82,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "O sea, si eso apenas pasó esta semana",
+     "to_words": "porque los estudios toman mucho tiempo para hacerse",
+     "near": "11:24",
+     "resolved": {
+      "start": 684.05,
+      "end": 703.98,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "Entonces ya con esta fase 3, digamos, de reta",
+     "to_words": "vieron que ya se puede, entonces ahí sí lo sacaron",
+     "near": "12:15",
+     "resolved": {
+      "start": 734.84,
+      "end": 760.93,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "Llevo meses viendo gente en Instagram usando Reta y vendiéndolo, que da miedo",
+   "why": "tema caliente + cifra dicha por la médica",
+   "ending": "hay laboratorios que no invierten nada y lo sacaron",
+   "speaker": "Michelle",
+   "host": "keep",
+   "risks": [
+    "'esta semana' fecha el clip",
+    "cifra 20% solo como la dice",
+    "afirma que Lilly quiere demandar a quienes producen la molécula: confirmar que se puede publicar"
+   ],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "b3db19c1f089",
+    "errors": [],
+    "warnings": [],
+    "length": 61.9
+   }
+  },
+  {
+   "id": "04",
+   "title": "El peligro real de los péptidos no es la molécula",
+   "rubric": "insight",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "El problema siento con estos que con estos péptidos es la pureza",
+     "to_words": "Ese es el peligro real de los fétiles",
+     "near": "16:37",
+     "near_end": "17:33",
+     "resolved": {
+      "start": 996.49,
+      "end": 1055.33,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "El problema con estos péptidos es la pureza",
+   "why": "advertencia concreta: metales pesados, bacterias, dosis falsas",
+   "ending": "ese es el peligro real",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "bdd4a0c91fd7",
+    "errors": [],
+    "warnings": [],
+    "length": 58.8
+   }
+  },
+  {
+   "id": "05",
+   "title": "Señal roja: microcursos para recetar péptidos",
+   "rubric": "insight",
+   "wave": 2,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "no es tanto el precio sino la audiencia",
+     "to_words": "Uno que hacen microcursos, he visto",
+     "near": "19:24",
+     "resolved": {
+      "start": 1163.76,
+      "end": 1175.35,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "Microcursos para aprender a recetar péptidos. ¿Cómo tú vas a hacer un microcurso",
+     "to_words": "Eso me parece una buena señal, por ejemplo",
+     "near": "19:40",
+     "near_end": "20:22",
+     "resolved": {
+      "start": 1180.15,
+      "end": 1224.53,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "Microcursos para aprender a recetar péptidos",
+   "why": "indignación fundamentada: 6 años de medicina vs. un microcurso",
+   "ending": "hay laboratorios éticos que solo le venden a médicos: buena señal",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "e4c035f0c044",
+    "errors": [],
+    "warnings": [],
+    "length": 56.0
+   }
+  },
+  {
+   "id": "06",
+   "title": "La médica que pensaba que los péptidos eran irresponsables",
+   "rubric": "story",
+   "wave": 2,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "O sea, sí, sin duda alguna, los péptidos son una revolución",
+     "to_words": "Y me daban que tening resultados más buenos",
+     "near": "22:08",
+     "near_end": "22:58",
+     "resolved": {
+      "start": 1328.12,
+      "end": 1380.36,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "Yo pensaba como muchos colegas: los péptidos son súper irresponsables",
+   "why": "historia de cambio de opinión con giro",
+   "ending": "cómo preparar a una persona para recibir los péptidos",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [
+    "menciona a un tercero por nombre (un médico de Medellín, Joaquín): confirmar o cortar esa frase"
+   ],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "dfc461915d24",
+    "errors": [],
+    "warnings": [],
+    "length": 52.2
+   }
+  },
+  {
+   "id": "07",
+   "title": "'Bajé 5 kilos en dos semanas'... ¿a qué costo?",
+   "rubric": "story",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "¿Cuál es el péptido que más te preocupa",
+     "to_words": "en este momento que la gente esté inyectando",
+     "near": "28:42",
+     "resolved": {
+      "start": 1722.17,
+      "end": 1728.17,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "el de lo que más me preocupa en este momento",
+     "to_words": "son específicamente de los péptidos para bajar de peso",
+     "near": "28:51",
+     "resolved": {
+      "start": 1731.53,
+      "end": 1738.17,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "porque yo he tenido pacientes que me llegan",
+     "to_words": "vas a quedar con menos músculo, ya",
+     "near": "29:45",
+     "near_end": "30:18",
+     "resolved": {
+      "start": 1785.99,
+      "end": 1819.93,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "¿Cuál es el péptido que más te preocupa?",
+   "why": "pregunta directa + caso de consulta muy reconocible",
+   "ending": "cuando suspendas el medicamento vas a quedar con menos músculo",
+   "speaker": "Michelle",
+   "host": "keep",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "bab7884d1e97",
+    "errors": [],
+    "warnings": [
+     "piece b starts mid-sentence at 28:51.5: «…Como cuan caliente, sí, bueno, | el de lo que»",
+     "piece c starts mid-sentence at 29:46.0: «…la gente dice como que, | porque yo he tenido»"
+    ],
+    "length": 46.6
+   }
+  },
+  {
+   "id": "08",
+   "title": "El problema no es bajar de peso, es sostenerlo",
+   "rubric": "insight",
+   "wave": 2,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "No, y el tema con estos térpidos de para perder peso",
+     "to_words": "cuántos gramos de proteína por kilo tenían que comer al día",
+     "near": "31:27",
+     "resolved": {
+      "start": 1886.94,
+      "end": 1914.43,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "Y siento que los tóptidos son una excelente herramienta",
+     "to_words": "o no puedes empezar a titular la dosis así",
+     "near": "33:12",
+     "resolved": {
+      "start": 1991.66,
+      "end": 2012.07,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "El 80% de los pacientes sí o sí pierden peso",
+   "why": "cifra dicha por la médica + el verdadero problema",
+   "ending": "si no estás obeso, no puedes usar dosis de obeso",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [
+    "cifra 80% solo como la dice"
+   ],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "90788a95ac58",
+    "errors": [],
+    "warnings": [],
+    "length": 47.9
+   }
+  },
+  {
+   "id": "09",
+   "title": "¿Existe un péptido que alargue la vida?",
+   "rubric": "insight",
+   "wave": 2,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "Entre todos esos pérptidos que has mencionado",
+     "to_words": "Pero pues no hay estudios que avalen esa",
+     "near": "33:52",
+     "near_end": "34:50",
+     "resolved": {
+      "start": 2031.78,
+      "end": 2091.91,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "¿Hay algún péptido que prolongue la vida?",
+   "why": "curiosidad (longevidad, telómeros) con respuesta honesta",
+   "ending": "no hay estudios que lo avalen... todavía",
+   "speaker": "Michelle",
+   "host": "keep",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "3ed6969ef504",
+    "errors": [],
+    "warnings": [],
+    "length": 60.1
+   }
+  },
+  {
+   "id": "10",
+   "title": "3 cosas que una médica jamás haría con péptidos",
+   "rubric": "insight",
+   "wave": 1,
+   "status": "proposed",
+   "parts": [
+    {
+     "from_words": "dime tres cosas o cuáles son esas tres cosas",
+     "to_words": "si eres apto para ponerte tus pectitos",
+     "near": "39:34",
+     "near_end": "40:20",
+     "resolved": {
+      "start": 2374.05,
+      "end": 2421.37,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "Tres cosas que jamás haría en el mundo de los péptidos",
+   "why": "formato lista, cierre perfecto para la serie",
+   "ending": "si eres apto para ponerte tus péptidos",
+   "speaker": "Michelle",
+   "host": "keep",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "cda61da7b8fb",
+    "errors": [],
+    "warnings": [],
+    "length": 47.3
+   }
+  },
+  {
+   "id": "11",
+   "title": "No es lo mismo que lo que se inyectan en el gimnasio",
+   "rubric": "insight",
+   "wave": 3,
+   "status": "reserve",
+   "parts": [
+    {
+     "from_words": "Algo muy característico que diferencia",
+     "to_words": "se liera por pulsos",
+     "near": "14:39",
+     "near_end": "15:15",
+     "resolved": {
+      "start": 879.12,
+      "end": 915.95,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "¿Es lo mismo que se inyectan en el gimnasio? No",
+   "why": "aclara un mito común",
+   "ending": "se libera por pulsos",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "7fbf639a704d",
+    "errors": [],
+    "warnings": [],
+    "length": 36.8
+   }
+  },
+  {
+   "id": "12",
+   "title": "Eso no lo va a lograr un péptido",
+   "rubric": "insight",
+   "wave": 3,
+   "status": "reserve",
+   "parts": [
+    {
+     "from_words": "Yo les diría que la pérdida de peso es un proceso",
+     "to_words": "tóxicas, porque todo eso influye",
+     "near": "40:38",
+     "resolved": {
+      "start": 2438.12,
+      "end": 2471.59,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "O sea, ya no me dan ganas de",
+     "to_words": "Un estilo de vida completo",
+     "near": "42:02",
+     "near_end": "42:36",
+     "resolved": {
+      "start": 2521.96,
+      "end": 2557.11,
+      "rev": "7ce6029126a8"
+     }
+    }
+   ],
+   "hook": "Qué le diría a quien quiere perder peso como sea",
+   "why": "mensaje de cierre con valor",
+   "ending": "un estilo de vida completo",
+   "speaker": "Michelle",
+   "host": "cut",
+   "risks": [],
+   "allow": [],
+   "settings": {},
+   "check": {
+    "rev": "7ce6029126a8",
+    "key": "396a971c56c8",
+    "errors": [],
+    "warnings": [],
+    "length": 68.6
+   }
+  }
+ ]
+}
