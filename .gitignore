@@ -3,3 +3,10 @@ reels/out/
 __pycache__/
 .DS_Store
 models/sherpa-onnx-*/
+
+# Videos crudos y trabajo intermedio pesado (demasiado grandes para git)
+Material crudo/*
+!Material crudo/.gitkeep
+edit/**/*.mp4
+edit/**/*.wav
+edit/**/*.mov
