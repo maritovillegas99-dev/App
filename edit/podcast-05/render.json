@@ -1,0 +1,16 @@
+{
+ "out": "/home/user/App/reels/out/podcast-05.mp4",
+ "comp": "ReelMinimal",
+ "props": "/home/user/App/edit/podcast-05/reelkit-props.json",
+ "ok": true,
+ "code": 0,
+ "seconds": 184.4,
+ "duration": 49.966667,
+ "attempts": [
+  {
+   "code": 0,
+   "seconds": 184.4
+  }
+ ],
+ "at": "2026-10-29 22:39:31"
+}
