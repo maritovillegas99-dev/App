@@ -1,0 +1,170 @@
+{
+ "cam": null,
+ "sub": [
+  1250,
+  1430
+ ],
+ "margin": 60,
+ "frame": null,
+ "segments": [
+  {
+   "id": "k00",
+   "start": 0.0,
+   "end": 5.333,
+   "face": [
+    266,
+    332,
+    561,
+    780
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 166,
+   "right": 73,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k01",
+   "start": 5.333,
+   "end": 15.4,
+   "face": [
+    210,
+    334,
+    693,
+    751
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 110,
+   "right": 0,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k02",
+   "start": 15.4,
+   "end": 20.433,
+   "face": [
+    267,
+    445,
+    503,
+    621
+   ],
+   "ceiling": [
+    250,
+    385
+   ],
+   "chest": null,
+   "left": 167,
+   "right": 130,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k03",
+   "start": 20.433,
+   "end": 28.666,
+   "face": [
+    267,
+    460,
+    527,
+    622
+   ],
+   "ceiling": [
+    250,
+    400
+   ],
+   "chest": null,
+   "left": 167,
+   "right": 106,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k04",
+   "start": 28.667,
+   "end": 36.0,
+   "face": [
+    245,
+    345,
+    580,
+    757
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 145,
+   "right": 75,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k05",
+   "start": 36.0,
+   "end": 41.033,
+   "face": [
+    260,
+    363,
+    554,
+    725
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 160,
+   "right": 86,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k06",
+   "start": 41.033,
+   "end": 45.866,
+   "face": [
+    224,
+    325,
+    605,
+    748
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 124,
+   "right": 71,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k07",
+   "start": 45.867,
+   "end": 51.434,
+   "face": [
+    269,
+    350,
+    558,
+    736
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 169,
+   "right": 73,
+   "sub_ok": true,
+   "cut_top": false
+  },
+  {
+   "id": "k08",
+   "start": 51.433,
+   "end": 61.8,
+   "face": [
+    223,
+    364,
+    572,
+    705
+   ],
+   "ceiling": null,
+   "chest": null,
+   "left": 123,
+   "right": 105,
+   "sub_ok": true,
+   "cut_top": false
+  }
+ ]
+}

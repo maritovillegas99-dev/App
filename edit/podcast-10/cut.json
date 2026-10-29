@@ -79,5 +79,15 @@
    "beat": "piece a",
    "source": "a"
   }
- ]
+ ],
+ "look": {
+  "correct": "colorchannelmixer=rr=0.98:bb=1.02"
+ },
+ "balance": {
+  "look": "[null, null, null, \"\"]",
+  "sources": "{\"scale\": \"auto\", \"sources\": {\"a\": {\"file\": \"edit/podcast-10/src/podcast-10a.mp4\", \"transcript\": \"edit/podcast-10/transcripts/podcast-10a.json\"}}}",
+  "ranges": "[[\"a\", 3.2, 4.567], [\"a\", 4.8, 8.767], [\"a\", 9.867, 10.6], [\"a\", 10.833, 13.2], [\"a\", 13.6, 17.333], [\"a\", 17.867, 19.167], [\"a\", 19.733, 24.667], [\"a\", 25.0, 29.933], [\"a\", 30.767, 33.433], [\"a\", 33.8, 38.4], [\"a\", 38.6, 40.967], [\"a\", 41.233, 50.4]]",
+  "mode": "auto",
+  "result": "written"
+ }
 }

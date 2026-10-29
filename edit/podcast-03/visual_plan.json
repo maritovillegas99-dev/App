@@ -1,0 +1,443 @@
+{
+ "schema": 1,
+ "id": "podcast-03",
+ "created": "2026-10-29T22:09",
+ "duration": 61.8,
+ "segments": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 5.357,
+   "text": "Y recientemente, esta semana, The Lancet, que es una revista pues muy reconocida en el mundo de la medicina,",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "hook: the first 1.5 s decide whether people keep watching",
+    "scene:hook - a weak start (a filler word, or > 2 s without a number or a question) -> a hook scene",
+    "scene:list - an enumeration -> a list scene (items on their own words)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 5.357,
+   "end": 7.037,
+   "text": "montó los resultados",
+   "cut_segs": [
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 10.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s03",
+   "start": 7.037,
+   "end": 9.187,
+   "text": "de este estudio que se llama TRIUMPH-3.",
+   "cut_segs": [
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 9.187,
+   "end": 13.427,
+   "text": "Y demostró que en pacientes obesos y con diabetes podrían perder hasta un 20%",
+   "cut_segs": [
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.1 s segment without a cut: room for a change of picture",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s05",
+   "start": 13.427,
+   "end": 16.917,
+   "text": "de su peso con la dosis máxima. Pero sí me queda como... exacto.",
+   "cut_segs": [
+    1,
+    2
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.1 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s06",
+   "start": 16.917,
+   "end": 21.274,
+   "text": "O sea, si eso apenas pasó esta semana, es que llevo por ahí que... no sé,",
+   "cut_segs": [
+    2,
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 8.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s07",
+   "start": 21.274,
+   "end": 26.394,
+   "text": "tres meses, cuatro meses viendo un montón de personas en mi Instagram usando Reta",
+   "cut_segs": [
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 8.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s08",
+   "start": 26.394,
+   "end": 28.847,
+   "text": "y vendiéndolo, que da miedo.",
+   "cut_segs": [
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 8.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s09",
+   "start": 28.847,
+   "end": 32.127,
+   "text": "Pero es un péptido que lleva mucho tiempo en investigación.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 7.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s10",
+   "start": 32.127,
+   "end": 36.24,
+   "text": "O sea, salió esta semana porque los estudios toman mucho tiempo para hacerse.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 7.3 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s11",
+   "start": 36.24,
+   "end": 40.531,
+   "text": "Entonces ya con esta fase 3, digamos, de Reta, que es por un laboratorio que se llama",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 40.531,
+   "end": 42.754,
+   "text": "Lilly, que lo que quiere hacer precisamente Lilly",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 42.754,
+   "end": 48.087,
+   "text": "es demandar a todas las personas que están produciendo esta molécula, porque pues hacer estudios es costosísimo.",
+   "cut_segs": [
+    6,
+    7
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s14",
+   "start": 48.087,
+   "end": 51.9,
+   "text": "Imagínate, tú coges 10 mil personas para hacer los estudios. Claro.",
+   "cut_segs": [
+    7,
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.4 s segment without a cut: room for a change of picture",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s15",
+   "start": 51.9,
+   "end": 55.91,
+   "text": "Y esa plata es la que invierte ese laboratorio en específico, que es el laboratorio de Lilly.",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.4 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s16",
+   "start": 55.91,
+   "end": 60.71,
+   "text": "Claro, hay laboratorios que no invierten absolutamente nada, vieron que ya se puede, entonces ahí sí",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.4 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s17",
+   "start": 60.71,
+   "end": 61.8,
+   "text": "lo sacaron.",
+   "cut_segs": [
+    8
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 10.4 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  }
+ ],
+ "inserts": [],
+ "keep_clear": [],
+ "captions_id": "2a3fb7d206dd",
+ "brand": "podcast-peptidos",
+ "settings": {
+  "brand": "podcast-peptidos",
+  "style": null,
+  "subtitles": "none",
+  "subtitles_shade": null,
+  "profile": null,
+  "content_format": null,
+  "intensity": "moderate",
+  "use_broll": false,
+  "use_project_footage": true,
+  "use_local_footage": true,
+  "use_code_scenes": true,
+  "use_memes": false,
+  "use_local_memes": true,
+  "broll_priority": [
+   "project",
+   "local",
+   "generated"
+  ],
+  "meme_priority": [
+   "local"
+  ],
+  "footage_dirs": [
+   "footage",
+   "broll"
+  ],
+  "memes_dirs": [
+   "memes"
+  ],
+  "generation_engines": [
+   "code"
+  ],
+  "library_dirs": [],
+  "meme_size": "s",
+  "scene_tone": "calm",
+  "use_scenes": false,
+  "workflow": "standard",
+  "use_generated_footage": true,
+  "brand_tone": {
+   "label": "Expert, calm",
+   "for": "consulting, recruiting, education, B2B expertise",
+   "intensity": "moderate",
+   "motion": "calm",
+   "loudness": "calm",
+   "memes": {
+    "allowed": true,
+    "max": 1,
+    "size_max": "s",
+    "cutaway": false
+   },
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "shake": false,
+   "overshoot": false,
+   "full_scenes_max": 2,
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "scene_tone": "calm",
+   "sfx": "sparse",
+   "preset": "expert"
+  },
+  "profile_rules": null
+ },
+ "provenance": {
+  "brand": "reel.json",
+  "style": "defaults",
+  "subtitles": "reel.json",
+  "subtitles_shade": "defaults",
+  "profile": "defaults",
+  "content_format": "defaults",
+  "intensity": "tone:expert",
+  "use_broll": "defaults",
+  "use_project_footage": "defaults",
+  "use_local_footage": "defaults",
+  "use_code_scenes": "defaults",
+  "use_memes": "defaults",
+  "use_local_memes": "defaults",
+  "broll_priority": "defaults",
+  "meme_priority": "defaults",
+  "footage_dirs": "defaults",
+  "memes_dirs": "defaults",
+  "generation_engines": "defaults",
+  "library_dirs": "defaults",
+  "meme_size": "tone:expert",
+  "scene_tone": "tone:expert",
+  "use_scenes": "defaults",
+  "workflow": "defaults",
+  "brand_tone": "brand:podcast-peptidos"
+ },
+ "effective": {
+  "broll": false,
+  "project_footage": false,
+  "local_footage": false,
+  "generated_code": false,
+  "memes": false,
+  "local_memes": false,
+  "scenes": false,
+  "online_footage": false,
+  "generated_prompts": false,
+  "generate_now": false,
+  "online_memes": false,
+  "online_footage_providers": [],
+  "online_meme_providers": []
+ },
+ "fallback": {
+  "broll": "use_broll=false",
+  "project_footage": "off",
+  "local_footage": "off",
+  "generated_code": "off",
+  "memes": "use_memes=false",
+  "local_memes": "off",
+  "scenes": "use_scenes=false",
+  "online_footage": "off",
+  "generated_prompts": "off",
+  "generate_now": "off",
+  "online_memes": "off"
+ },
+ "budget": {
+  "label": "moderate",
+  "broll_per_30s": 3,
+  "memes_max": 2,
+  "coverage_max": 0.22,
+  "min_gap_s": 3.5,
+  "broll_max": 7,
+  "coverage_max_s": 13.6
+ },
+ "auto": true,
+ "subtitles_band": [
+  1250,
+  1430
+ ],
+ "export": {
+  "hook": null,
+  "corner": false,
+  "end": null
+ }
+}

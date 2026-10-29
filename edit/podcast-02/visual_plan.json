@@ -1,0 +1,377 @@
+{
+ "schema": 1,
+ "id": "podcast-02",
+ "created": "2026-10-29T22:03",
+ "duration": 47.333,
+ "segments": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 5.293,
+   "text": "De personas que dicen: «yo tenía ciática y gracias a ese péptido me curé».",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 16.6 s segment without a cut: room for a change of picture",
+    "hook: the first 1.5 s decide whether people keep watching",
+    "scene:hook - a weak start (a filler word, or > 2 s without a number or a question) -> a hook scene",
+    "scene:quote - someone else's words -> a quote scene (verbatim, with a source)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 5.293,
+   "end": 9.613,
+   "text": "O mujeres que después de la de la menopausia, la perimenopausia,",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 16.6 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s03",
+   "start": 9.613,
+   "end": 12.493,
+   "text": "les dan como un síndrome en los hombros que no los pueden mover.",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 16.6 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 12.493,
+   "end": 16.82,
+   "text": "No recuerdo cómo se llama bien, pero como que eso se les paraliza.",
+   "cut_segs": [
+    0
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 16.6 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s05",
+   "start": 16.82,
+   "end": 19.14,
+   "text": "Y que gracias a ese péptido,",
+   "cut_segs": [
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s06",
+   "start": 19.14,
+   "end": 21.4,
+   "text": "es cuestión de dos días ya lo pueden mover.",
+   "cut_segs": [
+    1
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [],
+   "notes": ""
+  },
+  {
+   "id": "s07",
+   "start": 21.4,
+   "end": 25.727,
+   "text": "El BPC-157 es un péptido de 15 aminoácidos y",
+   "cut_segs": [
+    2,
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s08",
+   "start": 25.727,
+   "end": 28.033,
+   "text": "lleva como unos 30 años en el mercado.",
+   "cut_segs": [
+    3
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a number -> a card works better than B-roll",
+    "scene:stat - a number in the speech -> a stat scene (a source is required)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s09",
+   "start": 28.033,
+   "end": 31.202,
+   "text": "No tiene investigaciones suficientes en humanos.",
+   "cut_segs": [
+    4
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s10",
+   "start": 31.202,
+   "end": 35.743,
+   "text": "Bueno, algo con este péptido que ha tenido un poquito de controversia es que",
+   "cut_segs": [
+    4,
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "a 13.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s11",
+   "start": 35.743,
+   "end": 39.263,
+   "text": "como promueven la formación de nuevos vasos que hacen parte obviamente",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 13.2 s segment without a cut: room for a change of picture"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 39.263,
+   "end": 44.36,
+   "text": "de una recuperación, pero también hace parte del mecanismo que usan las células cancerígenas.",
+   "cut_segs": [
+    5
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a 13.2 s segment without a cut: room for a change of picture",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 44.36,
+   "end": 47.333,
+   "text": "Entonces por eso ha sido un péptido un poquito controversial.",
+   "cut_segs": [
+    6
+   ],
+   "main": "main shot",
+   "camera": "",
+   "graphics": "",
+   "hints": [
+    "a segment join at the start: B-roll will hide the cut",
+    "ending/CTA: no memes here"
+   ],
+   "notes": ""
+  }
+ ],
+ "inserts": [],
+ "keep_clear": [],
+ "captions_id": "d7e2e2b62176",
+ "brand": "podcast-peptidos",
+ "settings": {
+  "brand": "podcast-peptidos",
+  "style": null,
+  "subtitles": "none",
+  "subtitles_shade": null,
+  "profile": null,
+  "content_format": null,
+  "intensity": "moderate",
+  "use_broll": false,
+  "use_project_footage": true,
+  "use_local_footage": true,
+  "use_code_scenes": true,
+  "use_memes": false,
+  "use_local_memes": true,
+  "broll_priority": [
+   "project",
+   "local",
+   "generated"
+  ],
+  "meme_priority": [
+   "local"
+  ],
+  "footage_dirs": [
+   "footage",
+   "broll"
+  ],
+  "memes_dirs": [
+   "memes"
+  ],
+  "generation_engines": [
+   "code"
+  ],
+  "library_dirs": [],
+  "meme_size": "s",
+  "scene_tone": "calm",
+  "use_scenes": false,
+  "workflow": "standard",
+  "use_generated_footage": true,
+  "brand_tone": {
+   "label": "Expert, calm",
+   "for": "consulting, recruiting, education, B2B expertise",
+   "intensity": "moderate",
+   "motion": "calm",
+   "loudness": "calm",
+   "memes": {
+    "allowed": true,
+    "max": 1,
+    "size_max": "s",
+    "cutaway": false
+   },
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "shake": false,
+   "overshoot": false,
+   "full_scenes_max": 2,
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "scene_tone": "calm",
+   "sfx": "sparse",
+   "preset": "expert"
+  },
+  "profile_rules": null
+ },
+ "provenance": {
+  "brand": "reel.json",
+  "style": "defaults",
+  "subtitles": "reel.json",
+  "subtitles_shade": "defaults",
+  "profile": "defaults",
+  "content_format": "defaults",
+  "intensity": "tone:expert",
+  "use_broll": "defaults",
+  "use_project_footage": "defaults",
+  "use_local_footage": "defaults",
+  "use_code_scenes": "defaults",
+  "use_memes": "defaults",
+  "use_local_memes": "defaults",
+  "broll_priority": "defaults",
+  "meme_priority": "defaults",
+  "footage_dirs": "defaults",
+  "memes_dirs": "defaults",
+  "generation_engines": "defaults",
+  "library_dirs": "defaults",
+  "meme_size": "tone:expert",
+  "scene_tone": "tone:expert",
+  "use_scenes": "defaults",
+  "workflow": "defaults",
+  "brand_tone": "brand:podcast-peptidos"
+ },
+ "effective": {
+  "broll": false,
+  "project_footage": false,
+  "local_footage": false,
+  "generated_code": false,
+  "memes": false,
+  "local_memes": false,
+  "scenes": false,
+  "online_footage": false,
+  "generated_prompts": false,
+  "generate_now": false,
+  "online_memes": false,
+  "online_footage_providers": [],
+  "online_meme_providers": []
+ },
+ "fallback": {
+  "broll": "use_broll=false",
+  "project_footage": "off",
+  "local_footage": "off",
+  "generated_code": "off",
+  "memes": "use_memes=false",
+  "local_memes": "off",
+  "scenes": "use_scenes=false",
+  "online_footage": "off",
+  "generated_prompts": "off",
+  "generate_now": "off",
+  "online_memes": "off"
+ },
+ "budget": {
+  "label": "moderate",
+  "broll_per_30s": 3,
+  "memes_max": 2,
+  "coverage_max": 0.22,
+  "min_gap_s": 3.5,
+  "broll_max": 5,
+  "coverage_max_s": 10.41
+ },
+ "auto": true,
+ "subtitles_band": [
+  1250,
+  1430
+ ],
+ "export": {
+  "hook": null,
+  "corner": false,
+  "end": null
+ }
+}
