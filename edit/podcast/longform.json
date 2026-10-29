@@ -1,0 +1,20 @@
+{
+ "schema": 1,
+ "source": {
+  "file": "Material crudo/podcast_completo.mp4",
+  "name": "podcast_completo.mp4",
+  "identity": {
+   "path": "/home/user/App/Material crudo/podcast_completo.mp4",
+   "size": 2323089602,
+   "mtime_ns": 1793308807136727810
+  },
+  "duration": 2619.033,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "audio_offset": 0.0
+ },
+ "preset": null,
+ "pad": 3.0,
+ "clips": {}
+}
