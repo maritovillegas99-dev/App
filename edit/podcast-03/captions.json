@@ -1,0 +1,1582 @@
+{
+ "duration": 61.8,
+ "segments": [
+  {
+   "i": 0,
+   "source": "a",
+   "src_start": 3.1,
+   "src_end": 8.433,
+   "out_start": 0.0,
+   "out_dur": 5.333,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 1,
+   "source": "a",
+   "src_start": 8.667,
+   "src_end": 18.733,
+   "out_start": 5.333,
+   "out_dur": 10.067,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 2,
+   "source": "b",
+   "src_start": 1.5,
+   "src_end": 6.533,
+   "out_start": 15.4,
+   "out_dur": 5.033,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 3,
+   "source": "b",
+   "src_start": 7.067,
+   "src_end": 15.3,
+   "out_start": 20.433,
+   "out_dur": 8.233,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 4,
+   "source": "b",
+   "src_start": 15.567,
+   "src_end": 22.9,
+   "out_start": 28.667,
+   "out_dur": 7.333,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 5,
+   "source": "c",
+   "src_start": 2.767,
+   "src_end": 7.8,
+   "out_start": 36.0,
+   "out_dur": 5.033,
+   "speed": 1.0,
+   "beat": "piece c"
+  },
+  {
+   "i": 6,
+   "source": "c",
+   "src_start": 8.167,
+   "src_end": 13.0,
+   "out_start": 41.033,
+   "out_dur": 4.833,
+   "speed": 1.0,
+   "beat": "piece c"
+  },
+  {
+   "i": 7,
+   "source": "c",
+   "src_start": 13.267,
+   "src_end": 18.833,
+   "out_start": 45.867,
+   "out_dur": 5.567,
+   "speed": 1.0,
+   "beat": "piece c"
+  },
+  {
+   "i": 8,
+   "source": "c",
+   "src_start": 19.1,
+   "src_end": 29.467,
+   "out_start": 51.433,
+   "out_dur": 10.367,
+   "speed": 1.0,
+   "beat": "piece c"
+  }
+ ],
+ "words": [
+  {
+   "text": "Y",
+   "src": 3.01,
+   "start": 0.0,
+   "end": 0.23,
+   "seg": 0
+  },
+  {
+   "text": "recientemente,",
+   "src": 3.33,
+   "start": 0.23,
+   "end": 0.79,
+   "seg": 0
+  },
+  {
+   "text": "esta",
+   "src": 3.97,
+   "start": 0.87,
+   "end": 1.11,
+   "seg": 0
+  },
+  {
+   "text": "semana,",
+   "src": 4.21,
+   "start": 1.11,
+   "end": 1.27,
+   "seg": 0
+  },
+  {
+   "text": "The",
+   "src": 4.53,
+   "start": 1.43,
+   "end": 1.59,
+   "seg": 0
+  },
+  {
+   "text": "Lancet,",
+   "src": 4.77,
+   "start": 1.67,
+   "end": 2.07,
+   "seg": 0
+  },
+  {
+   "text": "que",
+   "src": 5.33,
+   "start": 2.23,
+   "end": 2.39,
+   "seg": 0
+  },
+  {
+   "text": "es",
+   "src": 5.49,
+   "start": 2.39,
+   "end": 2.47,
+   "seg": 0
+  },
+  {
+   "text": "una",
+   "src": 5.57,
+   "start": 2.47,
+   "end": 2.63,
+   "seg": 0
+  },
+  {
+   "text": "revista",
+   "src": 5.73,
+   "start": 2.63,
+   "end": 3.11,
+   "seg": 0
+  },
+  {
+   "text": "pues",
+   "src": 6.21,
+   "start": 3.11,
+   "end": 3.35,
+   "seg": 0
+  },
+  {
+   "text": "muy",
+   "src": 6.45,
+   "start": 3.35,
+   "end": 3.51,
+   "seg": 0
+  },
+  {
+   "text": "reconocida",
+   "src": 6.61,
+   "start": 3.51,
+   "end": 4.07,
+   "seg": 0
+  },
+  {
+   "text": "en",
+   "src": 7.17,
+   "start": 4.07,
+   "end": 4.23,
+   "seg": 0
+  },
+  {
+   "text": "el",
+   "src": 7.33,
+   "start": 4.23,
+   "end": 4.31,
+   "seg": 0
+  },
+  {
+   "text": "mundo",
+   "src": 7.41,
+   "start": 4.31,
+   "end": 4.47,
+   "seg": 0
+  },
+  {
+   "text": "de",
+   "src": 7.65,
+   "start": 4.55,
+   "end": 4.63,
+   "seg": 0
+  },
+  {
+   "text": "la",
+   "src": 7.73,
+   "start": 4.63,
+   "end": 4.79,
+   "seg": 0
+  },
+  {
+   "text": "medicina,",
+   "src": 7.89,
+   "start": 4.79,
+   "end": 5.11,
+   "seg": 0
+  },
+  {
+   "text": "montó",
+   "src": 8.69,
+   "start": 5.357,
+   "end": 5.917,
+   "seg": 1
+  },
+  {
+   "text": "los",
+   "src": 9.25,
+   "start": 5.917,
+   "end": 6.077,
+   "seg": 1
+  },
+  {
+   "text": "resultados",
+   "src": 9.41,
+   "start": 6.077,
+   "end": 6.637,
+   "seg": 1
+  },
+  {
+   "text": "de",
+   "src": 10.37,
+   "start": 7.037,
+   "end": 7.197,
+   "seg": 1
+  },
+  {
+   "text": "este",
+   "src": 10.53,
+   "start": 7.197,
+   "end": 7.357,
+   "seg": 1
+  },
+  {
+   "text": "estudio",
+   "src": 10.69,
+   "start": 7.357,
+   "end": 7.677,
+   "seg": 1
+  },
+  {
+   "text": "que",
+   "src": 11.01,
+   "start": 7.677,
+   "end": 7.757,
+   "seg": 1
+  },
+  {
+   "text": "se",
+   "src": 11.09,
+   "start": 7.757,
+   "end": 7.837,
+   "seg": 1
+  },
+  {
+   "text": "llama",
+   "src": 11.17,
+   "start": 7.837,
+   "end": 8.077,
+   "seg": 1
+  },
+  {
+   "src": 11.41,
+   "seg": 1,
+   "text": "TRIUMPH-3.",
+   "start": 8.077,
+   "end": 8.957
+  },
+  {
+   "text": "Y",
+   "src": 12.52,
+   "start": 9.187,
+   "end": 9.427,
+   "seg": 1
+  },
+  {
+   "text": "demostró",
+   "src": 12.76,
+   "start": 9.427,
+   "end": 9.907,
+   "seg": 1
+  },
+  {
+   "text": "que",
+   "src": 13.32,
+   "start": 9.987,
+   "end": 10.147,
+   "seg": 1
+  },
+  {
+   "text": "en",
+   "src": 13.48,
+   "start": 10.147,
+   "end": 10.227,
+   "seg": 1
+  },
+  {
+   "src": 13.56,
+   "seg": 1,
+   "text": "pacientes",
+   "start": 10.227,
+   "end": 10.752
+  },
+  {
+   "src": 13.56,
+   "seg": 1,
+   "text": "obesos",
+   "start": 10.752,
+   "end": 11.12
+  },
+  {
+   "src": 13.56,
+   "seg": 1,
+   "text": "y",
+   "start": 11.12,
+   "end": 11.225
+  },
+  {
+   "src": 13.56,
+   "seg": 1,
+   "text": "con",
+   "start": 11.225,
+   "end": 11.434
+  },
+  {
+   "src": 13.56,
+   "seg": 1,
+   "text": "diabetes",
+   "start": 11.434,
+   "end": 11.907
+  },
+  {
+   "text": "podrían",
+   "src": 15.24,
+   "start": 11.907,
+   "end": 12.227,
+   "seg": 1
+  },
+  {
+   "text": "perder",
+   "src": 15.56,
+   "start": 12.227,
+   "end": 12.467,
+   "seg": 1
+  },
+  {
+   "text": "hasta",
+   "src": 15.8,
+   "start": 12.467,
+   "end": 12.707,
+   "seg": 1
+  },
+  {
+   "text": "un",
+   "src": 16.04,
+   "start": 12.707,
+   "end": 12.787,
+   "seg": 1
+  },
+  {
+   "text": "20%",
+   "src": 16.12,
+   "start": 12.787,
+   "end": 13.107,
+   "seg": 1
+  },
+  {
+   "text": "de",
+   "src": 16.76,
+   "start": 13.427,
+   "end": 13.507,
+   "seg": 1
+  },
+  {
+   "text": "su",
+   "src": 16.84,
+   "start": 13.507,
+   "end": 13.667,
+   "seg": 1
+  },
+  {
+   "text": "peso",
+   "src": 17.0,
+   "start": 13.667,
+   "end": 13.987,
+   "seg": 1
+  },
+  {
+   "text": "con",
+   "src": 17.56,
+   "start": 14.227,
+   "end": 14.387,
+   "seg": 1
+  },
+  {
+   "text": "la",
+   "src": 17.8,
+   "start": 14.467,
+   "end": 14.627,
+   "seg": 1
+  },
+  {
+   "text": "dosis",
+   "src": 17.96,
+   "start": 14.627,
+   "end": 15.027,
+   "seg": 1
+  },
+  {
+   "text": "máxima.",
+   "src": 18.36,
+   "start": 15.027,
+   "end": 15.4,
+   "seg": 1
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "Pero",
+   "start": 15.557,
+   "end": 15.751
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "sí",
+   "start": 15.751,
+   "end": 15.867
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "me",
+   "start": 15.867,
+   "end": 15.984
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "queda",
+   "start": 15.984,
+   "end": 16.216
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "como...",
+   "start": 16.216,
+   "end": 16.527
+  },
+  {
+   "src": 1.657,
+   "seg": 2,
+   "text": "exacto.",
+   "start": 16.527,
+   "end": 16.837
+  },
+  {
+   "text": "O",
+   "src": 3.017,
+   "start": 16.917,
+   "end": 16.997,
+   "seg": 2
+  },
+  {
+   "text": "sea,",
+   "src": 3.097,
+   "start": 16.997,
+   "end": 17.157,
+   "seg": 2
+  },
+  {
+   "text": "si",
+   "src": 3.257,
+   "start": 17.157,
+   "end": 17.317,
+   "seg": 2
+  },
+  {
+   "text": "eso",
+   "src": 3.417,
+   "start": 17.317,
+   "end": 17.397,
+   "seg": 2
+  },
+  {
+   "text": "apenas",
+   "src": 3.577,
+   "start": 17.477,
+   "end": 17.637,
+   "seg": 2
+  },
+  {
+   "text": "pasó",
+   "src": 3.897,
+   "start": 17.797,
+   "end": 18.037,
+   "seg": 2
+  },
+  {
+   "text": "esta",
+   "src": 4.217,
+   "start": 18.117,
+   "end": 18.277,
+   "seg": 2
+  },
+  {
+   "text": "semana,",
+   "src": 4.457,
+   "start": 18.357,
+   "end": 18.757,
+   "seg": 2
+  },
+  {
+   "text": "es",
+   "src": 5.017,
+   "start": 18.917,
+   "end": 19.077,
+   "seg": 2
+  },
+  {
+   "text": "que",
+   "src": 5.177,
+   "start": 19.077,
+   "end": 19.317,
+   "seg": 2
+  },
+  {
+   "text": "llevo",
+   "src": 5.417,
+   "start": 19.317,
+   "end": 19.717,
+   "seg": 2
+  },
+  {
+   "text": "por",
+   "src": 5.817,
+   "start": 19.717,
+   "end": 19.877,
+   "seg": 2
+  },
+  {
+   "text": "ahí",
+   "src": 5.977,
+   "start": 19.877,
+   "end": 20.197,
+   "seg": 2
+  },
+  {
+   "text": "que...",
+   "src": 6.297,
+   "start": 20.197,
+   "end": 20.433,
+   "seg": 2
+  },
+  {
+   "text": "no",
+   "src": 7.187,
+   "start": 20.554,
+   "end": 20.794,
+   "seg": 3
+  },
+  {
+   "text": "sé,",
+   "src": 7.427,
+   "start": 20.794,
+   "end": 20.954,
+   "seg": 3
+  },
+  {
+   "text": "tres",
+   "src": 7.907,
+   "start": 21.274,
+   "end": 21.514,
+   "seg": 3
+  },
+  {
+   "text": "meses,",
+   "src": 8.147,
+   "start": 21.514,
+   "end": 21.834,
+   "seg": 3
+  },
+  {
+   "text": "cuatro",
+   "src": 8.627,
+   "start": 21.994,
+   "end": 22.234,
+   "seg": 3
+  },
+  {
+   "text": "meses",
+   "src": 8.867,
+   "start": 22.234,
+   "end": 22.474,
+   "seg": 3
+  },
+  {
+   "text": "viendo",
+   "src": 9.187,
+   "start": 22.554,
+   "end": 22.874,
+   "seg": 3
+  },
+  {
+   "text": "un",
+   "src": 9.587,
+   "start": 22.954,
+   "end": 23.114,
+   "seg": 3
+  },
+  {
+   "text": "montón",
+   "src": 9.747,
+   "start": 23.114,
+   "end": 23.354,
+   "seg": 3
+  },
+  {
+   "text": "de",
+   "src": 9.987,
+   "start": 23.354,
+   "end": 23.514,
+   "seg": 3
+  },
+  {
+   "text": "personas",
+   "src": 10.147,
+   "start": 23.514,
+   "end": 23.834,
+   "seg": 3
+  },
+  {
+   "text": "en",
+   "src": 10.467,
+   "start": 23.834,
+   "end": 23.994,
+   "seg": 3
+  },
+  {
+   "text": "mi",
+   "src": 10.627,
+   "start": 23.994,
+   "end": 24.154,
+   "seg": 3
+  },
+  {
+   "text": "Instagram",
+   "src": 10.787,
+   "start": 24.154,
+   "end": 24.714,
+   "seg": 3
+  },
+  {
+   "text": "usando",
+   "src": 11.507,
+   "start": 24.874,
+   "end": 25.434,
+   "seg": 3
+  },
+  {
+   "text": "Reta",
+   "src": 12.067,
+   "start": 25.434,
+   "end": 25.834,
+   "seg": 3
+  },
+  {
+   "text": "y",
+   "src": 13.027,
+   "start": 26.394,
+   "end": 26.634,
+   "seg": 3
+  },
+  {
+   "text": "vendiéndolo,",
+   "src": 13.267,
+   "start": 26.634,
+   "end": 27.434,
+   "seg": 3
+  },
+  {
+   "text": "que",
+   "src": 14.227,
+   "start": 27.594,
+   "end": 27.834,
+   "seg": 3
+  },
+  {
+   "text": "da",
+   "src": 14.467,
+   "start": 27.834,
+   "end": 28.074,
+   "seg": 3
+  },
+  {
+   "text": "miedo.",
+   "src": 14.707,
+   "start": 28.074,
+   "end": 28.554,
+   "seg": 3
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "Pero",
+   "start": 28.847,
+   "end": 29.19
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "es",
+   "start": 29.19,
+   "end": 29.396
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "un",
+   "start": 29.396,
+   "end": 29.601
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "péptido",
+   "start": 29.601,
+   "end": 30.15
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "que",
+   "start": 30.15,
+   "end": 30.424
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "lleva",
+   "start": 30.424,
+   "end": 30.836
+  },
+  {
+   "src": 15.747,
+   "seg": 4,
+   "text": "mucho",
+   "start": 30.836,
+   "end": 31.247
+  },
+  {
+   "text": "tiempo",
+   "src": 18.147,
+   "start": 31.247,
+   "end": 31.487,
+   "seg": 4
+  },
+  {
+   "text": "en",
+   "src": 18.387,
+   "start": 31.487,
+   "end": 31.647,
+   "seg": 4
+  },
+  {
+   "text": "investigación.",
+   "src": 18.547,
+   "start": 31.647,
+   "end": 32.047,
+   "seg": 4
+  },
+  {
+   "text": "O",
+   "src": 19.027,
+   "start": 32.127,
+   "end": 32.207,
+   "seg": 4
+  },
+  {
+   "text": "sea,",
+   "src": 19.107,
+   "start": 32.207,
+   "end": 32.367,
+   "seg": 4
+  },
+  {
+   "text": "salió",
+   "src": 19.427,
+   "start": 32.527,
+   "end": 32.927,
+   "seg": 4
+  },
+  {
+   "text": "esta",
+   "src": 19.827,
+   "start": 32.927,
+   "end": 33.007,
+   "seg": 4
+  },
+  {
+   "text": "semana",
+   "src": 19.987,
+   "start": 33.087,
+   "end": 33.407,
+   "seg": 4
+  },
+  {
+   "text": "porque",
+   "src": 20.307,
+   "start": 33.407,
+   "end": 33.647,
+   "seg": 4
+  },
+  {
+   "text": "los",
+   "src": 20.547,
+   "start": 33.647,
+   "end": 33.807,
+   "seg": 4
+  },
+  {
+   "text": "estudios",
+   "src": 20.707,
+   "start": 33.807,
+   "end": 34.367,
+   "seg": 4
+  },
+  {
+   "text": "toman",
+   "src": 21.267,
+   "start": 34.367,
+   "end": 34.687,
+   "seg": 4
+  },
+  {
+   "text": "mucho",
+   "src": 21.667,
+   "start": 34.767,
+   "end": 35.007,
+   "seg": 4
+  },
+  {
+   "text": "tiempo",
+   "src": 21.907,
+   "start": 35.007,
+   "end": 35.247,
+   "seg": 4
+  },
+  {
+   "text": "para",
+   "src": 22.147,
+   "start": 35.247,
+   "end": 35.407,
+   "seg": 4
+  },
+  {
+   "text": "hacerse.",
+   "src": 22.307,
+   "start": 35.407,
+   "end": 36.0,
+   "seg": 4
+  },
+  {
+   "text": "Entonces",
+   "src": 3.007,
+   "start": 36.24,
+   "end": 36.48,
+   "seg": 5
+  },
+  {
+   "text": "ya",
+   "src": 3.327,
+   "start": 36.56,
+   "end": 36.72,
+   "seg": 5
+  },
+  {
+   "text": "con",
+   "src": 3.487,
+   "start": 36.72,
+   "end": 36.88,
+   "seg": 5
+  },
+  {
+   "text": "esta",
+   "src": 3.647,
+   "start": 36.88,
+   "end": 36.96,
+   "seg": 5
+  },
+  {
+   "text": "fase",
+   "src": 3.807,
+   "start": 37.04,
+   "end": 37.36,
+   "seg": 5
+  },
+  {
+   "text": "3,",
+   "src": 4.127,
+   "start": 37.36,
+   "end": 37.52,
+   "seg": 5
+  },
+  {
+   "text": "digamos,",
+   "src": 4.367,
+   "start": 37.6,
+   "end": 37.92,
+   "seg": 5
+  },
+  {
+   "src": 4.847,
+   "seg": 5,
+   "text": "de",
+   "start": 38.08,
+   "end": 38.284
+  },
+  {
+   "src": 4.847,
+   "seg": 5,
+   "text": "Reta,",
+   "start": 38.284,
+   "end": 38.692
+  },
+  {
+   "src": 4.847,
+   "seg": 5,
+   "text": "que",
+   "start": 38.692,
+   "end": 38.964
+  },
+  {
+   "src": 4.847,
+   "seg": 5,
+   "text": "es",
+   "start": 38.964,
+   "end": 39.168
+  },
+  {
+   "src": 4.847,
+   "seg": 5,
+   "text": "por",
+   "start": 39.168,
+   "end": 39.44
+  },
+  {
+   "text": "un",
+   "src": 6.287,
+   "start": 39.52,
+   "end": 39.6,
+   "seg": 5
+  },
+  {
+   "text": "laboratorio",
+   "src": 6.367,
+   "start": 39.6,
+   "end": 40.08,
+   "seg": 5
+  },
+  {
+   "text": "que",
+   "src": 6.847,
+   "start": 40.08,
+   "end": 40.16,
+   "seg": 5
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "se",
+   "start": 40.16,
+   "end": 40.284
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "llama",
+   "start": 40.284,
+   "end": 40.531
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "Lilly,",
+   "start": 40.531,
+   "end": 40.82
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "que",
+   "start": 40.82,
+   "end": 40.985
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "lo",
+   "start": 40.985,
+   "end": 41.109
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "que",
+   "start": 41.109,
+   "end": 41.274
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "quiere",
+   "start": 41.274,
+   "end": 41.563
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "hacer",
+   "start": 41.563,
+   "end": 41.81
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "precisamente",
+   "start": 41.81,
+   "end": 42.346
+  },
+  {
+   "src": 6.927,
+   "seg": 5,
+   "text": "Lilly",
+   "start": 42.346,
+   "end": 42.594
+  },
+  {
+   "text": "es",
+   "src": 9.887,
+   "start": 42.754,
+   "end": 42.914,
+   "seg": 6
+  },
+  {
+   "text": "demandar",
+   "src": 10.047,
+   "start": 42.914,
+   "end": 43.314,
+   "seg": 6
+  },
+  {
+   "text": "a",
+   "src": 10.447,
+   "start": 43.314,
+   "end": 43.394,
+   "seg": 6
+  },
+  {
+   "text": "todas",
+   "src": 10.527,
+   "start": 43.394,
+   "end": 43.634,
+   "seg": 6
+  },
+  {
+   "text": "las",
+   "src": 10.767,
+   "start": 43.634,
+   "end": 43.714,
+   "seg": 6
+  },
+  {
+   "text": "personas",
+   "src": 10.847,
+   "start": 43.714,
+   "end": 44.034,
+   "seg": 6
+  },
+  {
+   "text": "que",
+   "src": 11.167,
+   "start": 44.034,
+   "end": 44.194,
+   "seg": 6
+  },
+  {
+   "text": "están",
+   "src": 11.327,
+   "start": 44.194,
+   "end": 44.434,
+   "seg": 6
+  },
+  {
+   "text": "produciendo",
+   "src": 11.567,
+   "start": 44.434,
+   "end": 44.994,
+   "seg": 6
+  },
+  {
+   "text": "esta",
+   "src": 12.127,
+   "start": 44.994,
+   "end": 45.154,
+   "seg": 6
+  },
+  {
+   "text": "molécula,",
+   "src": 12.367,
+   "start": 45.234,
+   "end": 45.867,
+   "seg": 6
+  },
+  {
+   "text": "porque",
+   "src": 13.247,
+   "start": 45.867,
+   "end": 46.087,
+   "seg": 7
+  },
+  {
+   "text": "pues",
+   "src": 13.647,
+   "start": 46.247,
+   "end": 46.487,
+   "seg": 7
+  },
+  {
+   "text": "hacer",
+   "src": 13.967,
+   "start": 46.567,
+   "end": 46.807,
+   "seg": 7
+  },
+  {
+   "text": "estudios",
+   "src": 14.207,
+   "start": 46.807,
+   "end": 47.207,
+   "seg": 7
+  },
+  {
+   "text": "es",
+   "src": 14.607,
+   "start": 47.207,
+   "end": 47.367,
+   "seg": 7
+  },
+  {
+   "text": "costosísimo.",
+   "src": 14.767,
+   "start": 47.367,
+   "end": 47.927,
+   "seg": 7
+  },
+  {
+   "text": "Imagínate,",
+   "src": 15.487,
+   "start": 48.087,
+   "end": 48.567,
+   "seg": 7
+  },
+  {
+   "text": "tú",
+   "src": 16.047,
+   "start": 48.647,
+   "end": 48.807,
+   "seg": 7
+  },
+  {
+   "text": "coges",
+   "src": 16.287,
+   "start": 48.887,
+   "end": 49.447,
+   "seg": 7
+  },
+  {
+   "text": "10",
+   "src": 16.847,
+   "start": 49.447,
+   "end": 49.847,
+   "seg": 7
+  },
+  {
+   "text": "mil",
+   "src": 17.247,
+   "start": 49.847,
+   "end": 50.007,
+   "seg": 7
+  },
+  {
+   "text": "personas",
+   "src": 17.567,
+   "start": 50.167,
+   "end": 50.407,
+   "seg": 7
+  },
+  {
+   "text": "para",
+   "src": 17.807,
+   "start": 50.407,
+   "end": 50.567,
+   "seg": 7
+  },
+  {
+   "text": "hacer",
+   "src": 17.967,
+   "start": 50.567,
+   "end": 50.807,
+   "seg": 7
+  },
+  {
+   "text": "los",
+   "src": 18.207,
+   "start": 50.807,
+   "end": 50.967,
+   "seg": 7
+  },
+  {
+   "text": "estudios.",
+   "src": 18.367,
+   "start": 50.967,
+   "end": 51.433,
+   "seg": 7
+  },
+  {
+   "text": "Claro.",
+   "src": 19.087,
+   "start": 51.433,
+   "end": 51.74,
+   "seg": 8
+  },
+  {
+   "text": "Y",
+   "src": 19.567,
+   "start": 51.9,
+   "end": 52.06,
+   "seg": 8
+  },
+  {
+   "text": "esa",
+   "src": 19.727,
+   "start": 52.06,
+   "end": 52.3,
+   "seg": 8
+  },
+  {
+   "text": "plata",
+   "src": 19.967,
+   "start": 52.3,
+   "end": 52.54,
+   "seg": 8
+  },
+  {
+   "text": "es",
+   "src": 20.207,
+   "start": 52.54,
+   "end": 52.7,
+   "seg": 8
+  },
+  {
+   "text": "la",
+   "src": 20.367,
+   "start": 52.7,
+   "end": 52.78,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 20.447,
+   "start": 52.78,
+   "end": 52.94,
+   "seg": 8
+  },
+  {
+   "text": "invierte",
+   "src": 20.607,
+   "start": 52.94,
+   "end": 53.42,
+   "seg": 8
+  },
+  {
+   "text": "ese",
+   "src": 21.087,
+   "start": 53.42,
+   "end": 53.58,
+   "seg": 8
+  },
+  {
+   "text": "laboratorio",
+   "src": 21.327,
+   "start": 53.66,
+   "end": 53.98,
+   "seg": 8
+  },
+  {
+   "text": "en",
+   "src": 21.727,
+   "start": 54.06,
+   "end": 54.14,
+   "seg": 8
+  },
+  {
+   "text": "específico,",
+   "src": 21.807,
+   "start": 54.14,
+   "end": 54.54,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 22.287,
+   "start": 54.62,
+   "end": 54.7,
+   "seg": 8
+  },
+  {
+   "text": "es",
+   "src": 22.367,
+   "start": 54.7,
+   "end": 54.78,
+   "seg": 8
+  },
+  {
+   "text": "el",
+   "src": 22.447,
+   "start": 54.78,
+   "end": 54.86,
+   "seg": 8
+  },
+  {
+   "src": 22.527,
+   "seg": 8,
+   "text": "laboratorio",
+   "start": 54.86,
+   "end": 55.296
+  },
+  {
+   "src": 22.527,
+   "seg": 8,
+   "text": "de",
+   "start": 55.296,
+   "end": 55.405
+  },
+  {
+   "src": 22.527,
+   "seg": 8,
+   "text": "Lilly.",
+   "start": 55.405,
+   "end": 55.66
+  },
+  {
+   "text": "Claro,",
+   "src": 23.577,
+   "start": 55.91,
+   "end": 56.15,
+   "seg": 8
+  },
+  {
+   "text": "hay",
+   "src": 24.057,
+   "start": 56.39,
+   "end": 56.63,
+   "seg": 8
+  },
+  {
+   "text": "laboratorios",
+   "src": 24.297,
+   "start": 56.63,
+   "end": 57.03,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 24.697,
+   "start": 57.03,
+   "end": 57.19,
+   "seg": 8
+  },
+  {
+   "text": "no",
+   "src": 24.857,
+   "start": 57.19,
+   "end": 57.27,
+   "seg": 8
+  },
+  {
+   "text": "invierten",
+   "src": 24.937,
+   "start": 57.27,
+   "end": 57.83,
+   "seg": 8
+  },
+  {
+   "text": "absolutamente",
+   "src": 25.497,
+   "start": 57.83,
+   "end": 58.23,
+   "seg": 8
+  },
+  {
+   "text": "nada,",
+   "src": 25.897,
+   "start": 58.23,
+   "end": 58.39,
+   "seg": 8
+  },
+  {
+   "text": "vieron",
+   "src": 26.297,
+   "start": 58.63,
+   "end": 58.95,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 26.617,
+   "start": 58.95,
+   "end": 59.03,
+   "seg": 8
+  },
+  {
+   "text": "ya",
+   "src": 26.697,
+   "start": 59.03,
+   "end": 59.11,
+   "seg": 8
+  },
+  {
+   "text": "se",
+   "src": 26.777,
+   "start": 59.11,
+   "end": 59.19,
+   "seg": 8
+  },
+  {
+   "text": "puede,",
+   "src": 26.937,
+   "start": 59.27,
+   "end": 59.43,
+   "seg": 8
+  },
+  {
+   "text": "entonces",
+   "src": 27.257,
+   "start": 59.59,
+   "end": 59.83,
+   "seg": 8
+  },
+  {
+   "text": "ahí",
+   "src": 27.497,
+   "start": 59.83,
+   "end": 60.07,
+   "seg": 8
+  },
+  {
+   "text": "sí",
+   "src": 27.737,
+   "start": 60.07,
+   "end": 60.15,
+   "seg": 8
+  },
+  {
+   "text": "lo",
+   "src": 28.377,
+   "start": 60.71,
+   "end": 60.95,
+   "seg": 8
+  },
+  {
+   "text": "sacaron.",
+   "src": 28.617,
+   "start": 60.95,
+   "end": 61.43,
+   "seg": 8
+  }
+ ],
+ "leveling": {
+  "threshold_db": {
+   "a": -41.3,
+   "b": -39.6,
+   "c": -41.8
+  },
+  "target_db": -26.19,
+  "pieces": [
+   {
+    "source": "a",
+    "level_db": -27.54,
+    "gain_db": 1.36
+   },
+   {
+    "source": "a",
+    "level_db": -25.93,
+    "gain_db": -0.26
+   },
+   {
+    "source": "b",
+    "level_db": -27.78,
+    "gain_db": 1.59
+   },
+   {
+    "source": "b",
+    "level_db": -24.12,
+    "gain_db": -2.07
+   },
+   {
+    "source": "b",
+    "level_db": -24.63,
+    "gain_db": -1.56
+   },
+   {
+    "source": "c",
+    "level_db": -25.73,
+    "gain_db": -0.46
+   },
+   {
+    "source": "c",
+    "level_db": -28.14,
+    "gain_db": 1.95
+   },
+   {
+    "source": "c",
+    "level_db": -30.8,
+    "gain_db": 4.61
+   },
+   {
+    "source": "c",
+    "level_db": -26.12,
+    "gain_db": -0.06
+   }
+  ],
+  "sources": {
+   "a": {
+    "before_db": -26.49,
+    "after_db": -26.32
+   },
+   "b": {
+    "before_db": -24.98,
+    "after_db": -26.32
+   },
+   "c": {
+    "before_db": -27.0,
+    "after_db": -26.15
+   }
+  },
+  "max_gain_db": 6.15
+ },
+ "fixed": 7
+}

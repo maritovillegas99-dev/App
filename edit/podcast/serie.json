@@ -1,0 +1,16 @@
+{
+ "comp": "ReelMinimal",
+ "hook_seconds": 2.6,
+ "clips": {
+  "01": {"hook": "Por qué los péptidos no te funcionan", "emphasis": ["mensajero", "escucharla", "inflamada", "funcionan", "limpio"]},
+  "02": {"hook": "BPC-157: ¿cura milagrosa?", "emphasis": ["curé", "días", "humanos", "cancerígenas", "controversial"]},
+  "03": {"hook": "Lo venden en Instagram y sigue en estudio", "emphasis": ["20%", "Instagram", "miedo", "costosísimo"]},
+  "04": {"hook": "El peligro real de los péptidos", "emphasis": ["pureza", "metales", "bacterias", "peligro"]},
+  "05": {"hook": "¿Microcursos para recetar péptidos?", "emphasis": ["audiencia", "microcursos", "medicina", "señal"]},
+  "06": {"hook": "Pensaba que los péptidos eran irresponsables", "emphasis": ["revolución", "irresponsable", "ignorancia"]},
+  "07": {"hook": "Bajó 5 kilos en 2 semanas… ¿a qué costo?", "emphasis": ["preocupa", "peso", "kilos", "músculo"]},
+  "08": {"hook": "El problema no es bajar de peso", "emphasis": ["sostenible", "80%", "sostener", "herramienta", "obeso"]},
+  "09": {"hook": "¿Un péptido que alarga la vida?", "emphasis": ["vida", "epitalón", "telómeros", "todavía"]},
+  "10": {"hook": "3 cosas que jamás haría con péptidos", "emphasis": ["jamás", "muscular", "COA", "entrenador"]}
+ }
+}

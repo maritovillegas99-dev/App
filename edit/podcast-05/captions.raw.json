@@ -1,0 +1,1339 @@
+{
+ "duration": 49.967,
+ "segments": [
+  {
+   "i": 0,
+   "source": "a",
+   "src_start": 3.167,
+   "src_end": 5.167,
+   "out_start": 0.0,
+   "out_dur": 2.0,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 1,
+   "source": "a",
+   "src_start": 5.333,
+   "src_end": 8.133,
+   "out_start": 2.0,
+   "out_dur": 2.8,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 2,
+   "source": "a",
+   "src_start": 8.433,
+   "src_end": 9.933,
+   "out_start": 4.8,
+   "out_dur": 1.5,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 3,
+   "source": "a",
+   "src_start": 10.167,
+   "src_end": 11.933,
+   "out_start": 6.3,
+   "out_dur": 1.767,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 4,
+   "source": "a",
+   "src_start": 12.133,
+   "src_end": 14.633,
+   "out_start": 8.067,
+   "out_dur": 2.5,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 5,
+   "source": "b",
+   "src_start": 2.233,
+   "src_end": 5.433,
+   "out_start": 10.567,
+   "out_dur": 3.2,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 6,
+   "source": "b",
+   "src_start": 6.133,
+   "src_end": 8.333,
+   "out_start": 13.767,
+   "out_dur": 2.2,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 7,
+   "source": "b",
+   "src_start": 8.833,
+   "src_end": 11.3,
+   "out_start": 15.967,
+   "out_dur": 2.467,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 8,
+   "source": "b",
+   "src_start": 11.533,
+   "src_end": 20.067,
+   "out_start": 18.433,
+   "out_dur": 8.533,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 9,
+   "source": "b",
+   "src_start": 20.6,
+   "src_end": 24.3,
+   "out_start": 26.967,
+   "out_dur": 3.7,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 10,
+   "source": "b",
+   "src_start": 24.533,
+   "src_end": 27.533,
+   "out_start": 30.667,
+   "out_dur": 3.0,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 11,
+   "source": "b",
+   "src_start": 27.767,
+   "src_end": 29.967,
+   "out_start": 33.667,
+   "out_dur": 2.2,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 12,
+   "source": "b",
+   "src_start": 30.633,
+   "src_end": 35.333,
+   "out_start": 35.867,
+   "out_dur": 4.7,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 13,
+   "source": "b",
+   "src_start": 36.033,
+   "src_end": 39.0,
+   "out_start": 40.567,
+   "out_dur": 2.967,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 14,
+   "source": "b",
+   "src_start": 39.233,
+   "src_end": 40.567,
+   "out_start": 43.533,
+   "out_dur": 1.333,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 15,
+   "source": "b",
+   "src_start": 41.067,
+   "src_end": 44.367,
+   "out_start": 44.867,
+   "out_dur": 3.3,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 16,
+   "source": "b",
+   "src_start": 45.3,
+   "src_end": 47.1,
+   "out_start": 48.167,
+   "out_dur": 1.8,
+   "speed": 1.0,
+   "beat": "piece b"
+  }
+ ],
+ "words": [
+  {
+   "text": "es",
+   "src": 3.267,
+   "start": 0.1,
+   "end": 0.34,
+   "seg": 0
+  },
+  {
+   "text": "tanto",
+   "src": 3.507,
+   "start": 0.34,
+   "end": 0.58,
+   "seg": 0
+  },
+  {
+   "text": "el",
+   "src": 3.987,
+   "start": 0.82,
+   "end": 1.06,
+   "seg": 0
+  },
+  {
+   "text": "precio",
+   "src": 4.227,
+   "start": 1.06,
+   "end": 1.46,
+   "seg": 0
+  },
+  {
+   "text": "sino",
+   "src": 4.787,
+   "start": 1.62,
+   "end": 2.0,
+   "seg": 0
+  },
+  {
+   "text": "la",
+   "src": 5.267,
+   "start": 2.0,
+   "end": 2.174,
+   "seg": 1
+  },
+  {
+   "text": "audiencia",
+   "src": 5.507,
+   "start": 2.174,
+   "end": 2.734,
+   "seg": 1
+  },
+  {
+   "text": "listo",
+   "src": 6.307,
+   "start": 2.974,
+   "end": 3.214,
+   "seg": 1
+  },
+  {
+   "text": "he",
+   "src": 6.707,
+   "start": 3.374,
+   "end": 3.534,
+   "seg": 1
+  },
+  {
+   "text": "visto",
+   "src": 6.947,
+   "start": 3.614,
+   "end": 3.934,
+   "seg": 1
+  },
+  {
+   "text": "laboratorios",
+   "src": 7.267,
+   "start": 3.934,
+   "end": 4.8,
+   "seg": 1
+  },
+  {
+   "text": "le",
+   "src": 8.707,
+   "start": 5.074,
+   "end": 5.314,
+   "seg": 2
+  },
+  {
+   "text": "venden",
+   "src": 8.947,
+   "start": 5.314,
+   "end": 5.874,
+   "seg": 2
+  },
+  {
+   "text": "esto",
+   "src": 9.507,
+   "start": 5.874,
+   "end": 6.194,
+   "seg": 2
+  },
+  {
+   "text": "a",
+   "src": 10.067,
+   "start": 6.3,
+   "end": 6.44,
+   "seg": 3
+  },
+  {
+   "text": "cualquier",
+   "src": 10.307,
+   "start": 6.44,
+   "end": 6.92,
+   "seg": 3
+  },
+  {
+   "text": "persona",
+   "src": 10.787,
+   "start": 6.92,
+   "end": 7.24,
+   "seg": 3
+  },
+  {
+   "text": "Uno",
+   "src": 11.577,
+   "start": 7.71,
+   "end": 8.03,
+   "seg": 3
+  },
+  {
+   "text": "que",
+   "src": 12.137,
+   "start": 8.07,
+   "end": 8.23,
+   "seg": 4
+  },
+  {
+   "text": "hacen",
+   "src": 12.457,
+   "start": 8.39,
+   "end": 8.95,
+   "seg": 4
+  },
+  {
+   "text": "microcursos,",
+   "src": 13.097,
+   "start": 9.03,
+   "end": 9.83,
+   "seg": 4
+  },
+  {
+   "text": "he",
+   "src": 14.057,
+   "start": 9.99,
+   "end": 10.15,
+   "seg": 4
+  },
+  {
+   "text": "visto.",
+   "src": 14.297,
+   "start": 10.23,
+   "end": 10.55,
+   "seg": 4
+  },
+  {
+   "text": "Microcursos",
+   "src": 3.017,
+   "start": 11.35,
+   "end": 11.99,
+   "seg": 5
+  },
+  {
+   "text": "para",
+   "src": 3.657,
+   "start": 11.99,
+   "end": 12.15,
+   "seg": 5
+  },
+  {
+   "text": "aprender",
+   "src": 3.817,
+   "start": 12.15,
+   "end": 12.47,
+   "seg": 5
+  },
+  {
+   "text": "a",
+   "src": 4.137,
+   "start": 12.47,
+   "end": 12.55,
+   "seg": 5
+  },
+  {
+   "text": "recetar",
+   "src": 4.217,
+   "start": 12.55,
+   "end": 13.03,
+   "seg": 5
+  },
+  {
+   "text": "péptidos.",
+   "src": 4.697,
+   "start": 13.03,
+   "end": 13.767,
+   "seg": 5
+  },
+  {
+   "text": "¿Cómo",
+   "src": 5.977,
+   "start": 13.767,
+   "end": 13.93,
+   "seg": 6
+  },
+  {
+   "text": "tú",
+   "src": 6.457,
+   "start": 14.09,
+   "end": 14.33,
+   "seg": 6
+  },
+  {
+   "text": "vas",
+   "src": 6.697,
+   "start": 14.33,
+   "end": 14.57,
+   "seg": 6
+  },
+  {
+   "text": "a",
+   "src": 6.937,
+   "start": 14.57,
+   "end": 14.65,
+   "seg": 6
+  },
+  {
+   "text": "hacer",
+   "src": 7.017,
+   "start": 14.65,
+   "end": 14.73,
+   "seg": 6
+  },
+  {
+   "text": "un",
+   "src": 7.257,
+   "start": 14.89,
+   "end": 15.05,
+   "seg": 6
+  },
+  {
+   "text": "microcurso",
+   "src": 7.417,
+   "start": 15.05,
+   "end": 15.967,
+   "seg": 6
+  },
+  {
+   "text": "aprender",
+   "src": 8.937,
+   "start": 16.07,
+   "end": 16.47,
+   "seg": 7
+  },
+  {
+   "text": "a",
+   "src": 9.337,
+   "start": 16.47,
+   "end": 16.55,
+   "seg": 7
+  },
+  {
+   "text": "recetar",
+   "src": 9.417,
+   "start": 16.55,
+   "end": 16.95,
+   "seg": 7
+  },
+  {
+   "text": "a",
+   "src": 9.897,
+   "start": 17.03,
+   "end": 17.11,
+   "seg": 7
+  },
+  {
+   "text": "recetar",
+   "src": 9.977,
+   "start": 17.11,
+   "end": 17.59,
+   "seg": 7
+  },
+  {
+   "text": "un",
+   "src": 10.457,
+   "start": 17.59,
+   "end": 17.75,
+   "seg": 7
+  },
+  {
+   "text": "péptido?",
+   "src": 10.617,
+   "start": 17.75,
+   "end": 18.39,
+   "seg": 7
+  },
+  {
+   "text": "Si",
+   "src": 11.497,
+   "start": 18.433,
+   "end": 18.637,
+   "seg": 8
+  },
+  {
+   "text": "tú",
+   "src": 11.737,
+   "start": 18.637,
+   "end": 18.797,
+   "seg": 8
+  },
+  {
+   "text": "tienes",
+   "src": 11.897,
+   "start": 18.797,
+   "end": 19.037,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 12.137,
+   "start": 19.037,
+   "end": 19.197,
+   "seg": 8
+  },
+  {
+   "text": "entender",
+   "src": 12.297,
+   "start": 19.197,
+   "end": 19.517,
+   "seg": 8
+  },
+  {
+   "text": "cómo",
+   "src": 12.617,
+   "start": 19.517,
+   "end": 19.757,
+   "seg": 8
+  },
+  {
+   "text": "está",
+   "src": 12.937,
+   "start": 19.837,
+   "end": 19.997,
+   "seg": 8
+  },
+  {
+   "text": "funcionando",
+   "src": 13.097,
+   "start": 19.997,
+   "end": 20.477,
+   "seg": 8
+  },
+  {
+   "text": "la",
+   "src": 13.577,
+   "start": 20.477,
+   "end": 20.637,
+   "seg": 8
+  },
+  {
+   "text": "célula,",
+   "src": 13.737,
+   "start": 20.637,
+   "end": 20.957,
+   "seg": 8
+  },
+  {
+   "text": "cómo",
+   "src": 14.217,
+   "start": 21.117,
+   "end": 21.357,
+   "seg": 8
+  },
+  {
+   "text": "está",
+   "src": 14.457,
+   "start": 21.357,
+   "end": 21.517,
+   "seg": 8
+  },
+  {
+   "text": "el",
+   "src": 14.617,
+   "start": 21.517,
+   "end": 21.677,
+   "seg": 8
+  },
+  {
+   "text": "organismo,",
+   "src": 14.777,
+   "start": 21.677,
+   "end": 21.997,
+   "seg": 8
+  },
+  {
+   "text": "tienes",
+   "src": 15.337,
+   "start": 22.237,
+   "end": 22.477,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 15.577,
+   "start": 22.477,
+   "end": 22.637,
+   "seg": 8
+  },
+  {
+   "text": "pedir",
+   "src": 15.737,
+   "start": 22.637,
+   "end": 22.957,
+   "seg": 8
+  },
+  {
+   "text": "exámenes",
+   "src": 16.057,
+   "start": 22.957,
+   "end": 23.437,
+   "seg": 8
+  },
+  {
+   "text": "médicos.",
+   "src": 16.537,
+   "start": 23.437,
+   "end": 23.757,
+   "seg": 8
+  },
+  {
+   "text": "Tienes",
+   "src": 17.147,
+   "start": 24.047,
+   "end": 24.367,
+   "seg": 8
+  },
+  {
+   "text": "que",
+   "src": 17.467,
+   "start": 24.367,
+   "end": 24.527,
+   "seg": 8
+  },
+  {
+   "text": "pensar",
+   "src": 17.627,
+   "start": 24.527,
+   "end": 24.767,
+   "seg": 8
+  },
+  {
+   "text": "en",
+   "src": 17.867,
+   "start": 24.767,
+   "end": 24.927,
+   "seg": 8
+  },
+  {
+   "text": "qué",
+   "src": 18.027,
+   "start": 24.927,
+   "end": 25.007,
+   "seg": 8
+  },
+  {
+   "text": "está",
+   "src": 18.267,
+   "start": 25.167,
+   "end": 25.327,
+   "seg": 8
+  },
+  {
+   "text": "pasando",
+   "src": 18.427,
+   "start": 25.327,
+   "end": 25.567,
+   "seg": 8
+  },
+  {
+   "text": "en",
+   "src": 18.667,
+   "start": 25.567,
+   "end": 25.727,
+   "seg": 8
+  },
+  {
+   "text": "el",
+   "src": 18.827,
+   "start": 25.727,
+   "end": 25.807,
+   "seg": 8
+  },
+  {
+   "text": "cuerpo",
+   "src": 18.907,
+   "start": 25.807,
+   "end": 26.047,
+   "seg": 8
+  },
+  {
+   "text": "de",
+   "src": 19.227,
+   "start": 26.127,
+   "end": 26.207,
+   "seg": 8
+  },
+  {
+   "text": "esa",
+   "src": 19.307,
+   "start": 26.207,
+   "end": 26.527,
+   "seg": 8
+  },
+  {
+   "text": "persona.",
+   "src": 19.627,
+   "start": 26.527,
+   "end": 26.967,
+   "seg": 8
+  },
+  {
+   "text": "sea,",
+   "src": 20.507,
+   "start": 26.967,
+   "end": 27.114,
+   "seg": 9
+  },
+  {
+   "text": "tú",
+   "src": 20.827,
+   "start": 27.194,
+   "end": 27.354,
+   "seg": 9
+  },
+  {
+   "text": "estudiaste",
+   "src": 20.987,
+   "start": 27.354,
+   "end": 28.074,
+   "seg": 9
+  },
+  {
+   "text": "seis",
+   "src": 21.707,
+   "start": 28.074,
+   "end": 28.154,
+   "seg": 9
+  },
+  {
+   "text": "años",
+   "src": 21.947,
+   "start": 28.314,
+   "end": 28.554,
+   "seg": 9
+  },
+  {
+   "text": "de",
+   "src": 22.187,
+   "start": 28.554,
+   "end": 28.634,
+   "seg": 9
+  },
+  {
+   "text": "medicina",
+   "src": 22.267,
+   "start": 28.634,
+   "end": 29.034,
+   "seg": 9
+  },
+  {
+   "text": "y",
+   "src": 22.907,
+   "start": 29.274,
+   "end": 29.434,
+   "seg": 9
+  },
+  {
+   "text": "sigues",
+   "src": 23.067,
+   "start": 29.434,
+   "end": 29.914,
+   "seg": 9
+  },
+  {
+   "text": "estudiando",
+   "src": 23.547,
+   "start": 29.914,
+   "end": 30.634,
+   "seg": 9
+  },
+  {
+   "text": "una",
+   "src": 24.587,
+   "start": 30.72,
+   "end": 30.96,
+   "seg": 10
+  },
+  {
+   "text": "persona",
+   "src": 24.827,
+   "start": 30.96,
+   "end": 31.28,
+   "seg": 10
+  },
+  {
+   "text": "que",
+   "src": 25.147,
+   "start": 31.28,
+   "end": 31.44,
+   "seg": 10
+  },
+  {
+   "text": "no",
+   "src": 25.307,
+   "start": 31.44,
+   "end": 31.52,
+   "seg": 10
+  },
+  {
+   "text": "sepa",
+   "src": 25.387,
+   "start": 31.52,
+   "end": 31.84,
+   "seg": 10
+  },
+  {
+   "text": "absolutamente",
+   "src": 25.787,
+   "start": 31.92,
+   "end": 32.56,
+   "seg": 10
+  },
+  {
+   "text": "nada",
+   "src": 26.427,
+   "start": 32.56,
+   "end": 32.88,
+   "seg": 10
+  },
+  {
+   "text": "de",
+   "src": 26.747,
+   "start": 32.88,
+   "end": 33.04,
+   "seg": 10
+  },
+  {
+   "text": "medicina,",
+   "src": 26.907,
+   "start": 33.04,
+   "end": 33.44,
+   "seg": 10
+  },
+  {
+   "text": "cómo",
+   "src": 27.787,
+   "start": 33.687,
+   "end": 34.007,
+   "seg": 11
+  },
+  {
+   "text": "va",
+   "src": 28.107,
+   "start": 34.007,
+   "end": 34.087,
+   "seg": 11
+  },
+  {
+   "text": "a",
+   "src": 28.187,
+   "start": 34.087,
+   "end": 34.247,
+   "seg": 11
+  },
+  {
+   "text": "ser",
+   "src": 28.347,
+   "start": 34.247,
+   "end": 34.327,
+   "seg": 11
+  },
+  {
+   "text": "un",
+   "src": 28.427,
+   "start": 34.327,
+   "end": 34.487,
+   "seg": 11
+  },
+  {
+   "text": "microcurso",
+   "src": 28.587,
+   "start": 34.487,
+   "end": 35.127,
+   "seg": 11
+  },
+  {
+   "text": "para",
+   "src": 29.227,
+   "start": 35.127,
+   "end": 35.287,
+   "seg": 11
+  },
+  {
+   "text": "aprender",
+   "src": 29.387,
+   "start": 35.287,
+   "end": 35.527,
+   "seg": 11
+  },
+  {
+   "text": "a",
+   "src": 29.707,
+   "start": 35.607,
+   "end": 35.687,
+   "seg": 11
+  },
+  {
+   "text": "receta",
+   "src": 29.787,
+   "start": 35.687,
+   "end": 35.867,
+   "seg": 11
+  },
+  {
+   "text": "Entonces,",
+   "src": 30.827,
+   "start": 36.06,
+   "end": 36.3,
+   "seg": 12
+  },
+  {
+   "text": "cómo",
+   "src": 31.227,
+   "start": 36.46,
+   "end": 36.62,
+   "seg": 12
+  },
+  {
+   "text": "va",
+   "src": 31.387,
+   "start": 36.62,
+   "end": 36.7,
+   "seg": 12
+  },
+  {
+   "text": "a",
+   "src": 31.467,
+   "start": 36.7,
+   "end": 36.78,
+   "seg": 12
+  },
+  {
+   "text": "tener",
+   "src": 31.547,
+   "start": 36.78,
+   "end": 36.94,
+   "seg": 12
+  },
+  {
+   "text": "cómo",
+   "src": 31.787,
+   "start": 37.02,
+   "end": 37.26,
+   "seg": 12
+  },
+  {
+   "text": "va",
+   "src": 32.027,
+   "start": 37.26,
+   "end": 37.34,
+   "seg": 12
+  },
+  {
+   "text": "a",
+   "src": 32.107,
+   "start": 37.34,
+   "end": 37.42,
+   "seg": 12
+  },
+  {
+   "text": "llevar",
+   "src": 32.187,
+   "start": 37.42,
+   "end": 37.66,
+   "seg": 12
+  },
+  {
+   "text": "una",
+   "src": 32.507,
+   "start": 37.74,
+   "end": 37.9,
+   "seg": 12
+  },
+  {
+   "text": "complicación",
+   "src": 32.667,
+   "start": 37.9,
+   "end": 38.46,
+   "seg": 12
+  },
+  {
+   "text": "de",
+   "src": 33.227,
+   "start": 38.46,
+   "end": 38.62,
+   "seg": 12
+  },
+  {
+   "text": "un",
+   "src": 33.387,
+   "start": 38.62,
+   "end": 38.7,
+   "seg": 12
+  },
+  {
+   "text": "paciente.",
+   "src": 33.467,
+   "start": 38.7,
+   "end": 39.02,
+   "seg": 12
+  },
+  {
+   "text": "Exacto.",
+   "src": 34.107,
+   "start": 39.34,
+   "end": 39.74,
+   "seg": 12
+  },
+  {
+   "text": "Entonces,",
+   "src": 34.667,
+   "start": 39.9,
+   "end": 40.567,
+   "seg": 12
+  },
+  {
+   "text": "mi",
+   "src": 35.867,
+   "start": 40.567,
+   "end": 40.72,
+   "seg": 13
+  },
+  {
+   "text": "primera",
+   "src": 36.187,
+   "start": 40.72,
+   "end": 41.12,
+   "seg": 13
+  },
+  {
+   "text": "señal",
+   "src": 36.587,
+   "start": 41.12,
+   "end": 41.44,
+   "seg": 13
+  },
+  {
+   "text": "de",
+   "src": 36.907,
+   "start": 41.44,
+   "end": 41.52,
+   "seg": 13
+  },
+  {
+   "text": "alarma",
+   "src": 36.987,
+   "start": 41.52,
+   "end": 42.0,
+   "seg": 13
+  },
+  {
+   "text": "es",
+   "src": 37.467,
+   "start": 42.0,
+   "end": 42.16,
+   "seg": 13
+  },
+  {
+   "text": "eso.",
+   "src": 37.627,
+   "start": 42.16,
+   "end": 42.32,
+   "seg": 13
+  },
+  {
+   "text": "Los",
+   "src": 38.027,
+   "start": 42.56,
+   "end": 42.72,
+   "seg": 13
+  },
+  {
+   "text": "laboratorios",
+   "src": 38.187,
+   "start": 42.72,
+   "end": 43.44,
+   "seg": 13
+  },
+  {
+   "text": "venden",
+   "src": 39.307,
+   "start": 43.607,
+   "end": 44.007,
+   "seg": 14
+  },
+  {
+   "text": "por.",
+   "src": 39.867,
+   "start": 44.167,
+   "end": 44.327,
+   "seg": 14
+  },
+  {
+   "text": "Hay",
+   "src": 40.917,
+   "start": 44.867,
+   "end": 45.117,
+   "seg": 15
+  },
+  {
+   "text": "laboratorios",
+   "src": 41.317,
+   "start": 45.117,
+   "end": 45.757,
+   "seg": 15
+  },
+  {
+   "text": "que",
+   "src": 42.197,
+   "start": 45.997,
+   "end": 46.157,
+   "seg": 15
+  },
+  {
+   "text": "son",
+   "src": 42.357,
+   "start": 46.157,
+   "end": 46.317,
+   "seg": 15
+  },
+  {
+   "text": "muy",
+   "src": 42.517,
+   "start": 46.317,
+   "end": 46.477,
+   "seg": 15
+  },
+  {
+   "text": "éticos",
+   "src": 42.677,
+   "start": 46.477,
+   "end": 47.037,
+   "seg": 15
+  },
+  {
+   "text": "y",
+   "src": 43.317,
+   "start": 47.117,
+   "end": 47.197,
+   "seg": 15
+  },
+  {
+   "text": "solo",
+   "src": 43.397,
+   "start": 47.197,
+   "end": 47.277,
+   "seg": 15
+  },
+  {
+   "text": "le",
+   "src": 43.637,
+   "start": 47.437,
+   "end": 47.517,
+   "seg": 15
+  },
+  {
+   "text": "venden",
+   "src": 43.717,
+   "start": 47.517,
+   "end": 47.837,
+   "seg": 15
+  },
+  {
+   "text": "a",
+   "src": 44.037,
+   "start": 47.837,
+   "end": 47.997,
+   "seg": 15
+  },
+  {
+   "text": "médicos.",
+   "src": 44.197,
+   "start": 47.997,
+   "end": 48.167,
+   "seg": 15
+  },
+  {
+   "text": "Eso",
+   "src": 45.157,
+   "start": 48.167,
+   "end": 48.344,
+   "seg": 16
+  },
+  {
+   "text": "me",
+   "src": 45.477,
+   "start": 48.344,
+   "end": 48.504,
+   "seg": 16
+  },
+  {
+   "text": "parece",
+   "src": 45.637,
+   "start": 48.504,
+   "end": 48.744,
+   "seg": 16
+  },
+  {
+   "text": "una",
+   "src": 45.957,
+   "start": 48.824,
+   "end": 48.984,
+   "seg": 16
+  },
+  {
+   "text": "buena",
+   "src": 46.117,
+   "start": 48.984,
+   "end": 49.224,
+   "seg": 16
+  },
+  {
+   "text": "señal,",
+   "src": 46.357,
+   "start": 49.224,
+   "end": 49.544,
+   "seg": 16
+  },
+  {
+   "text": "por",
+   "src": 46.757,
+   "start": 49.624,
+   "end": 49.784,
+   "seg": 16
+  },
+  {
+   "text": "ejemplo.",
+   "src": 46.917,
+   "start": 49.784,
+   "end": 49.967,
+   "seg": 16
+  }
+ ],
+ "leveling": {
+  "threshold_db": {
+   "a": -39.9,
+   "b": -39.9
+  },
+  "target_db": -25.17,
+  "pieces": [
+   {
+    "source": "a",
+    "level_db": -25.13,
+    "gain_db": -0.04
+   },
+   {
+    "source": "a",
+    "level_db": -24.63,
+    "gain_db": -0.54
+   },
+   {
+    "source": "a",
+    "level_db": -24.64,
+    "gain_db": -0.53
+   },
+   {
+    "source": "a",
+    "level_db": -25.01,
+    "gain_db": -0.16
+   },
+   {
+    "source": "a",
+    "level_db": -24.07,
+    "gain_db": -1.1
+   },
+   {
+    "source": "b",
+    "level_db": -20.26,
+    "gain_db": -4.91
+   },
+   {
+    "source": "b",
+    "level_db": -23.8,
+    "gain_db": -1.37
+   },
+   {
+    "source": "b",
+    "level_db": -25.21,
+    "gain_db": 0.03
+   },
+   {
+    "source": "b",
+    "level_db": -31.23,
+    "gain_db": 6.06
+   },
+   {
+    "source": "b",
+    "level_db": -30.3,
+    "gain_db": 5.13
+   },
+   {
+    "source": "b",
+    "level_db": -30.57,
+    "gain_db": 5.4
+   },
+   {
+    "source": "b",
+    "level_db": -30.65,
+    "gain_db": 5.48
+   },
+   {
+    "source": "b",
+    "level_db": -24.82,
+    "gain_db": -0.35
+   },
+   {
+    "source": "b",
+    "level_db": -22.32,
+    "gain_db": -2.85
+   },
+   {
+    "source": "b",
+    "level_db": -25.21,
+    "gain_db": 0.04
+   },
+   {
+    "source": "b",
+    "level_db": -24.26,
+    "gain_db": -0.91
+   },
+   {
+    "source": "b",
+    "level_db": -31.49,
+    "gain_db": 6.32
+   }
+  ],
+  "sources": {
+   "a": {
+    "before_db": -25.01,
+    "after_db": -25.4
+   },
+   "b": {
+    "before_db": -25.21,
+    "after_db": -25.17
+   }
+  },
+  "max_gain_db": 6.81
+ }
+}

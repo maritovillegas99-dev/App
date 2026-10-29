@@ -1,0 +1,16 @@
+{
+ "out": "/tmp/claude-0/-home-user-App/f49cf625-b4a8-5f3c-a751-a7af08200fa8/scratchpad/test01.mp4",
+ "comp": "ReelMinimal",
+ "props": "/home/user/App/edit/podcast-01/reelkit-props.json",
+ "ok": true,
+ "code": 0,
+ "seconds": 41.7,
+ "duration": 5.033333,
+ "attempts": [
+  {
+   "code": 0,
+   "seconds": 41.7
+  }
+ ],
+ "at": "2026-10-29 21:56:51"
+}

@@ -10,3 +10,7 @@ Material crudo/*
 edit/**/*.mp4
 edit/**/*.wav
 edit/**/*.mov
+reels/public/podcast-*/
+edit/**/*.m4a
+edit/**/verify/
+edit/**/clips/

@@ -1,0 +1,848 @@
+{
+ "language_code": "es",
+ "text": "médicos. Microcursos para aprender a recetar péptidos. ¿Cómo tú vas a hacer un microcurso para aprender a recetar a recetar un péptido? Si tú tienes que entender cómo está funcionando la célula, cómo está el organismo, tienes que pedir exámenes médicos. Tienes que pensar en qué está pasando en el cuerpo de esa persona. O sea, tú estudiaste seis años de medicina y sigues estudiando una persona que no sepa absolutamente nada de medicina, cómo va a ser un microcurso para aprender a receta en PET. Entonces, cómo va a tener cómo va a llevar una complicación de un paciente. Exacto. Entonces, mi primera señal de alarma es eso. Los laboratorios que venden por. Hay laboratorios que son muy éticos y solo le venden a médicos. Eso me parece una buena señal, por ejemplo. Pero digamos de los",
+ "words": [
+  {
+   "text": "médicos.",
+   "start": 0.377,
+   "end": 0.777,
+   "type": "word"
+  },
+  {
+   "text": "Microcursos",
+   "start": 3.017,
+   "end": 3.657,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 3.657,
+   "end": 3.817,
+   "type": "word"
+  },
+  {
+   "text": "aprender",
+   "start": 3.817,
+   "end": 4.137,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 4.137,
+   "end": 4.217,
+   "type": "word"
+  },
+  {
+   "text": "recetar",
+   "start": 4.217,
+   "end": 4.697,
+   "type": "word"
+  },
+  {
+   "text": "péptidos.",
+   "start": 4.697,
+   "end": 5.577,
+   "type": "word"
+  },
+  {
+   "text": "¿Cómo",
+   "start": 5.977,
+   "end": 6.297,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 6.457,
+   "end": 6.697,
+   "type": "word"
+  },
+  {
+   "text": "vas",
+   "start": 6.697,
+   "end": 6.937,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 6.937,
+   "end": 7.017,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 7.017,
+   "end": 7.097,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 7.257,
+   "end": 7.417,
+   "type": "word"
+  },
+  {
+   "text": "microcurso",
+   "start": 7.417,
+   "end": 8.457,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 8.697,
+   "end": 8.937,
+   "type": "word"
+  },
+  {
+   "text": "aprender",
+   "start": 8.937,
+   "end": 9.337,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 9.337,
+   "end": 9.417,
+   "type": "word"
+  },
+  {
+   "text": "recetar",
+   "start": 9.417,
+   "end": 9.817,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 9.897,
+   "end": 9.977,
+   "type": "word"
+  },
+  {
+   "text": "recetar",
+   "start": 9.977,
+   "end": 10.457,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 10.457,
+   "end": 10.617,
+   "type": "word"
+  },
+  {
+   "text": "péptido?",
+   "start": 10.617,
+   "end": 11.257,
+   "type": "word"
+  },
+  {
+   "text": "Si",
+   "start": 11.497,
+   "end": 11.737,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 11.737,
+   "end": 11.897,
+   "type": "word"
+  },
+  {
+   "text": "tienes",
+   "start": 11.897,
+   "end": 12.137,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 12.137,
+   "end": 12.297,
+   "type": "word"
+  },
+  {
+   "text": "entender",
+   "start": 12.297,
+   "end": 12.617,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 12.617,
+   "end": 12.857,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 12.937,
+   "end": 13.097,
+   "type": "word"
+  },
+  {
+   "text": "funcionando",
+   "start": 13.097,
+   "end": 13.577,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 13.577,
+   "end": 13.737,
+   "type": "word"
+  },
+  {
+   "text": "célula,",
+   "start": 13.737,
+   "end": 14.057,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 14.217,
+   "end": 14.457,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 14.457,
+   "end": 14.617,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 14.617,
+   "end": 14.777,
+   "type": "word"
+  },
+  {
+   "text": "organismo,",
+   "start": 14.777,
+   "end": 15.097,
+   "type": "word"
+  },
+  {
+   "text": "tienes",
+   "start": 15.337,
+   "end": 15.577,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 15.577,
+   "end": 15.737,
+   "type": "word"
+  },
+  {
+   "text": "pedir",
+   "start": 15.737,
+   "end": 16.057,
+   "type": "word"
+  },
+  {
+   "text": "exámenes",
+   "start": 16.057,
+   "end": 16.537,
+   "type": "word"
+  },
+  {
+   "text": "médicos.",
+   "start": 16.537,
+   "end": 16.857,
+   "type": "word"
+  },
+  {
+   "text": "Tienes",
+   "start": 17.147,
+   "end": 17.467,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 17.467,
+   "end": 17.627,
+   "type": "word"
+  },
+  {
+   "text": "pensar",
+   "start": 17.627,
+   "end": 17.867,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 17.867,
+   "end": 18.027,
+   "type": "word"
+  },
+  {
+   "text": "qué",
+   "start": 18.027,
+   "end": 18.107,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 18.267,
+   "end": 18.427,
+   "type": "word"
+  },
+  {
+   "text": "pasando",
+   "start": 18.427,
+   "end": 18.667,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 18.667,
+   "end": 18.827,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 18.827,
+   "end": 18.907,
+   "type": "word"
+  },
+  {
+   "text": "cuerpo",
+   "start": 18.907,
+   "end": 19.147,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 19.227,
+   "end": 19.307,
+   "type": "word"
+  },
+  {
+   "text": "esa",
+   "start": 19.307,
+   "end": 19.627,
+   "type": "word"
+  },
+  {
+   "text": "persona.",
+   "start": 19.627,
+   "end": 20.187,
+   "type": "word"
+  },
+  {
+   "text": "O",
+   "start": 20.427,
+   "end": 20.507,
+   "type": "word"
+  },
+  {
+   "text": "sea,",
+   "start": 20.507,
+   "end": 20.747,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 20.827,
+   "end": 20.987,
+   "type": "word"
+  },
+  {
+   "text": "estudiaste",
+   "start": 20.987,
+   "end": 21.707,
+   "type": "word"
+  },
+  {
+   "text": "seis",
+   "start": 21.707,
+   "end": 21.787,
+   "type": "word"
+  },
+  {
+   "text": "años",
+   "start": 21.947,
+   "end": 22.187,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 22.187,
+   "end": 22.267,
+   "type": "word"
+  },
+  {
+   "text": "medicina",
+   "start": 22.267,
+   "end": 22.667,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 22.907,
+   "end": 23.067,
+   "type": "word"
+  },
+  {
+   "text": "sigues",
+   "start": 23.067,
+   "end": 23.547,
+   "type": "word"
+  },
+  {
+   "text": "estudiando",
+   "start": 23.547,
+   "end": 24.267,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 24.587,
+   "end": 24.827,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 24.827,
+   "end": 25.147,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 25.147,
+   "end": 25.307,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 25.307,
+   "end": 25.387,
+   "type": "word"
+  },
+  {
+   "text": "sepa",
+   "start": 25.387,
+   "end": 25.707,
+   "type": "word"
+  },
+  {
+   "text": "absolutamente",
+   "start": 25.787,
+   "end": 26.427,
+   "type": "word"
+  },
+  {
+   "text": "nada",
+   "start": 26.427,
+   "end": 26.747,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 26.747,
+   "end": 26.907,
+   "type": "word"
+  },
+  {
+   "text": "medicina,",
+   "start": 26.907,
+   "end": 27.307,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 27.787,
+   "end": 28.107,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 28.107,
+   "end": 28.187,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 28.187,
+   "end": 28.347,
+   "type": "word"
+  },
+  {
+   "text": "ser",
+   "start": 28.347,
+   "end": 28.427,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 28.427,
+   "end": 28.587,
+   "type": "word"
+  },
+  {
+   "text": "microcurso",
+   "start": 28.587,
+   "end": 29.227,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 29.227,
+   "end": 29.387,
+   "type": "word"
+  },
+  {
+   "text": "aprender",
+   "start": 29.387,
+   "end": 29.627,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 29.707,
+   "end": 29.787,
+   "type": "word"
+  },
+  {
+   "text": "receta",
+   "start": 29.787,
+   "end": 30.107,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 30.267,
+   "end": 30.347,
+   "type": "word"
+  },
+  {
+   "text": "PET.",
+   "start": 30.347,
+   "end": 30.667,
+   "type": "word"
+  },
+  {
+   "text": "Entonces,",
+   "start": 30.827,
+   "end": 31.067,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 31.227,
+   "end": 31.387,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 31.387,
+   "end": 31.467,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 31.467,
+   "end": 31.547,
+   "type": "word"
+  },
+  {
+   "text": "tener",
+   "start": 31.547,
+   "end": 31.707,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 31.787,
+   "end": 32.027,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 32.027,
+   "end": 32.107,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 32.107,
+   "end": 32.187,
+   "type": "word"
+  },
+  {
+   "text": "llevar",
+   "start": 32.187,
+   "end": 32.427,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 32.507,
+   "end": 32.667,
+   "type": "word"
+  },
+  {
+   "text": "complicación",
+   "start": 32.667,
+   "end": 33.227,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 33.227,
+   "end": 33.387,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 33.387,
+   "end": 33.467,
+   "type": "word"
+  },
+  {
+   "text": "paciente.",
+   "start": 33.467,
+   "end": 33.787,
+   "type": "word"
+  },
+  {
+   "text": "Exacto.",
+   "start": 34.107,
+   "end": 34.507,
+   "type": "word"
+  },
+  {
+   "text": "Entonces,",
+   "start": 34.667,
+   "end": 35.547,
+   "type": "word"
+  },
+  {
+   "text": "mi",
+   "start": 35.867,
+   "end": 36.187,
+   "type": "word"
+  },
+  {
+   "text": "primera",
+   "start": 36.187,
+   "end": 36.587,
+   "type": "word"
+  },
+  {
+   "text": "señal",
+   "start": 36.587,
+   "end": 36.907,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 36.907,
+   "end": 36.987,
+   "type": "word"
+  },
+  {
+   "text": "alarma",
+   "start": 36.987,
+   "end": 37.467,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 37.467,
+   "end": 37.627,
+   "type": "word"
+  },
+  {
+   "text": "eso.",
+   "start": 37.627,
+   "end": 37.787,
+   "type": "word"
+  },
+  {
+   "text": "Los",
+   "start": 38.027,
+   "end": 38.187,
+   "type": "word"
+  },
+  {
+   "text": "laboratorios",
+   "start": 38.187,
+   "end": 38.907,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 39.067,
+   "end": 39.307,
+   "type": "word"
+  },
+  {
+   "text": "venden",
+   "start": 39.307,
+   "end": 39.707,
+   "type": "word"
+  },
+  {
+   "text": "por.",
+   "start": 39.867,
+   "end": 40.027,
+   "type": "word"
+  },
+  {
+   "text": "Hay",
+   "start": 40.917,
+   "end": 41.317,
+   "type": "word"
+  },
+  {
+   "text": "laboratorios",
+   "start": 41.317,
+   "end": 41.957,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 42.197,
+   "end": 42.357,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 42.357,
+   "end": 42.517,
+   "type": "word"
+  },
+  {
+   "text": "muy",
+   "start": 42.517,
+   "end": 42.677,
+   "type": "word"
+  },
+  {
+   "text": "éticos",
+   "start": 42.677,
+   "end": 43.237,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 43.317,
+   "end": 43.397,
+   "type": "word"
+  },
+  {
+   "text": "solo",
+   "start": 43.397,
+   "end": 43.477,
+   "type": "word"
+  },
+  {
+   "text": "le",
+   "start": 43.637,
+   "end": 43.717,
+   "type": "word"
+  },
+  {
+   "text": "venden",
+   "start": 43.717,
+   "end": 44.037,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 44.037,
+   "end": 44.197,
+   "type": "word"
+  },
+  {
+   "text": "médicos.",
+   "start": 44.197,
+   "end": 44.917,
+   "type": "word"
+  },
+  {
+   "text": "Eso",
+   "start": 45.157,
+   "end": 45.477,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 45.477,
+   "end": 45.637,
+   "type": "word"
+  },
+  {
+   "text": "parece",
+   "start": 45.637,
+   "end": 45.877,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 45.957,
+   "end": 46.117,
+   "type": "word"
+  },
+  {
+   "text": "buena",
+   "start": 46.117,
+   "end": 46.357,
+   "type": "word"
+  },
+  {
+   "text": "señal,",
+   "start": 46.357,
+   "end": 46.677,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 46.757,
+   "end": 46.917,
+   "type": "word"
+  },
+  {
+   "text": "ejemplo.",
+   "start": 46.917,
+   "end": 47.397,
+   "type": "word"
+  },
+  {
+   "text": "Pero",
+   "start": 47.717,
+   "end": 47.957,
+   "type": "word"
+  },
+  {
+   "text": "digamos",
+   "start": 48.037,
+   "end": 48.597,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 49.397,
+   "end": 49.637,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 49.637,
+   "end": 49.877,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-05b.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-05/src/podcast-05b.mp4",
+  "size": 67955760,
+  "mtime_ns": 1793309805668763521
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1177.133,
+  "end": 1227.533
+ }
+}

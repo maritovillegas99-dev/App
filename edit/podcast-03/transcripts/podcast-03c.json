@@ -1,0 +1,614 @@
+{
+ "language_code": "es",
+ "text": "tiene que pasar la fase 3. Entonces ya con esta fase 3, digamos, de reta, que es por un laboratorio que se llama Lili, que lo que quiere hacer precisamente Lili es demandar a todas las personas que están produciendo esta molécula, porque pues hacer estudios es costosísimo. Imagínate, tú coges 10 mil personas para hacer los estudios. Claro. Y esa plata es la que invierte ese laboratorio en específico, que es el laboratorio de Lili. Claro, hay laboratorios que no invierten absolutamente nada, vieron que ya se puede, entonces ahí sí lo sacaron. Ok. De los que están",
+ "words": [
+  {
+   "text": "tiene",
+   "start": 0.717,
+   "end": 0.797,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 0.957,
+   "end": 1.117,
+   "type": "word"
+  },
+  {
+   "text": "pasar",
+   "start": 1.117,
+   "end": 1.437,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 1.437,
+   "end": 1.597,
+   "type": "word"
+  },
+  {
+   "text": "fase",
+   "start": 1.597,
+   "end": 1.917,
+   "type": "word"
+  },
+  {
+   "text": "3.",
+   "start": 1.917,
+   "end": 2.317,
+   "type": "word"
+  },
+  {
+   "text": "Entonces",
+   "start": 3.007,
+   "end": 3.247,
+   "type": "word"
+  },
+  {
+   "text": "ya",
+   "start": 3.327,
+   "end": 3.487,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 3.487,
+   "end": 3.647,
+   "type": "word"
+  },
+  {
+   "text": "esta",
+   "start": 3.647,
+   "end": 3.727,
+   "type": "word"
+  },
+  {
+   "text": "fase",
+   "start": 3.807,
+   "end": 4.127,
+   "type": "word"
+  },
+  {
+   "text": "3,",
+   "start": 4.127,
+   "end": 4.287,
+   "type": "word"
+  },
+  {
+   "text": "digamos,",
+   "start": 4.367,
+   "end": 4.687,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 4.847,
+   "end": 5.087,
+   "type": "word"
+  },
+  {
+   "text": "reta,",
+   "start": 5.087,
+   "end": 5.407,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 5.727,
+   "end": 5.887,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 5.887,
+   "end": 6.047,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 6.047,
+   "end": 6.207,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 6.287,
+   "end": 6.367,
+   "type": "word"
+  },
+  {
+   "text": "laboratorio",
+   "start": 6.367,
+   "end": 6.847,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 6.847,
+   "end": 6.927,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 6.927,
+   "end": 7.007,
+   "type": "word"
+  },
+  {
+   "text": "llama",
+   "start": 7.007,
+   "end": 7.247,
+   "type": "word"
+  },
+  {
+   "text": "Lili,",
+   "start": 7.247,
+   "end": 7.567,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 8.047,
+   "end": 8.287,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 8.287,
+   "end": 8.367,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 8.367,
+   "end": 8.527,
+   "type": "word"
+  },
+  {
+   "text": "quiere",
+   "start": 8.527,
+   "end": 8.767,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 8.767,
+   "end": 8.847,
+   "type": "word"
+  },
+  {
+   "text": "precisamente",
+   "start": 9.007,
+   "end": 9.407,
+   "type": "word"
+  },
+  {
+   "text": "Lili",
+   "start": 9.487,
+   "end": 9.727,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 9.887,
+   "end": 10.047,
+   "type": "word"
+  },
+  {
+   "text": "demandar",
+   "start": 10.047,
+   "end": 10.447,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 10.447,
+   "end": 10.527,
+   "type": "word"
+  },
+  {
+   "text": "todas",
+   "start": 10.527,
+   "end": 10.767,
+   "type": "word"
+  },
+  {
+   "text": "las",
+   "start": 10.767,
+   "end": 10.847,
+   "type": "word"
+  },
+  {
+   "text": "personas",
+   "start": 10.847,
+   "end": 11.167,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 11.167,
+   "end": 11.327,
+   "type": "word"
+  },
+  {
+   "text": "están",
+   "start": 11.327,
+   "end": 11.567,
+   "type": "word"
+  },
+  {
+   "text": "produciendo",
+   "start": 11.567,
+   "end": 12.127,
+   "type": "word"
+  },
+  {
+   "text": "esta",
+   "start": 12.127,
+   "end": 12.287,
+   "type": "word"
+  },
+  {
+   "text": "molécula,",
+   "start": 12.367,
+   "end": 13.007,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 13.247,
+   "end": 13.487,
+   "type": "word"
+  },
+  {
+   "text": "pues",
+   "start": 13.647,
+   "end": 13.887,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 13.967,
+   "end": 14.207,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 14.207,
+   "end": 14.607,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 14.607,
+   "end": 14.767,
+   "type": "word"
+  },
+  {
+   "text": "costosísimo.",
+   "start": 14.767,
+   "end": 15.327,
+   "type": "word"
+  },
+  {
+   "text": "Imagínate,",
+   "start": 15.487,
+   "end": 15.967,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 16.047,
+   "end": 16.207,
+   "type": "word"
+  },
+  {
+   "text": "coges",
+   "start": 16.287,
+   "end": 16.847,
+   "type": "word"
+  },
+  {
+   "text": "10",
+   "start": 16.847,
+   "end": 17.247,
+   "type": "word"
+  },
+  {
+   "text": "mil",
+   "start": 17.247,
+   "end": 17.407,
+   "type": "word"
+  },
+  {
+   "text": "personas",
+   "start": 17.567,
+   "end": 17.807,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 17.807,
+   "end": 17.967,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 17.967,
+   "end": 18.207,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 18.207,
+   "end": 18.367,
+   "type": "word"
+  },
+  {
+   "text": "estudios.",
+   "start": 18.367,
+   "end": 18.847,
+   "type": "word"
+  },
+  {
+   "text": "Claro.",
+   "start": 19.087,
+   "end": 19.407,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 19.567,
+   "end": 19.727,
+   "type": "word"
+  },
+  {
+   "text": "esa",
+   "start": 19.727,
+   "end": 19.967,
+   "type": "word"
+  },
+  {
+   "text": "plata",
+   "start": 19.967,
+   "end": 20.207,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 20.207,
+   "end": 20.367,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 20.367,
+   "end": 20.447,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 20.447,
+   "end": 20.607,
+   "type": "word"
+  },
+  {
+   "text": "invierte",
+   "start": 20.607,
+   "end": 21.087,
+   "type": "word"
+  },
+  {
+   "text": "ese",
+   "start": 21.087,
+   "end": 21.247,
+   "type": "word"
+  },
+  {
+   "text": "laboratorio",
+   "start": 21.327,
+   "end": 21.647,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 21.727,
+   "end": 21.807,
+   "type": "word"
+  },
+  {
+   "text": "específico,",
+   "start": 21.807,
+   "end": 22.207,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 22.287,
+   "end": 22.367,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 22.367,
+   "end": 22.447,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 22.447,
+   "end": 22.527,
+   "type": "word"
+  },
+  {
+   "text": "laboratorio",
+   "start": 22.527,
+   "end": 22.927,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 22.927,
+   "end": 23.007,
+   "type": "word"
+  },
+  {
+   "text": "Lili.",
+   "start": 23.007,
+   "end": 23.327,
+   "type": "word"
+  },
+  {
+   "text": "Claro,",
+   "start": 23.577,
+   "end": 23.817,
+   "type": "word"
+  },
+  {
+   "text": "hay",
+   "start": 24.057,
+   "end": 24.297,
+   "type": "word"
+  },
+  {
+   "text": "laboratorios",
+   "start": 24.297,
+   "end": 24.697,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 24.697,
+   "end": 24.857,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 24.857,
+   "end": 24.937,
+   "type": "word"
+  },
+  {
+   "text": "invierten",
+   "start": 24.937,
+   "end": 25.497,
+   "type": "word"
+  },
+  {
+   "text": "absolutamente",
+   "start": 25.497,
+   "end": 25.897,
+   "type": "word"
+  },
+  {
+   "text": "nada,",
+   "start": 25.897,
+   "end": 26.057,
+   "type": "word"
+  },
+  {
+   "text": "vieron",
+   "start": 26.297,
+   "end": 26.617,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 26.617,
+   "end": 26.697,
+   "type": "word"
+  },
+  {
+   "text": "ya",
+   "start": 26.697,
+   "end": 26.777,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 26.777,
+   "end": 26.857,
+   "type": "word"
+  },
+  {
+   "text": "puede,",
+   "start": 26.937,
+   "end": 27.097,
+   "type": "word"
+  },
+  {
+   "text": "entonces",
+   "start": 27.257,
+   "end": 27.497,
+   "type": "word"
+  },
+  {
+   "text": "ahí",
+   "start": 27.497,
+   "end": 27.737,
+   "type": "word"
+  },
+  {
+   "text": "sí",
+   "start": 27.737,
+   "end": 27.817,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 28.377,
+   "end": 28.617,
+   "type": "word"
+  },
+  {
+   "text": "sacaron.",
+   "start": 28.617,
+   "end": 29.097,
+   "type": "word"
+  },
+  {
+   "text": "Ok.",
+   "start": 29.977,
+   "end": 30.377,
+   "type": "word"
+  },
+  {
+   "text": "De",
+   "start": 31.097,
+   "end": 31.337,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 31.337,
+   "end": 31.497,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 31.497,
+   "end": 31.737,
+   "type": "word"
+  },
+  {
+   "text": "están",
+   "start": 31.737,
+   "end": 31.977,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-03c.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-03/src/podcast-03c.mp4",
+  "size": 40267299,
+  "mtime_ns": 1793309676132758888
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 731.833,
+  "end": 763.933
+ }
+}

@@ -1,0 +1,650 @@
+{
+ "language_code": "es",
+ "text": "rapidísimo. Pero es sostenible, o sea. No, y el tema con estos térpidos de para perder peso no es que pierda peso. Porque te lo juro que el ochenta por ciento de los pacientes sí o sí pierden peso. El problema es cómo van a sostener esa pérdida de peso. El problema es cómo van a manejar la pérdida de masa muscular. se les hizo, se si se les hizo una prescripción del entrenamiento, si se les mandó a tomar creatina, si se les explicó cuántos gramos de proteína por kilo tenían que comer al día. Y, y entre dosis más altas, supongo que es",
+ "words": [
+  {
+   "text": "rapidísimo.",
+   "start": 0.217,
+   "end": 0.617,
+   "type": "word"
+  },
+  {
+   "text": "Pero",
+   "start": 1.247,
+   "end": 1.327,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 1.407,
+   "end": 1.487,
+   "type": "word"
+  },
+  {
+   "text": "sostenible,",
+   "start": 1.567,
+   "end": 2.207,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 2.367,
+   "end": 2.527,
+   "type": "word"
+  },
+  {
+   "text": "sea.",
+   "start": 2.527,
+   "end": 2.687,
+   "type": "word"
+  },
+  {
+   "text": "No,",
+   "start": 3.007,
+   "end": 3.167,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 3.247,
+   "end": 3.407,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 3.407,
+   "end": 3.647,
+   "type": "word"
+  },
+  {
+   "text": "tema",
+   "start": 3.647,
+   "end": 3.967,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 4.047,
+   "end": 4.367,
+   "type": "word"
+  },
+  {
+   "text": "estos",
+   "start": 4.367,
+   "end": 4.767,
+   "type": "word"
+  },
+  {
+   "text": "térpidos",
+   "start": 4.767,
+   "end": 5.407,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 5.887,
+   "end": 6.127,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 6.367,
+   "end": 6.607,
+   "type": "word"
+  },
+  {
+   "text": "perder",
+   "start": 6.607,
+   "end": 6.927,
+   "type": "word"
+  },
+  {
+   "text": "peso",
+   "start": 7.087,
+   "end": 7.407,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 7.487,
+   "end": 7.647,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 7.647,
+   "end": 7.967,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 7.967,
+   "end": 8.207,
+   "type": "word"
+  },
+  {
+   "text": "pierda",
+   "start": 8.207,
+   "end": 8.527,
+   "type": "word"
+  },
+  {
+   "text": "peso.",
+   "start": 8.687,
+   "end": 9.007,
+   "type": "word"
+  },
+  {
+   "text": "Porque",
+   "start": 9.247,
+   "end": 9.647,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 9.887,
+   "end": 10.127,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 10.127,
+   "end": 10.287,
+   "type": "word"
+  },
+  {
+   "text": "juro",
+   "start": 10.287,
+   "end": 10.527,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 10.607,
+   "end": 10.847,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 10.847,
+   "end": 11.007,
+   "type": "word"
+  },
+  {
+   "text": "ochenta",
+   "start": 11.007,
+   "end": 11.247,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 11.407,
+   "end": 11.487,
+   "type": "word"
+  },
+  {
+   "text": "ciento",
+   "start": 11.487,
+   "end": 11.647,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 11.647,
+   "end": 11.727,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 11.727,
+   "end": 11.807,
+   "type": "word"
+  },
+  {
+   "text": "pacientes",
+   "start": 11.887,
+   "end": 12.207,
+   "type": "word"
+  },
+  {
+   "text": "sí",
+   "start": 12.367,
+   "end": 12.607,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 12.607,
+   "end": 12.767,
+   "type": "word"
+  },
+  {
+   "text": "sí",
+   "start": 12.767,
+   "end": 12.927,
+   "type": "word"
+  },
+  {
+   "text": "pierden",
+   "start": 13.087,
+   "end": 13.407,
+   "type": "word"
+  },
+  {
+   "text": "peso.",
+   "start": 13.567,
+   "end": 13.887,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 14.287,
+   "end": 14.447,
+   "type": "word"
+  },
+  {
+   "text": "problema",
+   "start": 14.447,
+   "end": 14.687,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 14.767,
+   "end": 14.847,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 15.007,
+   "end": 15.167,
+   "type": "word"
+  },
+  {
+   "text": "van",
+   "start": 15.247,
+   "end": 15.407,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 15.407,
+   "end": 15.567,
+   "type": "word"
+  },
+  {
+   "text": "sostener",
+   "start": 15.567,
+   "end": 16.047,
+   "type": "word"
+  },
+  {
+   "text": "esa",
+   "start": 16.047,
+   "end": 16.207,
+   "type": "word"
+  },
+  {
+   "text": "pérdida",
+   "start": 16.207,
+   "end": 16.527,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 16.527,
+   "end": 16.607,
+   "type": "word"
+  },
+  {
+   "text": "peso.",
+   "start": 16.607,
+   "end": 16.927,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 17.407,
+   "end": 17.567,
+   "type": "word"
+  },
+  {
+   "text": "problema",
+   "start": 17.567,
+   "end": 17.807,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 17.967,
+   "end": 18.207,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 18.367,
+   "end": 18.847,
+   "type": "word"
+  },
+  {
+   "text": "van",
+   "start": 18.847,
+   "end": 19.007,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 19.007,
+   "end": 19.167,
+   "type": "word"
+  },
+  {
+   "text": "manejar",
+   "start": 19.167,
+   "end": 19.487,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 19.487,
+   "end": 19.647,
+   "type": "word"
+  },
+  {
+   "text": "pérdida",
+   "start": 19.647,
+   "end": 20.047,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 20.047,
+   "end": 20.207,
+   "type": "word"
+  },
+  {
+   "text": "masa",
+   "start": 20.207,
+   "end": 20.447,
+   "type": "word"
+  },
+  {
+   "text": "muscular.",
+   "start": 20.447,
+   "end": 21.247,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 22.337,
+   "end": 22.497,
+   "type": "word"
+  },
+  {
+   "text": "les",
+   "start": 22.497,
+   "end": 22.577,
+   "type": "word"
+  },
+  {
+   "text": "hizo,",
+   "start": 22.577,
+   "end": 22.817,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 22.817,
+   "end": 22.897,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 22.977,
+   "end": 23.057,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 23.217,
+   "end": 23.297,
+   "type": "word"
+  },
+  {
+   "text": "les",
+   "start": 23.297,
+   "end": 23.457,
+   "type": "word"
+  },
+  {
+   "text": "hizo",
+   "start": 23.457,
+   "end": 23.697,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 23.697,
+   "end": 23.777,
+   "type": "word"
+  },
+  {
+   "text": "prescripción",
+   "start": 24.017,
+   "end": 24.497,
+   "type": "word"
+  },
+  {
+   "text": "del",
+   "start": 24.497,
+   "end": 24.657,
+   "type": "word"
+  },
+  {
+   "text": "entrenamiento,",
+   "start": 24.657,
+   "end": 25.137,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 25.297,
+   "end": 25.457,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 25.457,
+   "end": 25.537,
+   "type": "word"
+  },
+  {
+   "text": "les",
+   "start": 25.537,
+   "end": 25.617,
+   "type": "word"
+  },
+  {
+   "text": "mandó",
+   "start": 25.617,
+   "end": 25.777,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 25.857,
+   "end": 25.937,
+   "type": "word"
+  },
+  {
+   "text": "tomar",
+   "start": 25.937,
+   "end": 26.177,
+   "type": "word"
+  },
+  {
+   "text": "creatina,",
+   "start": 26.177,
+   "end": 26.737,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 26.817,
+   "end": 26.977,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 26.977,
+   "end": 27.057,
+   "type": "word"
+  },
+  {
+   "text": "les",
+   "start": 27.057,
+   "end": 27.217,
+   "type": "word"
+  },
+  {
+   "text": "explicó",
+   "start": 27.217,
+   "end": 27.617,
+   "type": "word"
+  },
+  {
+   "text": "cuántos",
+   "start": 27.617,
+   "end": 27.857,
+   "type": "word"
+  },
+  {
+   "text": "gramos",
+   "start": 27.937,
+   "end": 28.257,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 28.257,
+   "end": 28.337,
+   "type": "word"
+  },
+  {
+   "text": "proteína",
+   "start": 28.337,
+   "end": 28.817,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 28.817,
+   "end": 28.897,
+   "type": "word"
+  },
+  {
+   "text": "kilo",
+   "start": 28.897,
+   "end": 29.217,
+   "type": "word"
+  },
+  {
+   "text": "tenían",
+   "start": 29.217,
+   "end": 29.537,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 29.537,
+   "end": 29.697,
+   "type": "word"
+  },
+  {
+   "text": "comer",
+   "start": 29.697,
+   "end": 29.937,
+   "type": "word"
+  },
+  {
+   "text": "al",
+   "start": 29.937,
+   "end": 30.177,
+   "type": "word"
+  },
+  {
+   "text": "día.",
+   "start": 30.177,
+   "end": 30.497,
+   "type": "word"
+  },
+  {
+   "text": "Y,",
+   "start": 30.817,
+   "end": 30.977,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 31.057,
+   "end": 31.137,
+   "type": "word"
+  },
+  {
+   "text": "entre",
+   "start": 31.217,
+   "end": 31.377,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 31.537,
+   "end": 31.937,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 31.937,
+   "end": 32.097,
+   "type": "word"
+  },
+  {
+   "text": "altas,",
+   "start": 32.097,
+   "end": 32.417,
+   "type": "word"
+  },
+  {
+   "text": "supongo",
+   "start": 32.497,
+   "end": 33.057,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 33.057,
+   "end": 33.217,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 33.217,
+   "end": 33.457,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-08a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-08/src/podcast-08a.mp4",
+  "size": 44563082,
+  "mtime_ns": 1793309955664768885
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1883.933,
+  "end": 1917.433
+ }
+}

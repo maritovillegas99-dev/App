@@ -1,0 +1,77 @@
+{
+ "version": 1,
+ "sources": {
+  "a": "/home/user/App/edit/podcast-04/src/podcast-04a.mp4"
+ },
+ "speed": 1.0,
+ "speeds": {
+  "a": 1.0
+ },
+ "grade": "colorchannelmixer=rr=0.98:bb=1.06",
+ "ranges": [
+  {
+   "source": "a",
+   "start": 2.933,
+   "end": 5.833,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 6.033,
+   "end": 7.967,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 8.2,
+   "end": 25.567,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 25.867,
+   "end": 27.433,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 27.8,
+   "end": 35.133,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 35.467,
+   "end": 40.667,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 40.867,
+   "end": 47.0,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 47.3,
+   "end": 54.733,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 55.033,
+   "end": 61.867,
+   "speed": 1.0,
+   "beat": "piece a"
+  }
+ ],
+ "total_duration_s": 56.7
+}

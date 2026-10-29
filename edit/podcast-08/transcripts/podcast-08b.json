@@ -1,0 +1,512 @@
+{
+ "language_code": "es",
+ "text": "y que quieren igual bajar de peso. Y eso está bien. Y siento que los tóptidos son una excelente herramienta, sí, pero no es. la herramienta base, ¿ya? Es algo que puede contribuir, pero hay que tener en cuenta que esos estudios que se hacen son en gente obesa, ¿ya? Y si tú no estás obeso, no puedes empezar a usar dosis de obeso, o no puedes empezar a titular la dosis así. Además que todos los pacientes son un mundo aparte.",
+ "words": [
+  {
+   "text": "y",
+   "start": 0.307,
+   "end": 0.547,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 0.547,
+   "end": 0.707,
+   "type": "word"
+  },
+  {
+   "text": "quieren",
+   "start": 0.707,
+   "end": 1.027,
+   "type": "word"
+  },
+  {
+   "text": "igual",
+   "start": 1.027,
+   "end": 1.427,
+   "type": "word"
+  },
+  {
+   "text": "bajar",
+   "start": 1.427,
+   "end": 1.747,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 1.747,
+   "end": 1.827,
+   "type": "word"
+  },
+  {
+   "text": "peso.",
+   "start": 1.827,
+   "end": 2.067,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 2.147,
+   "end": 2.307,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 2.307,
+   "end": 2.547,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 2.547,
+   "end": 2.707,
+   "type": "word"
+  },
+  {
+   "text": "bien.",
+   "start": 2.707,
+   "end": 2.867,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 3.027,
+   "end": 3.187,
+   "type": "word"
+  },
+  {
+   "text": "siento",
+   "start": 3.187,
+   "end": 3.587,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 3.587,
+   "end": 3.827,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 3.987,
+   "end": 4.307,
+   "type": "word"
+  },
+  {
+   "text": "tóptidos",
+   "start": 4.307,
+   "end": 5.027,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 5.027,
+   "end": 5.187,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 5.187,
+   "end": 5.267,
+   "type": "word"
+  },
+  {
+   "text": "excelente",
+   "start": 5.267,
+   "end": 5.747,
+   "type": "word"
+  },
+  {
+   "text": "herramienta,",
+   "start": 5.747,
+   "end": 6.387,
+   "type": "word"
+  },
+  {
+   "text": "sí,",
+   "start": 6.627,
+   "end": 6.947,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 7.187,
+   "end": 7.427,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 7.427,
+   "end": 7.667,
+   "type": "word"
+  },
+  {
+   "text": "es.",
+   "start": 7.667,
+   "end": 7.827,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 8.397,
+   "end": 8.637,
+   "type": "word"
+  },
+  {
+   "text": "herramienta",
+   "start": 8.637,
+   "end": 9.197,
+   "type": "word"
+  },
+  {
+   "text": "base,",
+   "start": 9.197,
+   "end": 9.437,
+   "type": "word"
+  },
+  {
+   "text": "¿ya?",
+   "start": 9.757,
+   "end": 9.917,
+   "type": "word"
+  },
+  {
+   "text": "Es",
+   "start": 10.557,
+   "end": 10.877,
+   "type": "word"
+  },
+  {
+   "text": "algo",
+   "start": 10.877,
+   "end": 11.197,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 11.197,
+   "end": 11.437,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 11.437,
+   "end": 11.757,
+   "type": "word"
+  },
+  {
+   "text": "contribuir,",
+   "start": 11.757,
+   "end": 12.397,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 12.557,
+   "end": 12.877,
+   "type": "word"
+  },
+  {
+   "text": "hay",
+   "start": 12.877,
+   "end": 13.037,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 13.037,
+   "end": 13.197,
+   "type": "word"
+  },
+  {
+   "text": "tener",
+   "start": 13.197,
+   "end": 13.517,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 13.517,
+   "end": 13.597,
+   "type": "word"
+  },
+  {
+   "text": "cuenta",
+   "start": 13.597,
+   "end": 13.837,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 13.837,
+   "end": 13.997,
+   "type": "word"
+  },
+  {
+   "text": "esos",
+   "start": 13.997,
+   "end": 14.317,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 14.317,
+   "end": 14.797,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 14.797,
+   "end": 14.957,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 14.957,
+   "end": 15.117,
+   "type": "word"
+  },
+  {
+   "text": "hacen",
+   "start": 15.117,
+   "end": 15.517,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 15.757,
+   "end": 15.997,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 15.997,
+   "end": 16.237,
+   "type": "word"
+  },
+  {
+   "text": "gente",
+   "start": 16.237,
+   "end": 16.637,
+   "type": "word"
+  },
+  {
+   "text": "obesa,",
+   "start": 16.637,
+   "end": 17.117,
+   "type": "word"
+  },
+  {
+   "text": "¿ya?",
+   "start": 17.437,
+   "end": 17.597,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 17.757,
+   "end": 17.917,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 17.917,
+   "end": 18.077,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 18.077,
+   "end": 18.157,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 18.157,
+   "end": 18.317,
+   "type": "word"
+  },
+  {
+   "text": "estás",
+   "start": 18.317,
+   "end": 18.557,
+   "type": "word"
+  },
+  {
+   "text": "obeso,",
+   "start": 18.557,
+   "end": 18.957,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 19.037,
+   "end": 19.197,
+   "type": "word"
+  },
+  {
+   "text": "puedes",
+   "start": 19.197,
+   "end": 19.437,
+   "type": "word"
+  },
+  {
+   "text": "empezar",
+   "start": 19.437,
+   "end": 19.677,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 19.677,
+   "end": 19.837,
+   "type": "word"
+  },
+  {
+   "text": "usar",
+   "start": 19.837,
+   "end": 20.157,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 20.157,
+   "end": 20.557,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 20.557,
+   "end": 20.717,
+   "type": "word"
+  },
+  {
+   "text": "obeso,",
+   "start": 20.717,
+   "end": 21.117,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 21.197,
+   "end": 21.357,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 21.357,
+   "end": 21.517,
+   "type": "word"
+  },
+  {
+   "text": "puedes",
+   "start": 21.517,
+   "end": 21.837,
+   "type": "word"
+  },
+  {
+   "text": "empezar",
+   "start": 21.837,
+   "end": 22.237,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 22.237,
+   "end": 22.397,
+   "type": "word"
+  },
+  {
+   "text": "titular",
+   "start": 22.397,
+   "end": 22.877,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 22.877,
+   "end": 23.037,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 23.037,
+   "end": 23.357,
+   "type": "word"
+  },
+  {
+   "text": "así.",
+   "start": 23.357,
+   "end": 23.437,
+   "type": "word"
+  },
+  {
+   "text": "Además",
+   "start": 23.597,
+   "end": 23.837,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 23.917,
+   "end": 24.077,
+   "type": "word"
+  },
+  {
+   "text": "todos",
+   "start": 24.077,
+   "end": 24.317,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 24.317,
+   "end": 24.397,
+   "type": "word"
+  },
+  {
+   "text": "pacientes",
+   "start": 24.397,
+   "end": 24.717,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 24.877,
+   "end": 25.037,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 25.037,
+   "end": 25.197,
+   "type": "word"
+  },
+  {
+   "text": "mundo",
+   "start": 25.197,
+   "end": 25.357,
+   "type": "word"
+  },
+  {
+   "text": "aparte.",
+   "start": 25.437,
+   "end": 25.677,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-08b.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-08/src/podcast-08b.mp4",
+  "size": 35233808,
+  "mtime_ns": 1793309981640769814
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1988.633,
+  "end": 2015.067
+ }
+}

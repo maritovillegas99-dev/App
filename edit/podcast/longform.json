@@ -16,5 +16,390 @@
  },
  "preset": null,
  "pad": 3.0,
- "clips": {}
+ "clips": {
+  "01": {
+   "folder": "edit/podcast-01",
+   "inputs": "f1fce47965d0",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-01/src/podcast-01a.mp4",
+     "transcript": "edit/podcast-01/transcripts/podcast-01a.json",
+     "offset": 147.7,
+     "end": 209.4,
+     "start_in": 3.0,
+     "end_in": 58.7,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-01/src/podcast-01a.mp4",
+      "size": 80162532,
+      "mtime_ns": 1793309533596753790
+     },
+     "words": "slice",
+     "wav": "edit/podcast-01/audio16k-podcast-01a.wav"
+    }
+   ],
+   "at": "2026-10-29 21:32:14"
+  },
+  "02": {
+   "folder": "edit/podcast-02",
+   "inputs": "b0913aad09d7",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-02/src/podcast-02a.mp4",
+     "transcript": "edit/podcast-02/transcripts/podcast-02a.json",
+     "offset": 318.167,
+     "end": 345.94,
+     "start_in": 3.013,
+     "end_in": 24.773,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-02/src/podcast-02a.mp4",
+      "size": 34687122,
+      "mtime_ns": 1793309559124754703
+     },
+     "words": "slice",
+     "wav": "edit/podcast-02/audio16k-podcast-02a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-02/src/podcast-02b.mp4",
+     "transcript": "edit/podcast-02/transcripts/podcast-02b.json",
+     "offset": 362.7,
+     "end": 378.94,
+     "start_in": 3.0,
+     "end_in": 13.24,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-02/src/podcast-02b.mp4",
+      "size": 20271334,
+      "mtime_ns": 1793309576008755307
+     },
+     "words": "slice",
+     "wav": "edit/podcast-02/audio16k-podcast-02b.wav"
+    },
+    {
+     "key": "c",
+     "file": "edit/podcast-02/src/podcast-02c.mp4",
+     "transcript": "edit/podcast-02/transcripts/podcast-02c.json",
+     "offset": 396.267,
+     "end": 418.14,
+     "start_in": 3.023,
+     "end_in": 18.873,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-02/src/podcast-02c.mp4",
+      "size": 28580032,
+      "mtime_ns": 1793309597672756082
+     },
+     "words": "slice",
+     "wav": "edit/podcast-02/audio16k-podcast-02c.wav"
+    }
+   ],
+   "at": "2026-10-29 21:33:18"
+  },
+  "03": {
+   "folder": "edit/podcast-03",
+   "inputs": "79088c7d367d",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-03/src/podcast-03a.mp4",
+     "transcript": "edit/podcast-03/transcripts/podcast-03a.json",
+     "offset": 628.9,
+     "end": 650.82,
+     "start_in": 3.01,
+     "end_in": 18.92,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-03/src/podcast-03a.mp4",
+      "size": 28467725,
+      "mtime_ns": 1793309620588756902
+     },
+     "words": "slice",
+     "wav": "edit/podcast-03/audio16k-podcast-03a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-03/src/podcast-03b.mp4",
+     "transcript": "edit/podcast-03/transcripts/podcast-03b.json",
+     "offset": 681.033,
+     "end": 706.98,
+     "start_in": 3.017,
+     "end_in": 22.947,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-03/src/podcast-03b.mp4",
+      "size": 32352657,
+      "mtime_ns": 1793309645200757782
+     },
+     "words": "slice",
+     "wav": "edit/podcast-03/audio16k-podcast-03b.wav"
+    },
+    {
+     "key": "c",
+     "file": "edit/podcast-03/src/podcast-03c.mp4",
+     "transcript": "edit/podcast-03/transcripts/podcast-03c.json",
+     "offset": 731.833,
+     "end": 763.93,
+     "start_in": 3.007,
+     "end_in": 29.097,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-03/src/podcast-03c.mp4",
+      "size": 40267299,
+      "mtime_ns": 1793309676132758888
+     },
+     "words": "slice",
+     "wav": "edit/podcast-03/audio16k-podcast-03c.wav"
+    }
+   ],
+   "at": "2026-10-29 21:34:36"
+  },
+  "04": {
+   "folder": "edit/podcast-04",
+   "inputs": "7c68e60b3346",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-04/src/podcast-04a.mp4",
+     "transcript": "edit/podcast-04/transcripts/podcast-04a.json",
+     "offset": 993.467,
+     "end": 1058.33,
+     "start_in": 3.023,
+     "end_in": 61.863,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-04/src/podcast-04a.mp4",
+      "size": 86427536,
+      "mtime_ns": 1793309740300761183
+     },
+     "words": "slice",
+     "wav": "edit/podcast-04/audio16k-podcast-04a.wav"
+    }
+   ],
+   "at": "2026-10-29 21:35:40"
+  },
+  "05": {
+   "folder": "edit/podcast-05",
+   "inputs": "ed43e35ef9fe",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-05/src/podcast-05a.mp4",
+     "transcript": "edit/podcast-05/transcripts/podcast-05a.json",
+     "offset": 1160.733,
+     "end": 1178.35,
+     "start_in": 3.027,
+     "end_in": 14.617,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-05/src/podcast-05a.mp4",
+      "size": 23203788,
+      "mtime_ns": 1793309757916761813
+     },
+     "words": "slice",
+     "wav": "edit/podcast-05/audio16k-podcast-05a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-05/src/podcast-05b.mp4",
+     "transcript": "edit/podcast-05/transcripts/podcast-05b.json",
+     "offset": 1177.133,
+     "end": 1227.53,
+     "start_in": 3.017,
+     "end_in": 47.397,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-05/src/podcast-05b.mp4",
+      "size": 67955760,
+      "mtime_ns": 1793309805668763521
+     },
+     "words": "slice",
+     "wav": "edit/podcast-05/audio16k-podcast-05b.wav"
+    }
+   ],
+   "at": "2026-10-29 21:36:46"
+  },
+  "06": {
+   "folder": "edit/podcast-06",
+   "inputs": "7be4d237a1c3",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-06/src/podcast-06a.mp4",
+     "transcript": "edit/podcast-06/transcripts/podcast-06a.json",
+     "offset": 1325.1,
+     "end": 1363.31,
+     "start_in": 3.02,
+     "end_in": 35.21,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-06/src/podcast-06a.mp4",
+      "size": 50545706,
+      "mtime_ns": 1793309842036764821
+     },
+     "words": "slice",
+     "wav": "edit/podcast-06/audio16k-podcast-06a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-06/src/podcast-06b.mp4",
+     "transcript": "edit/podcast-06/transcripts/podcast-06b.json",
+     "offset": 1365.7,
+     "end": 1383.36,
+     "start_in": 3.01,
+     "end_in": 14.66,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-06/src/podcast-06b.mp4",
+      "size": 23453368,
+      "mtime_ns": 1793309859688765452
+     },
+     "words": "slice",
+     "wav": "edit/podcast-06/audio16k-podcast-06b.wav"
+    }
+   ],
+   "at": "2026-10-29 21:37:40"
+  },
+  "07": {
+   "folder": "edit/podcast-07",
+   "inputs": "1dfb127e376d",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-07/src/podcast-07a.mp4",
+     "transcript": "edit/podcast-07/transcripts/podcast-07a.json",
+     "offset": 1719.167,
+     "end": 1731.17,
+     "start_in": 3.003,
+     "end_in": 9.003,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-07/src/podcast-07a.mp4",
+      "size": 15953220,
+      "mtime_ns": 1793309871612765879
+     },
+     "words": "slice",
+     "wav": "edit/podcast-07/audio16k-podcast-07a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-07/src/podcast-07b.mp4",
+     "transcript": "edit/podcast-07/transcripts/podcast-07b.json",
+     "offset": 1728.5,
+     "end": 1741.17,
+     "start_in": 3.03,
+     "end_in": 9.67,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-07/src/podcast-07b.mp4",
+      "size": 16800735,
+      "mtime_ns": 1793309884164766328
+     },
+     "words": "slice",
+     "wav": "edit/podcast-07/audio16k-podcast-07b.wav"
+    },
+    {
+     "key": "c",
+     "file": "edit/podcast-07/src/podcast-07c.mp4",
+     "transcript": "edit/podcast-07/transcripts/podcast-07c.json",
+     "offset": 1782.967,
+     "end": 1822.93,
+     "start_in": 3.023,
+     "end_in": 36.963,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-07/src/podcast-07c.mp4",
+      "size": 54300608,
+      "mtime_ns": 1793309923016767717
+     },
+     "words": "slice",
+     "wav": "edit/podcast-07/audio16k-podcast-07c.wav"
+    }
+   ],
+   "at": "2026-10-29 21:38:43"
+  },
+  "08": {
+   "folder": "edit/podcast-08",
+   "inputs": "4e184891353d",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-08/src/podcast-08a.mp4",
+     "transcript": "edit/podcast-08/transcripts/podcast-08a.json",
+     "offset": 1883.933,
+     "end": 1917.43,
+     "start_in": 3.007,
+     "end_in": 30.497,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-08/src/podcast-08a.mp4",
+      "size": 44563082,
+      "mtime_ns": 1793309955664768885
+     },
+     "words": "slice",
+     "wav": "edit/podcast-08/audio16k-podcast-08a.wav"
+    },
+    {
+     "key": "b",
+     "file": "edit/podcast-08/src/podcast-08b.mp4",
+     "transcript": "edit/podcast-08/transcripts/podcast-08b.json",
+     "offset": 1988.633,
+     "end": 2015.07,
+     "start_in": 3.027,
+     "end_in": 23.437,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-08/src/podcast-08b.mp4",
+      "size": 35233808,
+      "mtime_ns": 1793309981640769814
+     },
+     "words": "slice",
+     "wav": "edit/podcast-08/audio16k-podcast-08b.wav"
+    }
+   ],
+   "at": "2026-10-29 21:39:41"
+  },
+  "09": {
+   "folder": "edit/podcast-09",
+   "inputs": "18a3439a2662",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-09/src/podcast-09a.mp4",
+     "transcript": "edit/podcast-09/transcripts/podcast-09a.json",
+     "offset": 2028.767,
+     "end": 2094.91,
+     "start_in": 3.013,
+     "end_in": 63.143,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-09/src/podcast-09a.mp4",
+      "size": 89847391,
+      "mtime_ns": 1793310044432772059
+     },
+     "words": "slice",
+     "wav": "edit/podcast-09/audio16k-podcast-09a.wav"
+    }
+   ],
+   "at": "2026-10-29 21:40:44"
+  },
+  "10": {
+   "folder": "edit/podcast-10",
+   "inputs": "b8ab3a4d2667",
+   "pad": 3.0,
+   "pieces": [
+    {
+     "key": "a",
+     "file": "edit/podcast-10/src/podcast-10a.mp4",
+     "transcript": "edit/podcast-10/transcripts/podcast-10a.json",
+     "offset": 2371.033,
+     "end": 2424.37,
+     "start_in": 3.017,
+     "end_in": 50.337,
+     "identity": {
+      "path": "/home/user/App/edit/podcast-10/src/podcast-10a.mp4",
+      "size": 72780341,
+      "mtime_ns": 1793310095052773870
+     },
+     "words": "slice",
+     "wav": "edit/podcast-10/audio16k-podcast-10a.wav"
+    }
+   ],
+   "at": "2026-10-29 21:41:35"
+  }
+ }
 }

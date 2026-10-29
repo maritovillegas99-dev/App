@@ -1,0 +1,62 @@
+{
+ "slug": "podcast-peptidos",
+ "name": "Podcast Peptidos",
+ "tagline": "",
+ "colors": {
+  "primary": "#111111",
+  "accent": "#FFFFFF",
+  "light": "#FFFFFF",
+  "text_on_primary": "#FFFFFF",
+  "text_on_accent": "#111111",
+  "extra": {}
+ },
+ "fonts": {
+  "heading": {
+   "family": "Montserrat",
+   "weights": [
+    600,
+    700,
+    800
+   ],
+   "source": "google"
+  },
+  "body": {
+   "family": "Montserrat",
+   "weights": [
+    500,
+    600,
+    700
+   ],
+   "source": "google"
+  }
+ },
+ "logos": {},
+ "motion": "calm",
+ "tone": {
+  "preset": "expert",
+  "label": "Expert, calm",
+  "loudness": "calm",
+  "overshoot": false,
+  "shake": false,
+  "scene_tone": "calm",
+  "scene_tones": [
+   "calm",
+   "feature",
+   "cinematic",
+   "deadpan"
+  ],
+  "full_scenes_max": 2,
+  "transitions": [
+   "cut",
+   "fade",
+   "whip",
+   "slide",
+   "flash"
+  ],
+  "flash_max": 2,
+  "whip_max": 3,
+  "sfx": "sparse"
+ },
+ "subtitles_default": "accent",
+ "style_default": "marker"
+}

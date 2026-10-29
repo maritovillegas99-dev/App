@@ -1,0 +1,662 @@
+{
+ "language_code": "es",
+ "text": "eso puede ser lo que lo reemplaza me entiendes O sea, sí, sin duda alguna, los péptidos son una revolución para la medicina, porque sus efectos son muy buenos. A mí me gustan, yo los uso, los uso de mi familia. Y personalmente, personalmente, yo a inicios de este año pensaba como muchos de mis colegas que decía como que no, esos péptidos, la gente que sea péptido es súper irresponsable, etcétera, etcétera. Y me di cuenta que en realidad estaba hablando desde mi ignorancia, porque yo no sabía absolutamente, yo decía eso y no sabía absolutamente nada de téptidos. Y recientemente hice una certificación con un",
+ "words": [
+  {
+   "text": "eso",
+   "start": 0.27,
+   "end": 0.59,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 0.59,
+   "end": 0.91,
+   "type": "word"
+  },
+  {
+   "text": "ser",
+   "start": 0.91,
+   "end": 1.07,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 1.07,
+   "end": 1.15,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 1.15,
+   "end": 1.23,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 1.23,
+   "end": 1.39,
+   "type": "word"
+  },
+  {
+   "text": "reemplaza",
+   "start": 1.39,
+   "end": 1.79,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 1.95,
+   "end": 2.03,
+   "type": "word"
+  },
+  {
+   "text": "entiendes",
+   "start": 2.11,
+   "end": 2.43,
+   "type": "word"
+  },
+  {
+   "text": "O",
+   "start": 3.02,
+   "end": 3.1,
+   "type": "word"
+  },
+  {
+   "text": "sea,",
+   "start": 3.1,
+   "end": 3.26,
+   "type": "word"
+  },
+  {
+   "text": "sí,",
+   "start": 3.26,
+   "end": 3.34,
+   "type": "word"
+  },
+  {
+   "text": "sin",
+   "start": 3.5,
+   "end": 3.66,
+   "type": "word"
+  },
+  {
+   "text": "duda",
+   "start": 3.82,
+   "end": 4.06,
+   "type": "word"
+  },
+  {
+   "text": "alguna,",
+   "start": 4.06,
+   "end": 4.22,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 4.38,
+   "end": 4.54,
+   "type": "word"
+  },
+  {
+   "text": "péptidos",
+   "start": 4.54,
+   "end": 5.18,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 5.18,
+   "end": 5.34,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 5.34,
+   "end": 5.5,
+   "type": "word"
+  },
+  {
+   "text": "revolución",
+   "start": 5.5,
+   "end": 6.14,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 6.14,
+   "end": 6.38,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 6.38,
+   "end": 6.54,
+   "type": "word"
+  },
+  {
+   "text": "medicina,",
+   "start": 6.54,
+   "end": 6.94,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 7.26,
+   "end": 7.5,
+   "type": "word"
+  },
+  {
+   "text": "sus",
+   "start": 7.74,
+   "end": 7.9,
+   "type": "word"
+  },
+  {
+   "text": "efectos",
+   "start": 7.9,
+   "end": 8.3,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 8.3,
+   "end": 8.46,
+   "type": "word"
+  },
+  {
+   "text": "muy",
+   "start": 8.46,
+   "end": 8.62,
+   "type": "word"
+  },
+  {
+   "text": "buenos.",
+   "start": 8.62,
+   "end": 8.94,
+   "type": "word"
+  },
+  {
+   "text": "A",
+   "start": 9.1,
+   "end": 9.26,
+   "type": "word"
+  },
+  {
+   "text": "mí",
+   "start": 9.26,
+   "end": 9.42,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 9.42,
+   "end": 9.5,
+   "type": "word"
+  },
+  {
+   "text": "gustan,",
+   "start": 9.5,
+   "end": 9.82,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 9.9,
+   "end": 9.98,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 10.14,
+   "end": 10.3,
+   "type": "word"
+  },
+  {
+   "text": "uso,",
+   "start": 10.3,
+   "end": 10.54,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 10.62,
+   "end": 10.78,
+   "type": "word"
+  },
+  {
+   "text": "uso",
+   "start": 10.78,
+   "end": 11.1,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 11.1,
+   "end": 11.18,
+   "type": "word"
+  },
+  {
+   "text": "mi",
+   "start": 11.18,
+   "end": 11.34,
+   "type": "word"
+  },
+  {
+   "text": "familia.",
+   "start": 11.34,
+   "end": 11.98,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 12.54,
+   "end": 12.86,
+   "type": "word"
+  },
+  {
+   "text": "personalmente,",
+   "start": 13.66,
+   "end": 14.22,
+   "type": "word"
+  },
+  {
+   "text": "personalmente,",
+   "start": 14.94,
+   "end": 15.42,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 15.82,
+   "end": 16.14,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 16.46,
+   "end": 16.62,
+   "type": "word"
+  },
+  {
+   "text": "inicios",
+   "start": 16.62,
+   "end": 17.1,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 17.1,
+   "end": 17.26,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 17.26,
+   "end": 17.42,
+   "type": "word"
+  },
+  {
+   "text": "año",
+   "start": 17.42,
+   "end": 17.58,
+   "type": "word"
+  },
+  {
+   "text": "pensaba",
+   "start": 17.66,
+   "end": 18.14,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 18.22,
+   "end": 18.38,
+   "type": "word"
+  },
+  {
+   "text": "muchos",
+   "start": 18.54,
+   "end": 18.94,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 18.94,
+   "end": 19.18,
+   "type": "word"
+  },
+  {
+   "text": "mis",
+   "start": 19.18,
+   "end": 19.42,
+   "type": "word"
+  },
+  {
+   "text": "colegas",
+   "start": 19.42,
+   "end": 19.82,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 19.98,
+   "end": 20.22,
+   "type": "word"
+  },
+  {
+   "text": "decía",
+   "start": 20.22,
+   "end": 20.54,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 20.7,
+   "end": 20.94,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 20.94,
+   "end": 21.1,
+   "type": "word"
+  },
+  {
+   "text": "no,",
+   "start": 21.5,
+   "end": 21.66,
+   "type": "word"
+  },
+  {
+   "text": "esos",
+   "start": 21.82,
+   "end": 22.22,
+   "type": "word"
+  },
+  {
+   "text": "péptidos,",
+   "start": 22.22,
+   "end": 22.78,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 22.94,
+   "end": 23.02,
+   "type": "word"
+  },
+  {
+   "text": "gente",
+   "start": 23.02,
+   "end": 23.18,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 23.18,
+   "end": 23.26,
+   "type": "word"
+  },
+  {
+   "text": "sea",
+   "start": 23.34,
+   "end": 23.5,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 23.58,
+   "end": 23.98,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 24.06,
+   "end": 24.14,
+   "type": "word"
+  },
+  {
+   "text": "súper",
+   "start": 24.14,
+   "end": 24.38,
+   "type": "word"
+  },
+  {
+   "text": "irresponsable,",
+   "start": 24.38,
+   "end": 25.1,
+   "type": "word"
+  },
+  {
+   "text": "etcétera,",
+   "start": 25.34,
+   "end": 25.9,
+   "type": "word"
+  },
+  {
+   "text": "etcétera.",
+   "start": 25.9,
+   "end": 26.7,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 26.81,
+   "end": 26.97,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 26.97,
+   "end": 27.13,
+   "type": "word"
+  },
+  {
+   "text": "di",
+   "start": 27.13,
+   "end": 27.29,
+   "type": "word"
+  },
+  {
+   "text": "cuenta",
+   "start": 27.29,
+   "end": 27.61,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 27.61,
+   "end": 27.77,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 27.77,
+   "end": 27.85,
+   "type": "word"
+  },
+  {
+   "text": "realidad",
+   "start": 27.85,
+   "end": 28.25,
+   "type": "word"
+  },
+  {
+   "text": "estaba",
+   "start": 28.25,
+   "end": 28.57,
+   "type": "word"
+  },
+  {
+   "text": "hablando",
+   "start": 28.57,
+   "end": 28.89,
+   "type": "word"
+  },
+  {
+   "text": "desde",
+   "start": 28.89,
+   "end": 29.13,
+   "type": "word"
+  },
+  {
+   "text": "mi",
+   "start": 29.13,
+   "end": 29.29,
+   "type": "word"
+  },
+  {
+   "text": "ignorancia,",
+   "start": 29.29,
+   "end": 29.93,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 30.01,
+   "end": 30.17,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 30.25,
+   "end": 30.41,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 30.41,
+   "end": 30.49,
+   "type": "word"
+  },
+  {
+   "text": "sabía",
+   "start": 30.49,
+   "end": 30.81,
+   "type": "word"
+  },
+  {
+   "text": "absolutamente,",
+   "start": 30.81,
+   "end": 31.13,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 31.45,
+   "end": 31.53,
+   "type": "word"
+  },
+  {
+   "text": "decía",
+   "start": 31.61,
+   "end": 32.01,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 32.01,
+   "end": 32.33,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 32.41,
+   "end": 32.57,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 32.57,
+   "end": 32.73,
+   "type": "word"
+  },
+  {
+   "text": "sabía",
+   "start": 32.73,
+   "end": 33.13,
+   "type": "word"
+  },
+  {
+   "text": "absolutamente",
+   "start": 33.13,
+   "end": 33.77,
+   "type": "word"
+  },
+  {
+   "text": "nada",
+   "start": 33.93,
+   "end": 34.25,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 34.25,
+   "end": 34.41,
+   "type": "word"
+  },
+  {
+   "text": "téptidos.",
+   "start": 34.49,
+   "end": 35.21,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 35.93,
+   "end": 36.09,
+   "type": "word"
+  },
+  {
+   "text": "recientemente",
+   "start": 36.09,
+   "end": 36.81,
+   "type": "word"
+  },
+  {
+   "text": "hice",
+   "start": 36.81,
+   "end": 37.13,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 37.13,
+   "end": 37.29,
+   "type": "word"
+  },
+  {
+   "text": "certificación",
+   "start": 37.29,
+   "end": 37.93,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 37.93,
+   "end": 38.09,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 38.09,
+   "end": 38.17,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-06a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-06/src/podcast-06a.mp4",
+  "size": 50545706,
+  "mtime_ns": 1793309842036764821
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1325.1,
+  "end": 1363.3
+ }
+}

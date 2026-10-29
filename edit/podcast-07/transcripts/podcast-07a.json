@@ -1,0 +1,164 @@
+{
+ "language_code": "es",
+ "text": "lo que tú piensas. ¿Cuál es el péptido que más te preocupa en este momento que la gente esté inyectando? Como cuan caliente, sí,",
+ "words": [
+  {
+   "text": "lo",
+   "start": 0.393,
+   "end": 0.553,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 0.553,
+   "end": 0.793,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 0.793,
+   "end": 1.113,
+   "type": "word"
+  },
+  {
+   "text": "piensas.",
+   "start": 1.113,
+   "end": 1.753,
+   "type": "word"
+  },
+  {
+   "text": "¿Cuál",
+   "start": 3.003,
+   "end": 3.483,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 3.483,
+   "end": 3.563,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 3.563,
+   "end": 3.723,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 3.723,
+   "end": 4.443,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 4.443,
+   "end": 4.523,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 4.523,
+   "end": 4.763,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 4.763,
+   "end": 4.923,
+   "type": "word"
+  },
+  {
+   "text": "preocupa",
+   "start": 4.923,
+   "end": 5.403,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 5.403,
+   "end": 5.483,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 5.483,
+   "end": 5.643,
+   "type": "word"
+  },
+  {
+   "text": "momento",
+   "start": 5.723,
+   "end": 5.883,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 6.043,
+   "end": 6.283,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 6.283,
+   "end": 6.443,
+   "type": "word"
+  },
+  {
+   "text": "gente",
+   "start": 6.443,
+   "end": 6.683,
+   "type": "word"
+  },
+  {
+   "text": "esté",
+   "start": 6.923,
+   "end": 7.243,
+   "type": "word"
+  },
+  {
+   "text": "inyectando?",
+   "start": 7.963,
+   "end": 9.003,
+   "type": "word"
+  },
+  {
+   "text": "Como",
+   "start": 9.323,
+   "end": 9.483,
+   "type": "word"
+  },
+  {
+   "text": "cuan",
+   "start": 9.643,
+   "end": 9.963,
+   "type": "word"
+  },
+  {
+   "text": "caliente,",
+   "start": 9.963,
+   "end": 10.363,
+   "type": "word"
+  },
+  {
+   "text": "sí,",
+   "start": 11.643,
+   "end": 11.803,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-07a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-07/src/podcast-07a.mp4",
+  "size": 15953220,
+  "mtime_ns": 1793309871612765879
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1719.167,
+  "end": 1731.167
+ }
+}

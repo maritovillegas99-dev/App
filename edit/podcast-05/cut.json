@@ -1,0 +1,127 @@
+{
+ "fps": 30,
+ "sources": {
+  "a": {
+   "file": "edit/podcast-05/src/podcast-05a.mp4",
+   "transcript": "edit/podcast-05/transcripts/podcast-05a.json"
+  },
+  "b": {
+   "file": "edit/podcast-05/src/podcast-05b.mp4",
+   "transcript": "edit/podcast-05/transcripts/podcast-05b.json"
+  }
+ },
+ "ranges": [
+  {
+   "start": 3.167,
+   "end": 5.167,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 5.333,
+   "end": 8.133,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 8.433,
+   "end": 9.933,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 10.167,
+   "end": 11.933,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 12.133,
+   "end": 14.633,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 2.24,
+   "end": 5.433,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 6.133,
+   "end": 8.333,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 8.833,
+   "end": 11.3,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 11.533,
+   "end": 20.067,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 20.6,
+   "end": 24.3,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 24.533,
+   "end": 27.533,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 27.767,
+   "end": 29.967,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 30.633,
+   "end": 35.333,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 36.033,
+   "end": 39.0,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 39.233,
+   "end": 40.567,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 41.067,
+   "end": 44.367,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 45.3,
+   "end": 47.1,
+   "beat": "piece b",
+   "source": "b"
+  }
+ ],
+ "look": {
+  "correct": "colorchannelmixer=rr=0.98:bb=1.06"
+ },
+ "balance": {
+  "look": "[null, null, null, \"\"]",
+  "sources": "{\"scale\": \"auto\", \"sources\": {\"a\": {\"file\": \"edit/podcast-05/src/podcast-05a.mp4\", \"transcript\": \"edit/podcast-05/transcripts/podcast-05a.json\"}, \"b\": {\"file\": \"edit/podcast-05/src/podcast-05b.mp4\", \"transcript\": \"edit/podcast-05/transcripts/podcast-05b.json\"}}}",
+  "ranges": "[[\"a\", 3.167, 5.167], [\"a\", 5.333, 8.133], [\"a\", 8.433, 9.933], [\"a\", 10.167, 11.933], [\"a\", 12.133, 14.633], [\"b\", 2.24, 5.433], [\"b\", 6.133, 8.333], [\"b\", 8.833, 11.3], [\"b\", 11.533, 20.067], [\"b\", 20.6, 24.3], [\"b\", 24.533, 27.533], [\"b\", 27.767, 29.967], [\"b\", 30.633, 35.333], [\"b\", 36.033, 39.0], [\"b\", 39.233, 40.567], [\"b\", 41.067, 44.367], [\"b\", 45.3, 47.1]]",
+  "mode": "auto",
+  "result": "written"
+ }
+}

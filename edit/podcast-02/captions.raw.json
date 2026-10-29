@@ -1,0 +1,1110 @@
+{
+ "duration": 47.333,
+ "segments": [
+  {
+   "i": 0,
+   "source": "a",
+   "src_start": 3.0,
+   "src_end": 19.567,
+   "out_start": 0.0,
+   "out_dur": 16.567,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 1,
+   "source": "a",
+   "src_start": 19.8,
+   "src_end": 24.633,
+   "out_start": 16.567,
+   "out_dur": 4.833,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "i": 2,
+   "source": "b",
+   "src_start": 3.0,
+   "src_end": 7.133,
+   "out_start": 21.4,
+   "out_dur": 4.133,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 3,
+   "source": "b",
+   "src_start": 7.367,
+   "src_end": 9.867,
+   "out_start": 25.533,
+   "out_dur": 2.5,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 4,
+   "source": "b",
+   "src_start": 10.2,
+   "src_end": 13.233,
+   "out_start": 28.033,
+   "out_dur": 3.033,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "i": 5,
+   "source": "c",
+   "src_start": 2.267,
+   "src_end": 15.5,
+   "out_start": 31.067,
+   "out_dur": 13.233,
+   "speed": 1.0,
+   "beat": "piece c"
+  },
+  {
+   "i": 6,
+   "source": "c",
+   "src_start": 15.933,
+   "src_end": 18.967,
+   "out_start": 44.3,
+   "out_dur": 3.033,
+   "speed": 1.0,
+   "beat": "piece c"
+  }
+ ],
+ "words": [
+  {
+   "text": "de",
+   "src": 3.013,
+   "start": 0.013,
+   "end": 0.173,
+   "seg": 0
+  },
+  {
+   "text": "personas",
+   "src": 3.333,
+   "start": 0.333,
+   "end": 0.573,
+   "seg": 0
+  },
+  {
+   "text": "que",
+   "src": 3.573,
+   "start": 0.573,
+   "end": 0.733,
+   "seg": 0
+  },
+  {
+   "text": "dicen",
+   "src": 3.733,
+   "start": 0.733,
+   "end": 0.973,
+   "seg": 0
+  },
+  {
+   "text": "yo",
+   "src": 4.053,
+   "start": 1.053,
+   "end": 1.213,
+   "seg": 0
+  },
+  {
+   "text": "tenía",
+   "src": 4.213,
+   "start": 1.213,
+   "end": 1.533,
+   "seg": 0
+  },
+  {
+   "text": "asiática",
+   "src": 4.533,
+   "start": 1.533,
+   "end": 2.253,
+   "seg": 0
+  },
+  {
+   "text": "y",
+   "src": 5.493,
+   "start": 2.493,
+   "end": 2.653,
+   "seg": 0
+  },
+  {
+   "text": "gracias",
+   "src": 5.653,
+   "start": 2.653,
+   "end": 3.053,
+   "seg": 0
+  },
+  {
+   "text": "a",
+   "src": 6.053,
+   "start": 3.053,
+   "end": 3.293,
+   "seg": 0
+  },
+  {
+   "text": "ese",
+   "src": 6.293,
+   "start": 3.293,
+   "end": 3.613,
+   "seg": 0
+  },
+  {
+   "text": "péptido",
+   "src": 6.613,
+   "start": 3.613,
+   "end": 4.253,
+   "seg": 0
+  },
+  {
+   "text": "me",
+   "src": 7.333,
+   "start": 4.333,
+   "end": 4.573,
+   "seg": 0
+  },
+  {
+   "text": "curé.",
+   "src": 7.573,
+   "start": 4.573,
+   "end": 5.053,
+   "seg": 0
+  },
+  {
+   "text": "O",
+   "src": 8.293,
+   "start": 5.293,
+   "end": 5.533,
+   "seg": 0
+  },
+  {
+   "text": "mujeres",
+   "src": 8.533,
+   "start": 5.533,
+   "end": 6.013,
+   "seg": 0
+  },
+  {
+   "text": "que",
+   "src": 9.013,
+   "start": 6.013,
+   "end": 6.253,
+   "seg": 0
+  },
+  {
+   "text": "después",
+   "src": 9.253,
+   "start": 6.253,
+   "end": 6.653,
+   "seg": 0
+  },
+  {
+   "text": "de",
+   "src": 9.653,
+   "start": 6.653,
+   "end": 6.733,
+   "seg": 0
+  },
+  {
+   "text": "la",
+   "src": 9.733,
+   "start": 6.733,
+   "end": 6.893,
+   "seg": 0
+  },
+  {
+   "text": "de",
+   "src": 10.133,
+   "start": 7.133,
+   "end": 7.293,
+   "seg": 0
+  },
+  {
+   "text": "la",
+   "src": 10.293,
+   "start": 7.293,
+   "end": 7.453,
+   "seg": 0
+  },
+  {
+   "text": "menopausia,",
+   "src": 10.453,
+   "start": 7.453,
+   "end": 8.173,
+   "seg": 0
+  },
+  {
+   "text": "la",
+   "src": 11.333,
+   "start": 8.333,
+   "end": 8.413,
+   "seg": 0
+  },
+  {
+   "text": "perimenopausia,",
+   "src": 11.413,
+   "start": 8.413,
+   "end": 9.453,
+   "seg": 0
+  },
+  {
+   "text": "les",
+   "src": 12.613,
+   "start": 9.613,
+   "end": 9.853,
+   "seg": 0
+  },
+  {
+   "text": "dan",
+   "src": 12.853,
+   "start": 9.853,
+   "end": 10.173,
+   "seg": 0
+  },
+  {
+   "text": "como",
+   "src": 13.173,
+   "start": 10.173,
+   "end": 10.333,
+   "seg": 0
+  },
+  {
+   "text": "un",
+   "src": 13.333,
+   "start": 10.333,
+   "end": 10.493,
+   "seg": 0
+  },
+  {
+   "text": "síndrome",
+   "src": 13.493,
+   "start": 10.493,
+   "end": 10.813,
+   "seg": 0
+  },
+  {
+   "text": "en",
+   "src": 13.973,
+   "start": 10.973,
+   "end": 11.133,
+   "seg": 0
+  },
+  {
+   "text": "los",
+   "src": 14.133,
+   "start": 11.133,
+   "end": 11.213,
+   "seg": 0
+  },
+  {
+   "text": "hombros",
+   "src": 14.213,
+   "start": 11.213,
+   "end": 11.533,
+   "seg": 0
+  },
+  {
+   "text": "que",
+   "src": 14.613,
+   "start": 11.613,
+   "end": 11.693,
+   "seg": 0
+  },
+  {
+   "text": "no",
+   "src": 14.693,
+   "start": 11.693,
+   "end": 11.853,
+   "seg": 0
+  },
+  {
+   "text": "los",
+   "src": 14.853,
+   "start": 11.853,
+   "end": 11.933,
+   "seg": 0
+  },
+  {
+   "text": "pueden",
+   "src": 14.933,
+   "start": 11.933,
+   "end": 12.173,
+   "seg": 0
+  },
+  {
+   "text": "mover.",
+   "src": 15.173,
+   "start": 12.173,
+   "end": 12.413,
+   "seg": 0
+  },
+  {
+   "text": "No",
+   "src": 15.493,
+   "start": 12.493,
+   "end": 12.653,
+   "seg": 0
+  },
+  {
+   "text": "recuerdo",
+   "src": 15.653,
+   "start": 12.653,
+   "end": 13.053,
+   "seg": 0
+  },
+  {
+   "text": "cómo",
+   "src": 16.053,
+   "start": 13.053,
+   "end": 13.293,
+   "seg": 0
+  },
+  {
+   "text": "se",
+   "src": 16.293,
+   "start": 13.293,
+   "end": 13.373,
+   "seg": 0
+  },
+  {
+   "text": "llama",
+   "src": 16.373,
+   "start": 13.373,
+   "end": 13.933,
+   "seg": 0
+  },
+  {
+   "text": "bien,",
+   "src": 17.093,
+   "start": 14.093,
+   "end": 14.253,
+   "seg": 0
+  },
+  {
+   "text": "pero",
+   "src": 17.493,
+   "start": 14.493,
+   "end": 14.733,
+   "seg": 0
+  },
+  {
+   "text": "como",
+   "src": 17.973,
+   "start": 14.973,
+   "end": 15.213,
+   "seg": 0
+  },
+  {
+   "text": "que",
+   "src": 18.213,
+   "start": 15.213,
+   "end": 15.453,
+   "seg": 0
+  },
+  {
+   "text": "eso",
+   "src": 18.453,
+   "start": 15.453,
+   "end": 15.533,
+   "seg": 0
+  },
+  {
+   "text": "se",
+   "src": 18.693,
+   "start": 15.693,
+   "end": 15.853,
+   "seg": 0
+  },
+  {
+   "text": "les",
+   "src": 18.853,
+   "start": 15.853,
+   "end": 16.013,
+   "seg": 0
+  },
+  {
+   "text": "paraliza.",
+   "src": 19.013,
+   "start": 16.013,
+   "end": 16.333,
+   "seg": 0
+  },
+  {
+   "text": "Y",
+   "src": 20.053,
+   "start": 16.82,
+   "end": 17.06,
+   "seg": 1
+  },
+  {
+   "text": "que",
+   "src": 20.293,
+   "start": 17.06,
+   "end": 17.3,
+   "seg": 1
+  },
+  {
+   "text": "gracias",
+   "src": 20.533,
+   "start": 17.3,
+   "end": 17.62,
+   "seg": 1
+  },
+  {
+   "text": "a",
+   "src": 20.853,
+   "start": 17.62,
+   "end": 17.7,
+   "seg": 1
+  },
+  {
+   "text": "ese",
+   "src": 20.933,
+   "start": 17.7,
+   "end": 17.94,
+   "seg": 1
+  },
+  {
+   "text": "péptido,",
+   "src": 21.173,
+   "start": 17.94,
+   "end": 18.58,
+   "seg": 1
+  },
+  {
+   "text": "es",
+   "src": 22.373,
+   "start": 19.14,
+   "end": 19.38,
+   "seg": 1
+  },
+  {
+   "text": "cuestión",
+   "src": 22.613,
+   "start": 19.38,
+   "end": 19.7,
+   "seg": 1
+  },
+  {
+   "text": "de",
+   "src": 22.933,
+   "start": 19.7,
+   "end": 19.94,
+   "seg": 1
+  },
+  {
+   "text": "dos",
+   "src": 23.173,
+   "start": 19.94,
+   "end": 20.18,
+   "seg": 1
+  },
+  {
+   "text": "días",
+   "src": 23.413,
+   "start": 20.18,
+   "end": 20.42,
+   "seg": 1
+  },
+  {
+   "text": "ya",
+   "src": 23.733,
+   "start": 20.5,
+   "end": 20.66,
+   "seg": 1
+  },
+  {
+   "text": "lo",
+   "src": 23.893,
+   "start": 20.66,
+   "end": 20.82,
+   "seg": 1
+  },
+  {
+   "text": "pueden",
+   "src": 24.053,
+   "start": 20.82,
+   "end": 21.14,
+   "seg": 1
+  },
+  {
+   "text": "mover.",
+   "src": 24.373,
+   "start": 21.14,
+   "end": 21.4,
+   "seg": 1
+  },
+  {
+   "text": "El",
+   "src": 3.0,
+   "start": 21.4,
+   "end": 21.48,
+   "seg": 2
+  },
+  {
+   "text": "BPC",
+   "src": 3.08,
+   "start": 21.48,
+   "end": 22.04,
+   "seg": 2
+  },
+  {
+   "text": "157",
+   "src": 3.72,
+   "start": 22.12,
+   "end": 23.16,
+   "seg": 2
+  },
+  {
+   "text": "es",
+   "src": 4.76,
+   "start": 23.16,
+   "end": 23.24,
+   "seg": 2
+  },
+  {
+   "text": "un",
+   "src": 4.84,
+   "start": 23.24,
+   "end": 23.4,
+   "seg": 2
+  },
+  {
+   "text": "péptido",
+   "src": 5.0,
+   "start": 23.4,
+   "end": 24.12,
+   "seg": 2
+  },
+  {
+   "text": "de",
+   "src": 5.72,
+   "start": 24.12,
+   "end": 24.2,
+   "seg": 2
+  },
+  {
+   "text": "15",
+   "src": 5.8,
+   "start": 24.2,
+   "end": 24.6,
+   "seg": 2
+  },
+  {
+   "text": "aminoácidos",
+   "src": 6.2,
+   "start": 24.6,
+   "end": 25.533,
+   "seg": 2
+  },
+  {
+   "text": "y",
+   "src": 7.32,
+   "start": 25.533,
+   "end": 25.727,
+   "seg": 3
+  },
+  {
+   "text": "lleva",
+   "src": 7.56,
+   "start": 25.727,
+   "end": 26.047,
+   "seg": 3
+  },
+  {
+   "text": "como",
+   "src": 7.88,
+   "start": 26.047,
+   "end": 26.287,
+   "seg": 3
+  },
+  {
+   "text": "unos",
+   "src": 8.12,
+   "start": 26.287,
+   "end": 26.607,
+   "seg": 3
+  },
+  {
+   "text": "30",
+   "src": 8.44,
+   "start": 26.607,
+   "end": 26.927,
+   "seg": 3
+  },
+  {
+   "text": "años",
+   "src": 8.76,
+   "start": 26.927,
+   "end": 27.167,
+   "seg": 3
+  },
+  {
+   "text": "en",
+   "src": 9.0,
+   "start": 27.167,
+   "end": 27.327,
+   "seg": 3
+  },
+  {
+   "text": "el",
+   "src": 9.16,
+   "start": 27.327,
+   "end": 27.487,
+   "seg": 3
+  },
+  {
+   "text": "mercado.",
+   "src": 9.32,
+   "start": 27.487,
+   "end": 28.033,
+   "seg": 3
+  },
+  {
+   "text": "No",
+   "src": 10.2,
+   "start": 28.033,
+   "end": 28.353,
+   "seg": 4
+  },
+  {
+   "text": "tiene",
+   "src": 10.52,
+   "start": 28.353,
+   "end": 28.673,
+   "seg": 4
+  },
+  {
+   "text": "investigaciones",
+   "src": 10.92,
+   "start": 28.753,
+   "end": 29.553,
+   "seg": 4
+  },
+  {
+   "text": "suficientes",
+   "src": 11.72,
+   "start": 29.553,
+   "end": 30.193,
+   "seg": 4
+  },
+  {
+   "text": "en",
+   "src": 12.36,
+   "start": 30.193,
+   "end": 30.513,
+   "seg": 4
+  },
+  {
+   "text": "humanos,",
+   "src": 12.68,
+   "start": 30.513,
+   "end": 31.067,
+   "seg": 4
+  },
+  {
+   "text": "bueno,",
+   "src": 3.023,
+   "start": 31.823,
+   "end": 31.983,
+   "seg": 5
+  },
+  {
+   "text": "algo",
+   "src": 3.263,
+   "start": 32.063,
+   "end": 32.383,
+   "seg": 5
+  },
+  {
+   "text": "con",
+   "src": 3.583,
+   "start": 32.383,
+   "end": 32.623,
+   "seg": 5
+  },
+  {
+   "text": "este",
+   "src": 3.823,
+   "start": 32.623,
+   "end": 32.783,
+   "seg": 5
+  },
+  {
+   "text": "festivo",
+   "src": 4.223,
+   "start": 33.023,
+   "end": 33.423,
+   "seg": 5
+  },
+  {
+   "text": "que",
+   "src": 4.703,
+   "start": 33.503,
+   "end": 33.663,
+   "seg": 5
+  },
+  {
+   "text": "ha",
+   "src": 4.863,
+   "start": 33.663,
+   "end": 33.743,
+   "seg": 5
+  },
+  {
+   "text": "tenido",
+   "src": 4.943,
+   "start": 33.743,
+   "end": 33.983,
+   "seg": 5
+  },
+  {
+   "text": "un",
+   "src": 5.183,
+   "start": 33.983,
+   "end": 34.063,
+   "seg": 5
+  },
+  {
+   "text": "poquito",
+   "src": 5.263,
+   "start": 34.063,
+   "end": 34.303,
+   "seg": 5
+  },
+  {
+   "text": "de",
+   "src": 5.503,
+   "start": 34.303,
+   "end": 34.463,
+   "seg": 5
+  },
+  {
+   "text": "controversia",
+   "src": 5.663,
+   "start": 34.463,
+   "end": 35.183,
+   "seg": 5
+  },
+  {
+   "text": "es",
+   "src": 6.383,
+   "start": 35.183,
+   "end": 35.343,
+   "seg": 5
+  },
+  {
+   "text": "que",
+   "src": 6.543,
+   "start": 35.343,
+   "end": 35.503,
+   "seg": 5
+  },
+  {
+   "text": "como",
+   "src": 6.943,
+   "start": 35.743,
+   "end": 36.063,
+   "seg": 5
+  },
+  {
+   "text": "promueven",
+   "src": 7.263,
+   "start": 36.063,
+   "end": 36.543,
+   "seg": 5
+  },
+  {
+   "text": "la",
+   "src": 7.823,
+   "start": 36.623,
+   "end": 36.703,
+   "seg": 5
+  },
+  {
+   "text": "formación",
+   "src": 7.903,
+   "start": 36.703,
+   "end": 37.023,
+   "seg": 5
+  },
+  {
+   "text": "de",
+   "src": 8.223,
+   "start": 37.023,
+   "end": 37.103,
+   "seg": 5
+  },
+  {
+   "text": "nuevos",
+   "src": 8.303,
+   "start": 37.103,
+   "end": 37.423,
+   "seg": 5
+  },
+  {
+   "text": "vasos",
+   "src": 8.623,
+   "start": 37.423,
+   "end": 37.743,
+   "seg": 5
+  },
+  {
+   "text": "que",
+   "src": 9.023,
+   "start": 37.823,
+   "end": 37.983,
+   "seg": 5
+  },
+  {
+   "text": "hacen",
+   "src": 9.183,
+   "start": 37.983,
+   "end": 38.303,
+   "seg": 5
+  },
+  {
+   "text": "parte",
+   "src": 9.503,
+   "start": 38.303,
+   "end": 38.463,
+   "seg": 5
+  },
+  {
+   "text": "obviamente",
+   "src": 9.743,
+   "start": 38.543,
+   "end": 38.943,
+   "seg": 5
+  },
+  {
+   "text": "de",
+   "src": 10.463,
+   "start": 39.263,
+   "end": 39.583,
+   "seg": 5
+  },
+  {
+   "text": "una",
+   "src": 10.783,
+   "start": 39.583,
+   "end": 39.903,
+   "seg": 5
+  },
+  {
+   "text": "recuperación,",
+   "src": 11.103,
+   "start": 39.903,
+   "end": 40.543,
+   "seg": 5
+  },
+  {
+   "text": "pero",
+   "src": 11.903,
+   "start": 40.703,
+   "end": 40.863,
+   "seg": 5
+  },
+  {
+   "text": "también",
+   "src": 12.063,
+   "start": 40.863,
+   "end": 41.103,
+   "seg": 5
+  },
+  {
+   "text": "hace",
+   "src": 12.303,
+   "start": 41.103,
+   "end": 41.503,
+   "seg": 5
+  },
+  {
+   "text": "parte",
+   "src": 12.703,
+   "start": 41.503,
+   "end": 41.823,
+   "seg": 5
+  },
+  {
+   "text": "del",
+   "src": 13.023,
+   "start": 41.823,
+   "end": 42.143,
+   "seg": 5
+  },
+  {
+   "text": "mecanismo",
+   "src": 13.503,
+   "start": 42.303,
+   "end": 42.863,
+   "seg": 5
+  },
+  {
+   "text": "que",
+   "src": 14.063,
+   "start": 42.863,
+   "end": 43.023,
+   "seg": 5
+  },
+  {
+   "text": "usan",
+   "src": 14.223,
+   "start": 43.023,
+   "end": 43.343,
+   "seg": 5
+  },
+  {
+   "text": "las",
+   "src": 14.543,
+   "start": 43.343,
+   "end": 43.423,
+   "seg": 5
+  },
+  {
+   "text": "células",
+   "src": 14.623,
+   "start": 43.423,
+   "end": 43.743,
+   "seg": 5
+  },
+  {
+   "text": "cancerígenas.",
+   "src": 14.943,
+   "start": 43.743,
+   "end": 44.3,
+   "seg": 5
+  },
+  {
+   "text": "Entonces",
+   "src": 15.993,
+   "start": 44.36,
+   "end": 44.68,
+   "seg": 6
+  },
+  {
+   "text": "por",
+   "src": 16.393,
+   "start": 44.76,
+   "end": 44.92,
+   "seg": 6
+  },
+  {
+   "text": "eso",
+   "src": 16.553,
+   "start": 44.92,
+   "end": 45.08,
+   "seg": 6
+  },
+  {
+   "text": "ha",
+   "src": 16.713,
+   "start": 45.08,
+   "end": 45.24,
+   "seg": 6
+  },
+  {
+   "text": "sido",
+   "src": 16.873,
+   "start": 45.24,
+   "end": 45.32,
+   "seg": 6
+  },
+  {
+   "text": "un",
+   "src": 17.113,
+   "start": 45.48,
+   "end": 45.56,
+   "seg": 6
+  },
+  {
+   "text": "peptido",
+   "src": 17.193,
+   "start": 45.56,
+   "end": 46.04,
+   "seg": 6
+  },
+  {
+   "text": "un",
+   "src": 17.673,
+   "start": 46.04,
+   "end": 46.12,
+   "seg": 6
+  },
+  {
+   "text": "poquito",
+   "src": 17.753,
+   "start": 46.12,
+   "end": 46.44,
+   "seg": 6
+  },
+  {
+   "text": "controversial.",
+   "src": 18.073,
+   "start": 46.44,
+   "end": 47.24,
+   "seg": 6
+  }
+ ],
+ "leveling": {
+  "threshold_db": {
+   "a": -40.3,
+   "b": -38.5,
+   "c": -40.8
+  },
+  "target_db": -25.23,
+  "pieces": [
+   {
+    "source": "a",
+    "level_db": -25.18,
+    "gain_db": -0.05
+   },
+   {
+    "source": "a",
+    "level_db": -25.8,
+    "gain_db": 0.57
+   },
+   {
+    "source": "b",
+    "level_db": -23.44,
+    "gain_db": -1.8
+   },
+   {
+    "source": "b",
+    "level_db": -24.44,
+    "gain_db": -0.79
+   },
+   {
+    "source": "b",
+    "level_db": -24.13,
+    "gain_db": -1.11
+   },
+   {
+    "source": "c",
+    "level_db": -25.73,
+    "gain_db": 0.5
+   },
+   {
+    "source": "c",
+    "level_db": -27.07,
+    "gain_db": 1.83
+   }
+  ],
+  "sources": {
+   "a": {
+    "before_db": -25.32,
+    "after_db": -25.35
+   },
+   "b": {
+    "before_db": -23.87,
+    "after_db": -24.93
+   },
+   "c": {
+    "before_db": -25.95,
+    "after_db": -25.42
+   }
+  },
+  "max_gain_db": 4.5
+ }
+}

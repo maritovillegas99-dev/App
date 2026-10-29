@@ -1,0 +1,135 @@
+{
+ "version": 1,
+ "sources": {
+  "a": "/home/user/App/edit/podcast-05/src/podcast-05a.mp4",
+  "b": "/home/user/App/edit/podcast-05/src/podcast-05b.mp4"
+ },
+ "speed": 1.0,
+ "speeds": {
+  "a": 1.0,
+  "b": 1.0
+ },
+ "grade": "colorchannelmixer=rr=0.98:bb=1.06",
+ "ranges": [
+  {
+   "source": "a",
+   "start": 3.167,
+   "end": 5.167,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 5.333,
+   "end": 8.133,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 8.433,
+   "end": 9.933,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 10.167,
+   "end": 11.933,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 12.133,
+   "end": 14.633,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "b",
+   "start": 2.233,
+   "end": 5.433,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 6.133,
+   "end": 8.333,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 8.833,
+   "end": 11.3,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 11.533,
+   "end": 20.067,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 20.6,
+   "end": 24.3,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 24.533,
+   "end": 27.533,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 27.767,
+   "end": 29.967,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 30.633,
+   "end": 35.333,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 36.033,
+   "end": 39.0,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 39.233,
+   "end": 40.567,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 41.067,
+   "end": 44.367,
+   "speed": 1.0,
+   "beat": "piece b"
+  },
+  {
+   "source": "b",
+   "start": 45.3,
+   "end": 47.1,
+   "speed": 1.0,
+   "beat": "piece b"
+  }
+ ],
+ "total_duration_s": 49.967
+}

@@ -1,0 +1,83 @@
+{
+ "fps": 30,
+ "sources": {
+  "a": {
+   "file": "edit/podcast-03/src/podcast-03a.mp4",
+   "transcript": "edit/podcast-03/transcripts/podcast-03a.json"
+  },
+  "b": {
+   "file": "edit/podcast-03/src/podcast-03b.mp4",
+   "transcript": "edit/podcast-03/transcripts/podcast-03b.json"
+  },
+  "c": {
+   "file": "edit/podcast-03/src/podcast-03c.mp4",
+   "transcript": "edit/podcast-03/transcripts/podcast-03c.json"
+  }
+ },
+ "ranges": [
+  {
+   "start": 3.1,
+   "end": 8.433,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 8.667,
+   "end": 18.733,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 1.49,
+   "end": 6.533,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 7.067,
+   "end": 15.3,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 15.567,
+   "end": 22.9,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 2.77,
+   "end": 7.8,
+   "beat": "piece c",
+   "source": "c"
+  },
+  {
+   "start": 8.167,
+   "end": 13.0,
+   "beat": "piece c",
+   "source": "c"
+  },
+  {
+   "start": 13.267,
+   "end": 18.833,
+   "beat": "piece c",
+   "source": "c"
+  },
+  {
+   "start": 19.1,
+   "end": 29.467,
+   "beat": "piece c",
+   "source": "c"
+  }
+ ],
+ "look": {
+  "correct": "colorchannelmixer=rr=0.98:bb=1.04"
+ },
+ "balance": {
+  "look": "[null, null, null, \"\"]",
+  "sources": "{\"scale\": \"auto\", \"sources\": {\"a\": {\"file\": \"edit/podcast-03/src/podcast-03a.mp4\", \"transcript\": \"edit/podcast-03/transcripts/podcast-03a.json\"}, \"b\": {\"file\": \"edit/podcast-03/src/podcast-03b.mp4\", \"transcript\": \"edit/podcast-03/transcripts/podcast-03b.json\"}, \"c\": {\"file\": \"edit/podcast-03/src/podcast-03c.mp4\", \"transcript\": \"edit/podcast-03/transcripts/podcast-03c.json\"}}}",
+  "ranges": "[[\"a\", 3.1, 8.433], [\"a\", 8.667, 18.733], [\"b\", 1.49, 6.533], [\"b\", 7.067, 15.3], [\"b\", 15.567, 22.9], [\"c\", 2.77, 7.8], [\"c\", 8.167, 13.0], [\"c\", 13.267, 18.833], [\"c\", 19.1, 29.467]]",
+  "mode": "auto",
+  "result": "written"
+ }
+}

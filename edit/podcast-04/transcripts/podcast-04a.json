@@ -1,0 +1,1226 @@
+{
+ "language_code": "es",
+ "text": "en humanos, pero hay muchas que se llevan usando muchos años. El problema siento con estos que con estos péptidos es la pureza del péptido, ¿ya? Lo que pasa es que para producir un péptido tú necesitas hacer ciertos procesos, ¿cierto? Necesitas eliminar los metales pesados que pueden intoxicar. Tu cuerpo, necesitas verificar que no tenga otros microorganismos, que tengas bacterias, ya, y para eso es que los laboratorios siempre entregan el pépido con el que se llama COA, que es el certificado de análisis. Pero a ti nada te garantiza que esa papel que te están mostrando pues no fue editado, o que lo que dice ahí es verdad. Lo que pasa y lo que han hecho, porque han hecho estudios con estos pepitos. Que se venden así como en el mercado negro es que han visto varias cosas que tienen metales pesados. Eso te puede intoxicar, que tiene bacterias, eso también puede ser muy perjudicial para tu cuerpo. Que las dosis que dice ahí no son las dosis que tiene, sino que tiene más. Que tiene además de esa molécula otras moléculas diferentes. Exacto. Ese es el peligro real de los fétiles. siento yo, no tanto la molécula porque",
+ "words": [
+  {
+   "text": "en",
+   "start": 0.063,
+   "end": 0.223,
+   "type": "word"
+  },
+  {
+   "text": "humanos,",
+   "start": 0.223,
+   "end": 0.543,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 0.783,
+   "end": 0.943,
+   "type": "word"
+  },
+  {
+   "text": "hay",
+   "start": 0.943,
+   "end": 1.103,
+   "type": "word"
+  },
+  {
+   "text": "muchas",
+   "start": 1.103,
+   "end": 1.343,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 1.343,
+   "end": 1.503,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 1.503,
+   "end": 1.663,
+   "type": "word"
+  },
+  {
+   "text": "llevan",
+   "start": 1.663,
+   "end": 2.063,
+   "type": "word"
+  },
+  {
+   "text": "usando",
+   "start": 2.063,
+   "end": 2.463,
+   "type": "word"
+  },
+  {
+   "text": "muchos",
+   "start": 2.463,
+   "end": 2.703,
+   "type": "word"
+  },
+  {
+   "text": "años.",
+   "start": 2.703,
+   "end": 2.863,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 3.023,
+   "end": 3.183,
+   "type": "word"
+  },
+  {
+   "text": "problema",
+   "start": 3.183,
+   "end": 3.423,
+   "type": "word"
+  },
+  {
+   "text": "siento",
+   "start": 3.583,
+   "end": 3.903,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 3.983,
+   "end": 4.063,
+   "type": "word"
+  },
+  {
+   "text": "estos",
+   "start": 4.063,
+   "end": 4.303,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 4.383,
+   "end": 4.623,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 4.623,
+   "end": 4.703,
+   "type": "word"
+  },
+  {
+   "text": "estos",
+   "start": 4.703,
+   "end": 4.943,
+   "type": "word"
+  },
+  {
+   "text": "péptidos",
+   "start": 4.943,
+   "end": 5.583,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 5.663,
+   "end": 5.903,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 5.903,
+   "end": 6.063,
+   "type": "word"
+  },
+  {
+   "text": "pureza",
+   "start": 6.223,
+   "end": 6.703,
+   "type": "word"
+  },
+  {
+   "text": "del",
+   "start": 6.703,
+   "end": 6.863,
+   "type": "word"
+  },
+  {
+   "text": "péptido,",
+   "start": 6.863,
+   "end": 7.423,
+   "type": "word"
+  },
+  {
+   "text": "¿ya?",
+   "start": 7.583,
+   "end": 7.823,
+   "type": "word"
+  },
+  {
+   "text": "Lo",
+   "start": 8.223,
+   "end": 8.463,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 8.463,
+   "end": 8.623,
+   "type": "word"
+  },
+  {
+   "text": "pasa",
+   "start": 8.623,
+   "end": 8.943,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 9.023,
+   "end": 9.183,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 9.183,
+   "end": 9.423,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 9.423,
+   "end": 9.663,
+   "type": "word"
+  },
+  {
+   "text": "producir",
+   "start": 9.663,
+   "end": 10.143,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 10.143,
+   "end": 10.303,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 10.303,
+   "end": 10.863,
+   "type": "word"
+  },
+  {
+   "text": "tú",
+   "start": 10.943,
+   "end": 11.103,
+   "type": "word"
+  },
+  {
+   "text": "necesitas",
+   "start": 11.103,
+   "end": 11.503,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 11.663,
+   "end": 11.983,
+   "type": "word"
+  },
+  {
+   "text": "ciertos",
+   "start": 11.983,
+   "end": 12.303,
+   "type": "word"
+  },
+  {
+   "text": "procesos,",
+   "start": 12.303,
+   "end": 12.623,
+   "type": "word"
+  },
+  {
+   "text": "¿cierto?",
+   "start": 12.783,
+   "end": 13.103,
+   "type": "word"
+  },
+  {
+   "text": "Necesitas",
+   "start": 13.263,
+   "end": 13.663,
+   "type": "word"
+  },
+  {
+   "text": "eliminar",
+   "start": 13.663,
+   "end": 14.063,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 14.063,
+   "end": 14.223,
+   "type": "word"
+  },
+  {
+   "text": "metales",
+   "start": 14.223,
+   "end": 14.543,
+   "type": "word"
+  },
+  {
+   "text": "pesados",
+   "start": 14.703,
+   "end": 15.023,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 15.103,
+   "end": 15.263,
+   "type": "word"
+  },
+  {
+   "text": "pueden",
+   "start": 15.263,
+   "end": 15.503,
+   "type": "word"
+  },
+  {
+   "text": "intoxicar.",
+   "start": 15.503,
+   "end": 15.903,
+   "type": "word"
+  },
+  {
+   "text": "Tu",
+   "start": 16.133,
+   "end": 16.213,
+   "type": "word"
+  },
+  {
+   "text": "cuerpo,",
+   "start": 16.293,
+   "end": 16.693,
+   "type": "word"
+  },
+  {
+   "text": "necesitas",
+   "start": 16.853,
+   "end": 17.253,
+   "type": "word"
+  },
+  {
+   "text": "verificar",
+   "start": 17.413,
+   "end": 17.893,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 17.893,
+   "end": 18.133,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 18.133,
+   "end": 18.293,
+   "type": "word"
+  },
+  {
+   "text": "tenga",
+   "start": 18.293,
+   "end": 18.613,
+   "type": "word"
+  },
+  {
+   "text": "otros",
+   "start": 18.613,
+   "end": 18.933,
+   "type": "word"
+  },
+  {
+   "text": "microorganismos,",
+   "start": 18.933,
+   "end": 19.573,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 19.733,
+   "end": 19.893,
+   "type": "word"
+  },
+  {
+   "text": "tengas",
+   "start": 19.893,
+   "end": 20.133,
+   "type": "word"
+  },
+  {
+   "text": "bacterias,",
+   "start": 20.133,
+   "end": 20.533,
+   "type": "word"
+  },
+  {
+   "text": "ya,",
+   "start": 20.613,
+   "end": 20.693,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 20.933,
+   "end": 21.093,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 21.093,
+   "end": 21.253,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 21.253,
+   "end": 21.413,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 21.493,
+   "end": 21.573,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 21.573,
+   "end": 21.653,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 21.973,
+   "end": 22.293,
+   "type": "word"
+  },
+  {
+   "text": "laboratorios",
+   "start": 22.293,
+   "end": 23.013,
+   "type": "word"
+  },
+  {
+   "text": "siempre",
+   "start": 23.013,
+   "end": 23.253,
+   "type": "word"
+  },
+  {
+   "text": "entregan",
+   "start": 23.253,
+   "end": 23.653,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 23.653,
+   "end": 23.733,
+   "type": "word"
+  },
+  {
+   "text": "pépido",
+   "start": 23.733,
+   "end": 24.293,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 24.293,
+   "end": 24.373,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 24.373,
+   "end": 24.453,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 24.613,
+   "end": 24.693,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 24.693,
+   "end": 24.773,
+   "type": "word"
+  },
+  {
+   "text": "llama",
+   "start": 24.773,
+   "end": 25.093,
+   "type": "word"
+  },
+  {
+   "text": "COA,",
+   "start": 25.093,
+   "end": 25.573,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 25.813,
+   "end": 25.973,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 25.973,
+   "end": 26.133,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 26.133,
+   "end": 26.293,
+   "type": "word"
+  },
+  {
+   "text": "certificado",
+   "start": 26.293,
+   "end": 26.853,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 26.853,
+   "end": 27.013,
+   "type": "word"
+  },
+  {
+   "text": "análisis.",
+   "start": 27.013,
+   "end": 27.493,
+   "type": "word"
+  },
+  {
+   "text": "Pero",
+   "start": 27.733,
+   "end": 27.893,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 27.893,
+   "end": 28.053,
+   "type": "word"
+  },
+  {
+   "text": "ti",
+   "start": 28.053,
+   "end": 28.213,
+   "type": "word"
+  },
+  {
+   "text": "nada",
+   "start": 28.213,
+   "end": 28.373,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 28.453,
+   "end": 28.613,
+   "type": "word"
+  },
+  {
+   "text": "garantiza",
+   "start": 28.613,
+   "end": 29.093,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 29.333,
+   "end": 29.413,
+   "type": "word"
+  },
+  {
+   "text": "esa",
+   "start": 30.133,
+   "end": 30.453,
+   "type": "word"
+  },
+  {
+   "text": "papel",
+   "start": 30.453,
+   "end": 30.853,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 30.853,
+   "end": 30.933,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 30.933,
+   "end": 31.093,
+   "type": "word"
+  },
+  {
+   "text": "están",
+   "start": 31.093,
+   "end": 31.333,
+   "type": "word"
+  },
+  {
+   "text": "mostrando",
+   "start": 31.493,
+   "end": 31.893,
+   "type": "word"
+  },
+  {
+   "text": "pues",
+   "start": 31.973,
+   "end": 32.213,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 32.213,
+   "end": 32.373,
+   "type": "word"
+  },
+  {
+   "text": "fue",
+   "start": 32.373,
+   "end": 32.453,
+   "type": "word"
+  },
+  {
+   "text": "editado,",
+   "start": 32.613,
+   "end": 33.253,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 33.333,
+   "end": 33.573,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 33.573,
+   "end": 33.733,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 33.733,
+   "end": 33.893,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 33.893,
+   "end": 33.973,
+   "type": "word"
+  },
+  {
+   "text": "dice",
+   "start": 33.973,
+   "end": 34.293,
+   "type": "word"
+  },
+  {
+   "text": "ahí",
+   "start": 34.293,
+   "end": 34.453,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 34.453,
+   "end": 34.613,
+   "type": "word"
+  },
+  {
+   "text": "verdad.",
+   "start": 34.613,
+   "end": 35.013,
+   "type": "word"
+  },
+  {
+   "text": "Lo",
+   "start": 35.573,
+   "end": 35.813,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 35.813,
+   "end": 35.973,
+   "type": "word"
+  },
+  {
+   "text": "pasa",
+   "start": 35.973,
+   "end": 36.293,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 36.373,
+   "end": 36.533,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 36.533,
+   "end": 36.613,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 36.613,
+   "end": 36.773,
+   "type": "word"
+  },
+  {
+   "text": "han",
+   "start": 36.773,
+   "end": 36.853,
+   "type": "word"
+  },
+  {
+   "text": "hecho,",
+   "start": 37.013,
+   "end": 37.253,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 37.333,
+   "end": 37.413,
+   "type": "word"
+  },
+  {
+   "text": "han",
+   "start": 37.573,
+   "end": 37.653,
+   "type": "word"
+  },
+  {
+   "text": "hecho",
+   "start": 37.733,
+   "end": 37.893,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 37.893,
+   "end": 38.213,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 38.213,
+   "end": 38.293,
+   "type": "word"
+  },
+  {
+   "text": "estos",
+   "start": 38.293,
+   "end": 38.533,
+   "type": "word"
+  },
+  {
+   "text": "pepitos.",
+   "start": 38.533,
+   "end": 38.853,
+   "type": "word"
+  },
+  {
+   "text": "Que",
+   "start": 39.303,
+   "end": 39.383,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 39.383,
+   "end": 39.463,
+   "type": "word"
+  },
+  {
+   "text": "venden",
+   "start": 39.463,
+   "end": 39.863,
+   "type": "word"
+  },
+  {
+   "text": "así",
+   "start": 39.943,
+   "end": 40.183,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 40.263,
+   "end": 40.583,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 40.823,
+   "end": 40.983,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 40.983,
+   "end": 41.143,
+   "type": "word"
+  },
+  {
+   "text": "mercado",
+   "start": 41.143,
+   "end": 41.623,
+   "type": "word"
+  },
+  {
+   "text": "negro",
+   "start": 41.623,
+   "end": 41.943,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 42.103,
+   "end": 42.263,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 42.263,
+   "end": 42.503,
+   "type": "word"
+  },
+  {
+   "text": "han",
+   "start": 42.503,
+   "end": 42.743,
+   "type": "word"
+  },
+  {
+   "text": "visto",
+   "start": 42.743,
+   "end": 42.983,
+   "type": "word"
+  },
+  {
+   "text": "varias",
+   "start": 43.063,
+   "end": 43.383,
+   "type": "word"
+  },
+  {
+   "text": "cosas",
+   "start": 43.383,
+   "end": 43.703,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 43.943,
+   "end": 44.183,
+   "type": "word"
+  },
+  {
+   "text": "tienen",
+   "start": 44.183,
+   "end": 44.503,
+   "type": "word"
+  },
+  {
+   "text": "metales",
+   "start": 44.503,
+   "end": 44.903,
+   "type": "word"
+  },
+  {
+   "text": "pesados.",
+   "start": 44.903,
+   "end": 45.463,
+   "type": "word"
+  },
+  {
+   "text": "Eso",
+   "start": 45.623,
+   "end": 45.943,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 45.943,
+   "end": 46.103,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 46.103,
+   "end": 46.263,
+   "type": "word"
+  },
+  {
+   "text": "intoxicar,",
+   "start": 46.423,
+   "end": 47.063,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 47.223,
+   "end": 47.383,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 47.543,
+   "end": 47.703,
+   "type": "word"
+  },
+  {
+   "text": "bacterias,",
+   "start": 47.863,
+   "end": 48.263,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 48.423,
+   "end": 48.583,
+   "type": "word"
+  },
+  {
+   "text": "también",
+   "start": 48.663,
+   "end": 48.823,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 48.823,
+   "end": 49.063,
+   "type": "word"
+  },
+  {
+   "text": "ser",
+   "start": 49.063,
+   "end": 49.223,
+   "type": "word"
+  },
+  {
+   "text": "muy",
+   "start": 49.223,
+   "end": 49.383,
+   "type": "word"
+  },
+  {
+   "text": "perjudicial",
+   "start": 49.383,
+   "end": 49.943,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 50.023,
+   "end": 50.183,
+   "type": "word"
+  },
+  {
+   "text": "tu",
+   "start": 50.183,
+   "end": 50.263,
+   "type": "word"
+  },
+  {
+   "text": "cuerpo.",
+   "start": 50.263,
+   "end": 50.503,
+   "type": "word"
+  },
+  {
+   "text": "Que",
+   "start": 50.823,
+   "end": 51.063,
+   "type": "word"
+  },
+  {
+   "text": "las",
+   "start": 51.063,
+   "end": 51.223,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 51.223,
+   "end": 51.703,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 51.703,
+   "end": 51.943,
+   "type": "word"
+  },
+  {
+   "text": "dice",
+   "start": 51.943,
+   "end": 52.343,
+   "type": "word"
+  },
+  {
+   "text": "ahí",
+   "start": 52.343,
+   "end": 52.503,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 52.663,
+   "end": 52.743,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 52.743,
+   "end": 52.903,
+   "type": "word"
+  },
+  {
+   "text": "las",
+   "start": 52.903,
+   "end": 53.063,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 53.063,
+   "end": 53.383,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 53.383,
+   "end": 53.463,
+   "type": "word"
+  },
+  {
+   "text": "tiene,",
+   "start": 53.463,
+   "end": 53.623,
+   "type": "word"
+  },
+  {
+   "text": "sino",
+   "start": 53.783,
+   "end": 53.943,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 53.943,
+   "end": 54.103,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 54.103,
+   "end": 54.263,
+   "type": "word"
+  },
+  {
+   "text": "más.",
+   "start": 54.423,
+   "end": 54.743,
+   "type": "word"
+  },
+  {
+   "text": "Que",
+   "start": 54.983,
+   "end": 55.143,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 55.303,
+   "end": 55.463,
+   "type": "word"
+  },
+  {
+   "text": "además",
+   "start": 55.623,
+   "end": 55.943,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 55.943,
+   "end": 56.103,
+   "type": "word"
+  },
+  {
+   "text": "esa",
+   "start": 56.103,
+   "end": 56.263,
+   "type": "word"
+  },
+  {
+   "text": "molécula",
+   "start": 56.263,
+   "end": 56.663,
+   "type": "word"
+  },
+  {
+   "text": "otras",
+   "start": 56.823,
+   "end": 57.143,
+   "type": "word"
+  },
+  {
+   "text": "moléculas",
+   "start": 57.143,
+   "end": 57.703,
+   "type": "word"
+  },
+  {
+   "text": "diferentes.",
+   "start": 57.703,
+   "end": 58.263,
+   "type": "word"
+  },
+  {
+   "text": "Exacto.",
+   "start": 59.303,
+   "end": 59.623,
+   "type": "word"
+  },
+  {
+   "text": "Ese",
+   "start": 59.783,
+   "end": 59.943,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 59.943,
+   "end": 60.103,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 60.103,
+   "end": 60.183,
+   "type": "word"
+  },
+  {
+   "text": "peligro",
+   "start": 60.183,
+   "end": 60.583,
+   "type": "word"
+  },
+  {
+   "text": "real",
+   "start": 60.583,
+   "end": 60.903,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 60.903,
+   "end": 60.983,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 60.983,
+   "end": 61.063,
+   "type": "word"
+  },
+  {
+   "text": "fétiles.",
+   "start": 61.223,
+   "end": 61.863,
+   "type": "word"
+  },
+  {
+   "text": "siento",
+   "start": 61.993,
+   "end": 62.233,
+   "type": "word"
+  },
+  {
+   "text": "yo,",
+   "start": 62.313,
+   "end": 62.393,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 62.633,
+   "end": 62.713,
+   "type": "word"
+  },
+  {
+   "text": "tanto",
+   "start": 62.793,
+   "end": 63.033,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 63.033,
+   "end": 63.113,
+   "type": "word"
+  },
+  {
+   "text": "molécula",
+   "start": 63.193,
+   "end": 63.673,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 63.753,
+   "end": 63.913,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-04a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-04/src/podcast-04a.mp4",
+  "size": 86427536,
+  "mtime_ns": 1793309740300761183
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 993.467,
+  "end": 1058.333
+ }
+}

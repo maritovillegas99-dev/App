@@ -1,0 +1,248 @@
+{
+ "language_code": "es",
+ "text": "para los pacientes y también para los médicos. El BPC 157 es un péptido de 15 aminoácidos y lleva como unos 30 años en el mercado. No tiene investigaciones suficientes en humanos, pero sí es un peptido muy",
+ "words": [
+  {
+   "text": "para",
+   "start": 0.51,
+   "end": 0.67,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 0.67,
+   "end": 0.83,
+   "type": "word"
+  },
+  {
+   "text": "pacientes",
+   "start": 0.83,
+   "end": 1.31,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 1.31,
+   "end": 1.47,
+   "type": "word"
+  },
+  {
+   "text": "también",
+   "start": 1.47,
+   "end": 1.71,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 1.71,
+   "end": 1.95,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 1.95,
+   "end": 2.11,
+   "type": "word"
+  },
+  {
+   "text": "médicos.",
+   "start": 2.11,
+   "end": 2.67,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 3.0,
+   "end": 3.08,
+   "type": "word"
+  },
+  {
+   "text": "BPC",
+   "start": 3.08,
+   "end": 3.64,
+   "type": "word"
+  },
+  {
+   "text": "157",
+   "start": 3.72,
+   "end": 4.76,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 4.76,
+   "end": 4.84,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 4.84,
+   "end": 5.0,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 5.0,
+   "end": 5.72,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 5.72,
+   "end": 5.8,
+   "type": "word"
+  },
+  {
+   "text": "15",
+   "start": 5.8,
+   "end": 6.2,
+   "type": "word"
+  },
+  {
+   "text": "aminoácidos",
+   "start": 6.2,
+   "end": 7.24,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 7.32,
+   "end": 7.56,
+   "type": "word"
+  },
+  {
+   "text": "lleva",
+   "start": 7.56,
+   "end": 7.88,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 7.88,
+   "end": 8.12,
+   "type": "word"
+  },
+  {
+   "text": "unos",
+   "start": 8.12,
+   "end": 8.44,
+   "type": "word"
+  },
+  {
+   "text": "30",
+   "start": 8.44,
+   "end": 8.76,
+   "type": "word"
+  },
+  {
+   "text": "años",
+   "start": 8.76,
+   "end": 9.0,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 9.0,
+   "end": 9.16,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 9.16,
+   "end": 9.32,
+   "type": "word"
+  },
+  {
+   "text": "mercado.",
+   "start": 9.32,
+   "end": 9.88,
+   "type": "word"
+  },
+  {
+   "text": "No",
+   "start": 10.2,
+   "end": 10.52,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 10.52,
+   "end": 10.84,
+   "type": "word"
+  },
+  {
+   "text": "investigaciones",
+   "start": 10.92,
+   "end": 11.72,
+   "type": "word"
+  },
+  {
+   "text": "suficientes",
+   "start": 11.72,
+   "end": 12.36,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 12.36,
+   "end": 12.68,
+   "type": "word"
+  },
+  {
+   "text": "humanos,",
+   "start": 12.68,
+   "end": 13.24,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 13.8,
+   "end": 14.12,
+   "type": "word"
+  },
+  {
+   "text": "sí",
+   "start": 14.28,
+   "end": 14.6,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 15.08,
+   "end": 15.32,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 15.32,
+   "end": 15.48,
+   "type": "word"
+  },
+  {
+   "text": "peptido",
+   "start": 15.48,
+   "end": 16.04,
+   "type": "word"
+  },
+  {
+   "text": "muy",
+   "start": 16.04,
+   "end": 16.2,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-02b.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-02/src/podcast-02b.mp4",
+  "size": 20271334,
+  "mtime_ns": 1793309576008755307
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 362.7,
+  "end": 378.933
+ }
+}

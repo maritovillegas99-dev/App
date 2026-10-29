@@ -1,0 +1,302 @@
+{
+ "language_code": "es",
+ "text": "y aprendí demasiado sobre los téptidos. Aprendí cómo se usan, aprendí los efectos adversos, cómo manejarlos, qué tan seguros son, cómo preparar a una persona. para que puede recibir los éctiles. Y me daban que tening resultados más buenos. No, y es que in realidad, la ciencia",
+ "words": [
+  {
+   "text": "y",
+   "start": 0.29,
+   "end": 0.61,
+   "type": "word"
+  },
+  {
+   "text": "aprendí",
+   "start": 0.77,
+   "end": 1.33,
+   "type": "word"
+  },
+  {
+   "text": "demasiado",
+   "start": 1.33,
+   "end": 1.73,
+   "type": "word"
+  },
+  {
+   "text": "sobre",
+   "start": 1.73,
+   "end": 1.97,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 1.97,
+   "end": 2.13,
+   "type": "word"
+  },
+  {
+   "text": "téptidos.",
+   "start": 2.13,
+   "end": 2.77,
+   "type": "word"
+  },
+  {
+   "text": "Aprendí",
+   "start": 3.01,
+   "end": 3.49,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 3.49,
+   "end": 3.65,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 3.65,
+   "end": 3.81,
+   "type": "word"
+  },
+  {
+   "text": "usan,",
+   "start": 3.81,
+   "end": 4.13,
+   "type": "word"
+  },
+  {
+   "text": "aprendí",
+   "start": 4.21,
+   "end": 4.61,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 4.61,
+   "end": 4.77,
+   "type": "word"
+  },
+  {
+   "text": "efectos",
+   "start": 4.77,
+   "end": 5.01,
+   "type": "word"
+  },
+  {
+   "text": "adversos,",
+   "start": 5.17,
+   "end": 5.73,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 5.89,
+   "end": 6.05,
+   "type": "word"
+  },
+  {
+   "text": "manejarlos,",
+   "start": 6.05,
+   "end": 6.61,
+   "type": "word"
+  },
+  {
+   "text": "qué",
+   "start": 6.85,
+   "end": 7.01,
+   "type": "word"
+  },
+  {
+   "text": "tan",
+   "start": 7.17,
+   "end": 7.41,
+   "type": "word"
+  },
+  {
+   "text": "seguros",
+   "start": 7.41,
+   "end": 7.97,
+   "type": "word"
+  },
+  {
+   "text": "son,",
+   "start": 7.97,
+   "end": 8.13,
+   "type": "word"
+  },
+  {
+   "text": "cómo",
+   "start": 8.29,
+   "end": 8.53,
+   "type": "word"
+  },
+  {
+   "text": "preparar",
+   "start": 8.53,
+   "end": 9.01,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 9.01,
+   "end": 9.17,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 9.17,
+   "end": 9.33,
+   "type": "word"
+  },
+  {
+   "text": "persona.",
+   "start": 9.33,
+   "end": 9.73,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 10.18,
+   "end": 10.34,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 10.66,
+   "end": 10.82,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 10.82,
+   "end": 10.9,
+   "type": "word"
+  },
+  {
+   "text": "recibir",
+   "start": 11.06,
+   "end": 11.3,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 11.38,
+   "end": 11.46,
+   "type": "word"
+  },
+  {
+   "text": "éctiles.",
+   "start": 11.7,
+   "end": 12.26,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 12.42,
+   "end": 12.58,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 12.58,
+   "end": 12.66,
+   "type": "word"
+  },
+  {
+   "text": "daban",
+   "start": 12.74,
+   "end": 13.22,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 13.22,
+   "end": 13.3,
+   "type": "word"
+  },
+  {
+   "text": "tening",
+   "start": 13.38,
+   "end": 13.7,
+   "type": "word"
+  },
+  {
+   "text": "resultados",
+   "start": 13.7,
+   "end": 14.1,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 14.1,
+   "end": 14.18,
+   "type": "word"
+  },
+  {
+   "text": "buenos.",
+   "start": 14.34,
+   "end": 14.66,
+   "type": "word"
+  },
+  {
+   "text": "No,",
+   "start": 14.98,
+   "end": 15.06,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 15.22,
+   "end": 15.38,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 15.38,
+   "end": 15.54,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 15.54,
+   "end": 15.7,
+   "type": "word"
+  },
+  {
+   "text": "in",
+   "start": 15.78,
+   "end": 15.94,
+   "type": "word"
+  },
+  {
+   "text": "realidad,",
+   "start": 15.94,
+   "end": 16.26,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 16.74,
+   "end": 16.9,
+   "type": "word"
+  },
+  {
+   "text": "ciencia",
+   "start": 16.9,
+   "end": 17.3,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-06b.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-06/src/podcast-06b.mp4",
+  "size": 23453368,
+  "mtime_ns": 1793309859688765452
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1365.7,
+  "end": 1383.367
+ }
+}

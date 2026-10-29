@@ -30,7 +30,7 @@
    "title": "Por qué a mucha gente no le funcionan los péptidos",
    "rubric": "insight",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "El péptido es como un mensajero",
@@ -58,14 +58,15 @@
     "errors": [],
     "warnings": [],
     "length": 55.7
-   }
+   },
+   "approved_rev": "270861d6f70e"
   },
   {
    "id": "02",
    "title": "BPC-157: 'me curé en dos días'... ¿y el riesgo?",
    "rubric": "insight",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "de personas que dicen yo tenía asiática",
@@ -114,14 +115,15 @@
     "errors": [],
     "warnings": [],
     "length": 47.8
-   }
+   },
+   "approved_rev": "fa84c865cf62"
   },
   {
    "id": "03",
    "title": "Retatrutide: lo venden en Instagram antes de terminar los estudios",
    "rubric": "insight",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "Y recientemente, esta semana, The Lancet",
@@ -160,9 +162,7 @@
    "speaker": "Michelle",
    "host": "keep",
    "risks": [
-    "'esta semana' fecha el clip",
-    "cifra 20% solo como la dice",
-    "afirma que Lilly quiere demandar a quienes producen la molécula: confirmar que se puede publicar"
+    "aprobado por la persona tal cual (esta semana, Lilly, 20 %)"
    ],
    "allow": [],
    "settings": {},
@@ -172,14 +172,15 @@
     "errors": [],
     "warnings": [],
     "length": 61.9
-   }
+   },
+   "approved_rev": "b3db19c1f089"
   },
   {
    "id": "04",
    "title": "El peligro real de los péptidos no es la molécula",
    "rubric": "insight",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "El problema siento con estos que con estos péptidos es la pureza",
@@ -207,14 +208,15 @@
     "errors": [],
     "warnings": [],
     "length": 58.8
-   }
+   },
+   "approved_rev": "bdd4a0c91fd7"
   },
   {
    "id": "05",
    "title": "Señal roja: microcursos para recetar péptidos",
    "rubric": "insight",
    "wave": 2,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "no es tanto el precio sino la audiencia",
@@ -252,22 +254,33 @@
     "errors": [],
     "warnings": [],
     "length": 56.0
-   }
+   },
+   "approved_rev": "e4c035f0c044"
   },
   {
    "id": "06",
    "title": "La médica que pensaba que los péptidos eran irresponsables",
    "rubric": "story",
    "wave": 2,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "O sea, sí, sin duda alguna, los péptidos son una revolución",
-     "to_words": "Y me daban que tening resultados más buenos",
+     "to_words": "yo decía eso y no sabía absolutamente nada de téptidos",
      "near": "22:08",
-     "near_end": "22:58",
+     "near_end": "22:38",
      "resolved": {
       "start": 1328.12,
+      "end": 1360.31,
+      "rev": "7ce6029126a8"
+     }
+    },
+    {
+     "from_words": "Aprendí cómo se usan, aprendí los efectos adversos",
+     "to_words": "Y me daban que tening resultados más buenos",
+     "near": "22:49",
+     "resolved": {
+      "start": 1368.71,
       "end": 1380.36,
       "rev": "7ce6029126a8"
      }
@@ -278,25 +291,24 @@
    "ending": "cómo preparar a una persona para recibir los péptidos",
    "speaker": "Michelle",
    "host": "cut",
-   "risks": [
-    "menciona a un tercero por nombre (un médico de Medellín, Joaquín): confirmar o cortar esa frase"
-   ],
+   "risks": [],
    "allow": [],
    "settings": {},
    "check": {
     "rev": "7ce6029126a8",
-    "key": "dfc461915d24",
+    "key": "e66105fa8e93",
     "errors": [],
     "warnings": [],
-    "length": 52.2
-   }
+    "length": 43.8
+   },
+   "approved_rev": "e66105fa8e93"
   },
   {
    "id": "07",
    "title": "'Bajé 5 kilos en dos semanas'... ¿a qué costo?",
    "rubric": "story",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "¿Cuál es el péptido que más te preocupa",
@@ -347,14 +359,15 @@
      "piece c starts mid-sentence at 29:46.0: «…la gente dice como que, | porque yo he tenido»"
     ],
     "length": 46.6
-   }
+   },
+   "approved_rev": "bab7884d1e97"
   },
   {
    "id": "08",
    "title": "El problema no es bajar de peso, es sostenerlo",
    "rubric": "insight",
    "wave": 2,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "No, y el tema con estos térpidos de para perder peso",
@@ -393,14 +406,15 @@
     "errors": [],
     "warnings": [],
     "length": 47.9
-   }
+   },
+   "approved_rev": "90788a95ac58"
   },
   {
    "id": "09",
    "title": "¿Existe un péptido que alargue la vida?",
    "rubric": "insight",
    "wave": 2,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "Entre todos esos pérptidos que has mencionado",
@@ -428,14 +442,15 @@
     "errors": [],
     "warnings": [],
     "length": 60.1
-   }
+   },
+   "approved_rev": "3ed6969ef504"
   },
   {
    "id": "10",
    "title": "3 cosas que una médica jamás haría con péptidos",
    "rubric": "insight",
    "wave": 1,
-   "status": "proposed",
+   "status": "approved",
    "parts": [
     {
      "from_words": "dime tres cosas o cuáles son esas tres cosas",
@@ -463,7 +478,8 @@
     "errors": [],
     "warnings": [],
     "length": 47.3
-   }
+   },
+   "approved_rev": "cda61da7b8fb"
   },
   {
    "id": "11",

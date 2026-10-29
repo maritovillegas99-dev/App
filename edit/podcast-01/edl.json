@@ -1,0 +1,70 @@
+{
+ "version": 1,
+ "sources": {
+  "a": "/home/user/App/edit/podcast-01/src/podcast-01a.mp4"
+ },
+ "speed": 1.0,
+ "speeds": {
+  "a": 1.0
+ },
+ "grade": "colorchannelmixer=rr=0.98:bb=1.04",
+ "ranges": [
+  {
+   "source": "a",
+   "start": 3.067,
+   "end": 9.933,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 10.133,
+   "end": 14.433,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 14.8,
+   "end": 17.733,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 17.933,
+   "end": 23.267,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 23.633,
+   "end": 25.533,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 25.867,
+   "end": 35.667,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 35.867,
+   "end": 46.933,
+   "speed": 1.0,
+   "beat": "piece a"
+  },
+  {
+   "source": "a",
+   "start": 47.4,
+   "end": 58.433,
+   "speed": 1.0,
+   "beat": "piece a"
+  }
+ ],
+ "total_duration_s": 53.233
+}

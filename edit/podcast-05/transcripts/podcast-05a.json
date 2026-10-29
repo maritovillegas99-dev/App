@@ -1,0 +1,248 @@
+{
+ "language_code": "es",
+ "text": "he visto péptios de todos los precios no es tanto el precio sino la audiencia listo he visto laboratorios que le venden esto a cualquier persona Uno que hacen microcursos, he visto. Microcursos para aprender a recettar médicos.",
+ "words": [
+  {
+   "text": "he",
+   "start": 0.147,
+   "end": 0.387,
+   "type": "word"
+  },
+  {
+   "text": "visto",
+   "start": 0.387,
+   "end": 0.627,
+   "type": "word"
+  },
+  {
+   "text": "péptios",
+   "start": 0.627,
+   "end": 1.267,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 1.267,
+   "end": 1.347,
+   "type": "word"
+  },
+  {
+   "text": "todos",
+   "start": 1.347,
+   "end": 1.507,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 1.507,
+   "end": 1.667,
+   "type": "word"
+  },
+  {
+   "text": "precios",
+   "start": 1.667,
+   "end": 2.307,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 3.027,
+   "end": 3.267,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 3.267,
+   "end": 3.507,
+   "type": "word"
+  },
+  {
+   "text": "tanto",
+   "start": 3.507,
+   "end": 3.747,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 3.987,
+   "end": 4.227,
+   "type": "word"
+  },
+  {
+   "text": "precio",
+   "start": 4.227,
+   "end": 4.627,
+   "type": "word"
+  },
+  {
+   "text": "sino",
+   "start": 4.787,
+   "end": 5.267,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 5.267,
+   "end": 5.507,
+   "type": "word"
+  },
+  {
+   "text": "audiencia",
+   "start": 5.507,
+   "end": 6.067,
+   "type": "word"
+  },
+  {
+   "text": "listo",
+   "start": 6.307,
+   "end": 6.547,
+   "type": "word"
+  },
+  {
+   "text": "he",
+   "start": 6.707,
+   "end": 6.867,
+   "type": "word"
+  },
+  {
+   "text": "visto",
+   "start": 6.947,
+   "end": 7.267,
+   "type": "word"
+  },
+  {
+   "text": "laboratorios",
+   "start": 7.267,
+   "end": 8.307,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 8.307,
+   "end": 8.547,
+   "type": "word"
+  },
+  {
+   "text": "le",
+   "start": 8.707,
+   "end": 8.947,
+   "type": "word"
+  },
+  {
+   "text": "venden",
+   "start": 8.947,
+   "end": 9.507,
+   "type": "word"
+  },
+  {
+   "text": "esto",
+   "start": 9.507,
+   "end": 9.827,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 10.067,
+   "end": 10.307,
+   "type": "word"
+  },
+  {
+   "text": "cualquier",
+   "start": 10.307,
+   "end": 10.787,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 10.787,
+   "end": 11.107,
+   "type": "word"
+  },
+  {
+   "text": "Uno",
+   "start": 11.577,
+   "end": 11.897,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 12.137,
+   "end": 12.297,
+   "type": "word"
+  },
+  {
+   "text": "hacen",
+   "start": 12.457,
+   "end": 13.017,
+   "type": "word"
+  },
+  {
+   "text": "microcursos,",
+   "start": 13.097,
+   "end": 13.897,
+   "type": "word"
+  },
+  {
+   "text": "he",
+   "start": 14.057,
+   "end": 14.217,
+   "type": "word"
+  },
+  {
+   "text": "visto.",
+   "start": 14.297,
+   "end": 14.617,
+   "type": "word"
+  },
+  {
+   "text": "Microcursos",
+   "start": 14.857,
+   "end": 15.657,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 15.657,
+   "end": 15.817,
+   "type": "word"
+  },
+  {
+   "text": "aprender",
+   "start": 15.817,
+   "end": 16.137,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 16.137,
+   "end": 16.217,
+   "type": "word"
+  },
+  {
+   "text": "recettar",
+   "start": 16.217,
+   "end": 16.777,
+   "type": "word"
+  },
+  {
+   "text": "médicos.",
+   "start": 16.777,
+   "end": 17.177,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-05a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-05/src/podcast-05a.mp4",
+  "size": 23203788,
+  "mtime_ns": 1793309757916761813
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1160.733,
+  "end": 1178.367
+ }
+}

@@ -1,0 +1,374 @@
+{
+ "language_code": "es",
+ "text": "bien. Y bueno, algo con este festivo que ha tenido un poquito de controversia es que como promueven la formación de nuevos vasos que hacen parte obviamente de una recuperación, pero también hace parte del mecanismo que usan las células cancerígenas. Entonces por eso ha sido un peptido un poquito controversial. Incluso es un peptido que estuvo un tiempo",
+ "words": [
+  {
+   "text": "bien.",
+   "start": 0.383,
+   "end": 0.623,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 2.063,
+   "end": 2.223,
+   "type": "word"
+  },
+  {
+   "text": "bueno,",
+   "start": 3.023,
+   "end": 3.183,
+   "type": "word"
+  },
+  {
+   "text": "algo",
+   "start": 3.263,
+   "end": 3.583,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 3.583,
+   "end": 3.823,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 3.823,
+   "end": 3.983,
+   "type": "word"
+  },
+  {
+   "text": "festivo",
+   "start": 4.223,
+   "end": 4.623,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 4.703,
+   "end": 4.863,
+   "type": "word"
+  },
+  {
+   "text": "ha",
+   "start": 4.863,
+   "end": 4.943,
+   "type": "word"
+  },
+  {
+   "text": "tenido",
+   "start": 4.943,
+   "end": 5.183,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 5.183,
+   "end": 5.263,
+   "type": "word"
+  },
+  {
+   "text": "poquito",
+   "start": 5.263,
+   "end": 5.503,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 5.503,
+   "end": 5.663,
+   "type": "word"
+  },
+  {
+   "text": "controversia",
+   "start": 5.663,
+   "end": 6.383,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 6.383,
+   "end": 6.543,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 6.543,
+   "end": 6.703,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 6.943,
+   "end": 7.263,
+   "type": "word"
+  },
+  {
+   "text": "promueven",
+   "start": 7.263,
+   "end": 7.743,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 7.823,
+   "end": 7.903,
+   "type": "word"
+  },
+  {
+   "text": "formación",
+   "start": 7.903,
+   "end": 8.223,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 8.223,
+   "end": 8.303,
+   "type": "word"
+  },
+  {
+   "text": "nuevos",
+   "start": 8.303,
+   "end": 8.623,
+   "type": "word"
+  },
+  {
+   "text": "vasos",
+   "start": 8.623,
+   "end": 8.943,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 9.023,
+   "end": 9.183,
+   "type": "word"
+  },
+  {
+   "text": "hacen",
+   "start": 9.183,
+   "end": 9.503,
+   "type": "word"
+  },
+  {
+   "text": "parte",
+   "start": 9.503,
+   "end": 9.663,
+   "type": "word"
+  },
+  {
+   "text": "obviamente",
+   "start": 9.743,
+   "end": 10.143,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 10.463,
+   "end": 10.783,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 10.783,
+   "end": 11.103,
+   "type": "word"
+  },
+  {
+   "text": "recuperación,",
+   "start": 11.103,
+   "end": 11.743,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 11.903,
+   "end": 12.063,
+   "type": "word"
+  },
+  {
+   "text": "también",
+   "start": 12.063,
+   "end": 12.303,
+   "type": "word"
+  },
+  {
+   "text": "hace",
+   "start": 12.303,
+   "end": 12.703,
+   "type": "word"
+  },
+  {
+   "text": "parte",
+   "start": 12.703,
+   "end": 13.023,
+   "type": "word"
+  },
+  {
+   "text": "del",
+   "start": 13.023,
+   "end": 13.343,
+   "type": "word"
+  },
+  {
+   "text": "mecanismo",
+   "start": 13.503,
+   "end": 14.063,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 14.063,
+   "end": 14.223,
+   "type": "word"
+  },
+  {
+   "text": "usan",
+   "start": 14.223,
+   "end": 14.543,
+   "type": "word"
+  },
+  {
+   "text": "las",
+   "start": 14.543,
+   "end": 14.623,
+   "type": "word"
+  },
+  {
+   "text": "células",
+   "start": 14.623,
+   "end": 14.943,
+   "type": "word"
+  },
+  {
+   "text": "cancerígenas.",
+   "start": 14.943,
+   "end": 15.823,
+   "type": "word"
+  },
+  {
+   "text": "Entonces",
+   "start": 15.993,
+   "end": 16.313,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 16.393,
+   "end": 16.553,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 16.553,
+   "end": 16.713,
+   "type": "word"
+  },
+  {
+   "text": "ha",
+   "start": 16.713,
+   "end": 16.873,
+   "type": "word"
+  },
+  {
+   "text": "sido",
+   "start": 16.873,
+   "end": 16.953,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 17.113,
+   "end": 17.193,
+   "type": "word"
+  },
+  {
+   "text": "peptido",
+   "start": 17.193,
+   "end": 17.673,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 17.673,
+   "end": 17.753,
+   "type": "word"
+  },
+  {
+   "text": "poquito",
+   "start": 17.753,
+   "end": 18.073,
+   "type": "word"
+  },
+  {
+   "text": "controversial.",
+   "start": 18.073,
+   "end": 18.873,
+   "type": "word"
+  },
+  {
+   "text": "Incluso",
+   "start": 19.113,
+   "end": 19.513,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 19.673,
+   "end": 19.833,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 19.833,
+   "end": 19.913,
+   "type": "word"
+  },
+  {
+   "text": "peptido",
+   "start": 19.913,
+   "end": 20.473,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 20.473,
+   "end": 20.553,
+   "type": "word"
+  },
+  {
+   "text": "estuvo",
+   "start": 20.553,
+   "end": 20.953,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 20.953,
+   "end": 21.113,
+   "type": "word"
+  },
+  {
+   "text": "tiempo",
+   "start": 21.113,
+   "end": 21.433,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-02c.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-02/src/podcast-02c.mp4",
+  "size": 28580032,
+  "mtime_ns": 1793309597672756082
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 396.267,
+  "end": 418.133
+ }
+}

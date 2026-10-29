@@ -1,6 +1,7 @@
 import { Composition } from "remotion";
 import { KIT_FPS, ReelCover, ReelKit, reelCoverDefaults, reelKitDefaults, reelKitMetadata } from "./ReelKit";
 import { GEN } from "./gen/registry";
+import { ReelMinimal, reelMinimalDefaults } from "./ReelMinimal";
 
 // Created by kit.py new. The kit (src/ReelKit.tsx, src/kit/) is updated by kit.py update; this file is yours.
 export const RemotionRoot: React.FC = () => {
@@ -22,6 +23,9 @@ export const RemotionRoot: React.FC = () => {
           npx remotion still ReelCover edit/<id>/cover.png --props=edit/<id>/reelkit-props.json */}
       <Composition id="ReelCover" component={ReelCover} durationInFrames={1} fps={KIT_FPS} width={1080} height={1920}
         defaultProps={reelCoverDefaults} />
+      {/* Serie podcast péptidos: subtítulos "blanco minimalista" (src/ReelMinimal.tsx) */}
+      <Composition id="ReelMinimal" component={ReelMinimal} durationInFrames={90} fps={KIT_FPS} width={1080} height={1920}
+        defaultProps={reelMinimalDefaults} calculateMetadata={reelKitMetadata as any} />
       {/* Code scenes for B-roll (codescene.py scaffold / render) */}
       {GEN.map((g) => (
         <Composition key={g.id} id={g.id} component={g.component} durationInFrames={g.durationInFrames} fps={30} width={1080} height={1920} />

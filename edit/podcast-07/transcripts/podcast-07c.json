@@ -1,0 +1,824 @@
+{
+ "language_code": "es",
+ "text": "mientras usan estos péptidos. Entonces la gente dice como que, porque yo he tenido pacientes que me llegan y me dicen, no, el gimnasio, el gimnasio del entrenador me vendió este pep. Tío, estoy súper feliz porque he bajado 5 kilos en dos semanas, 5 kilos en dos semanas, no me da casi hambre, estoy comiendo una sola vez al día y felices. Yo pregunto, ¿estás entrenando? No, la energía no me da, pues obviamente no te va la energía si estás comiendo una sola vez al día. Ya si pones al metabolismo en ese estrés tan severo, no vas a dormir bien, no te vas a recuperar bien, vas a perder músculo. Y al final cuando suspendas el medicamento vas a quedar con menos músculo, ya. Y el músculo es como una esponjita.",
+ "words": [
+  {
+   "text": "mientras",
+   "start": 0.063,
+   "end": 0.383,
+   "type": "word"
+  },
+  {
+   "text": "usan",
+   "start": 0.383,
+   "end": 0.703,
+   "type": "word"
+  },
+  {
+   "text": "estos",
+   "start": 0.703,
+   "end": 0.863,
+   "type": "word"
+  },
+  {
+   "text": "péptidos.",
+   "start": 0.943,
+   "end": 1.423,
+   "type": "word"
+  },
+  {
+   "text": "Entonces",
+   "start": 1.583,
+   "end": 1.823,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 1.903,
+   "end": 1.983,
+   "type": "word"
+  },
+  {
+   "text": "gente",
+   "start": 1.983,
+   "end": 2.143,
+   "type": "word"
+  },
+  {
+   "text": "dice",
+   "start": 2.143,
+   "end": 2.303,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 2.463,
+   "end": 2.543,
+   "type": "word"
+  },
+  {
+   "text": "que,",
+   "start": 2.703,
+   "end": 2.783,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 3.023,
+   "end": 3.183,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 3.343,
+   "end": 3.503,
+   "type": "word"
+  },
+  {
+   "text": "he",
+   "start": 3.503,
+   "end": 3.583,
+   "type": "word"
+  },
+  {
+   "text": "tenido",
+   "start": 3.663,
+   "end": 3.983,
+   "type": "word"
+  },
+  {
+   "text": "pacientes",
+   "start": 3.983,
+   "end": 4.303,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 4.303,
+   "end": 4.463,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 4.463,
+   "end": 4.623,
+   "type": "word"
+  },
+  {
+   "text": "llegan",
+   "start": 4.623,
+   "end": 4.943,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 4.943,
+   "end": 5.023,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 5.023,
+   "end": 5.103,
+   "type": "word"
+  },
+  {
+   "text": "dicen,",
+   "start": 5.103,
+   "end": 5.343,
+   "type": "word"
+  },
+  {
+   "text": "no,",
+   "start": 5.503,
+   "end": 5.743,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 6.063,
+   "end": 6.223,
+   "type": "word"
+  },
+  {
+   "text": "gimnasio,",
+   "start": 6.223,
+   "end": 6.543,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 6.703,
+   "end": 6.783,
+   "type": "word"
+  },
+  {
+   "text": "gimnasio",
+   "start": 6.943,
+   "end": 7.343,
+   "type": "word"
+  },
+  {
+   "text": "del",
+   "start": 7.423,
+   "end": 7.503,
+   "type": "word"
+  },
+  {
+   "text": "entrenador",
+   "start": 7.663,
+   "end": 8.143,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 8.223,
+   "end": 8.303,
+   "type": "word"
+  },
+  {
+   "text": "vendió",
+   "start": 8.303,
+   "end": 8.623,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 8.703,
+   "end": 8.783,
+   "type": "word"
+  },
+  {
+   "text": "pep.",
+   "start": 8.863,
+   "end": 9.103,
+   "type": "word"
+  },
+  {
+   "text": "Tío,",
+   "start": 9.353,
+   "end": 9.593,
+   "type": "word"
+  },
+  {
+   "text": "estoy",
+   "start": 9.673,
+   "end": 9.833,
+   "type": "word"
+  },
+  {
+   "text": "súper",
+   "start": 9.913,
+   "end": 10.153,
+   "type": "word"
+  },
+  {
+   "text": "feliz",
+   "start": 10.153,
+   "end": 10.553,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 10.713,
+   "end": 10.873,
+   "type": "word"
+  },
+  {
+   "text": "he",
+   "start": 11.033,
+   "end": 11.113,
+   "type": "word"
+  },
+  {
+   "text": "bajado",
+   "start": 11.113,
+   "end": 11.593,
+   "type": "word"
+  },
+  {
+   "text": "5",
+   "start": 11.593,
+   "end": 11.833,
+   "type": "word"
+  },
+  {
+   "text": "kilos",
+   "start": 11.833,
+   "end": 12.153,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 12.153,
+   "end": 12.313,
+   "type": "word"
+  },
+  {
+   "text": "dos",
+   "start": 12.313,
+   "end": 12.393,
+   "type": "word"
+  },
+  {
+   "text": "semanas,",
+   "start": 12.553,
+   "end": 12.953,
+   "type": "word"
+  },
+  {
+   "text": "5",
+   "start": 13.113,
+   "end": 13.353,
+   "type": "word"
+  },
+  {
+   "text": "kilos",
+   "start": 13.433,
+   "end": 13.593,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 13.673,
+   "end": 13.753,
+   "type": "word"
+  },
+  {
+   "text": "dos",
+   "start": 13.833,
+   "end": 13.913,
+   "type": "word"
+  },
+  {
+   "text": "semanas,",
+   "start": 13.993,
+   "end": 14.233,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 14.633,
+   "end": 14.713,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 14.713,
+   "end": 14.793,
+   "type": "word"
+  },
+  {
+   "text": "da",
+   "start": 14.793,
+   "end": 14.953,
+   "type": "word"
+  },
+  {
+   "text": "casi",
+   "start": 14.953,
+   "end": 15.113,
+   "type": "word"
+  },
+  {
+   "text": "hambre,",
+   "start": 15.273,
+   "end": 15.433,
+   "type": "word"
+  },
+  {
+   "text": "estoy",
+   "start": 15.593,
+   "end": 15.753,
+   "type": "word"
+  },
+  {
+   "text": "comiendo",
+   "start": 15.753,
+   "end": 15.993,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 15.993,
+   "end": 16.153,
+   "type": "word"
+  },
+  {
+   "text": "sola",
+   "start": 16.153,
+   "end": 16.393,
+   "type": "word"
+  },
+  {
+   "text": "vez",
+   "start": 16.393,
+   "end": 16.553,
+   "type": "word"
+  },
+  {
+   "text": "al",
+   "start": 16.553,
+   "end": 16.713,
+   "type": "word"
+  },
+  {
+   "text": "día",
+   "start": 16.713,
+   "end": 16.953,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 17.193,
+   "end": 17.433,
+   "type": "word"
+  },
+  {
+   "text": "felices.",
+   "start": 17.433,
+   "end": 17.913,
+   "type": "word"
+  },
+  {
+   "text": "Yo",
+   "start": 18.073,
+   "end": 18.233,
+   "type": "word"
+  },
+  {
+   "text": "pregunto,",
+   "start": 18.313,
+   "end": 18.553,
+   "type": "word"
+  },
+  {
+   "text": "¿estás",
+   "start": 18.713,
+   "end": 19.113,
+   "type": "word"
+  },
+  {
+   "text": "entrenando?",
+   "start": 19.113,
+   "end": 19.513,
+   "type": "word"
+  },
+  {
+   "text": "No,",
+   "start": 19.673,
+   "end": 19.833,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 20.073,
+   "end": 20.233,
+   "type": "word"
+  },
+  {
+   "text": "energía",
+   "start": 20.233,
+   "end": 20.553,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 20.553,
+   "end": 20.713,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 20.713,
+   "end": 20.793,
+   "type": "word"
+  },
+  {
+   "text": "da,",
+   "start": 20.793,
+   "end": 20.953,
+   "type": "word"
+  },
+  {
+   "text": "pues",
+   "start": 21.033,
+   "end": 21.193,
+   "type": "word"
+  },
+  {
+   "text": "obviamente",
+   "start": 21.353,
+   "end": 21.593,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 21.833,
+   "end": 21.913,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 21.913,
+   "end": 22.073,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 22.073,
+   "end": 22.233,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 22.313,
+   "end": 22.393,
+   "type": "word"
+  },
+  {
+   "text": "energía",
+   "start": 22.393,
+   "end": 22.713,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 22.713,
+   "end": 22.873,
+   "type": "word"
+  },
+  {
+   "text": "estás",
+   "start": 22.873,
+   "end": 23.033,
+   "type": "word"
+  },
+  {
+   "text": "comiendo",
+   "start": 23.033,
+   "end": 23.353,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 23.353,
+   "end": 23.513,
+   "type": "word"
+  },
+  {
+   "text": "sola",
+   "start": 23.513,
+   "end": 23.673,
+   "type": "word"
+  },
+  {
+   "text": "vez",
+   "start": 23.673,
+   "end": 23.913,
+   "type": "word"
+  },
+  {
+   "text": "al",
+   "start": 23.913,
+   "end": 24.073,
+   "type": "word"
+  },
+  {
+   "text": "día.",
+   "start": 24.073,
+   "end": 24.393,
+   "type": "word"
+  },
+  {
+   "text": "Ya",
+   "start": 24.633,
+   "end": 24.873,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 25.113,
+   "end": 25.353,
+   "type": "word"
+  },
+  {
+   "text": "pones",
+   "start": 25.513,
+   "end": 25.913,
+   "type": "word"
+  },
+  {
+   "text": "al",
+   "start": 25.913,
+   "end": 26.073,
+   "type": "word"
+  },
+  {
+   "text": "metabolismo",
+   "start": 26.073,
+   "end": 26.633,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 26.633,
+   "end": 26.793,
+   "type": "word"
+  },
+  {
+   "text": "ese",
+   "start": 26.793,
+   "end": 27.033,
+   "type": "word"
+  },
+  {
+   "text": "estrés",
+   "start": 27.033,
+   "end": 27.353,
+   "type": "word"
+  },
+  {
+   "text": "tan",
+   "start": 27.353,
+   "end": 27.593,
+   "type": "word"
+  },
+  {
+   "text": "severo,",
+   "start": 27.593,
+   "end": 27.833,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 28.073,
+   "end": 28.233,
+   "type": "word"
+  },
+  {
+   "text": "vas",
+   "start": 28.233,
+   "end": 28.473,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 28.473,
+   "end": 28.553,
+   "type": "word"
+  },
+  {
+   "text": "dormir",
+   "start": 28.553,
+   "end": 28.953,
+   "type": "word"
+  },
+  {
+   "text": "bien,",
+   "start": 28.953,
+   "end": 29.273,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 29.513,
+   "end": 29.673,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 29.673,
+   "end": 29.833,
+   "type": "word"
+  },
+  {
+   "text": "vas",
+   "start": 29.833,
+   "end": 29.993,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 29.993,
+   "end": 30.153,
+   "type": "word"
+  },
+  {
+   "text": "recuperar",
+   "start": 30.153,
+   "end": 30.713,
+   "type": "word"
+  },
+  {
+   "text": "bien,",
+   "start": 30.713,
+   "end": 31.033,
+   "type": "word"
+  },
+  {
+   "text": "vas",
+   "start": 31.353,
+   "end": 31.593,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 31.593,
+   "end": 31.753,
+   "type": "word"
+  },
+  {
+   "text": "perder",
+   "start": 31.753,
+   "end": 32.073,
+   "type": "word"
+  },
+  {
+   "text": "músculo.",
+   "start": 32.073,
+   "end": 32.473,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 32.803,
+   "end": 32.963,
+   "type": "word"
+  },
+  {
+   "text": "al",
+   "start": 32.963,
+   "end": 33.043,
+   "type": "word"
+  },
+  {
+   "text": "final",
+   "start": 33.043,
+   "end": 33.123,
+   "type": "word"
+  },
+  {
+   "text": "cuando",
+   "start": 33.283,
+   "end": 33.363,
+   "type": "word"
+  },
+  {
+   "text": "suspendas",
+   "start": 33.523,
+   "end": 34.163,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 34.163,
+   "end": 34.243,
+   "type": "word"
+  },
+  {
+   "text": "medicamento",
+   "start": 34.243,
+   "end": 34.723,
+   "type": "word"
+  },
+  {
+   "text": "vas",
+   "start": 35.043,
+   "end": 35.283,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 35.283,
+   "end": 35.363,
+   "type": "word"
+  },
+  {
+   "text": "quedar",
+   "start": 35.363,
+   "end": 35.763,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 35.763,
+   "end": 35.923,
+   "type": "word"
+  },
+  {
+   "text": "menos",
+   "start": 35.923,
+   "end": 36.243,
+   "type": "word"
+  },
+  {
+   "text": "músculo,",
+   "start": 36.243,
+   "end": 36.723,
+   "type": "word"
+  },
+  {
+   "text": "ya.",
+   "start": 36.883,
+   "end": 36.963,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 37.443,
+   "end": 37.683,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 37.683,
+   "end": 37.843,
+   "type": "word"
+  },
+  {
+   "text": "músculo",
+   "start": 37.843,
+   "end": 38.323,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 38.323,
+   "end": 38.483,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 38.483,
+   "end": 38.723,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 38.723,
+   "end": 38.883,
+   "type": "word"
+  },
+  {
+   "text": "esponjita.",
+   "start": 38.883,
+   "end": 39.603,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-07c.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-07/src/podcast-07c.mp4",
+  "size": 54300608,
+  "mtime_ns": 1793309923016767717
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1782.967,
+  "end": 1822.933
+ }
+}

@@ -1,0 +1,434 @@
+{
+ "language_code": "es",
+ "text": "en el mercado. Entonces ahí pueden evaluar. Y recientemente, esta semana, The Lancet, que es una revista pues muy reconocida en el mundo de la medicina, montó los resultados de este estudio que se llama El Try and Tres. Y demostró que en pacientes o esos y con diabetes podrían perder hasta un 20% de su peso con la dosis máxima. Increíble, o sea, eso fue apenas ahorita, esta",
+ "words": [
+  {
+   "text": "en",
+   "start": 0.05,
+   "end": 0.21,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 0.21,
+   "end": 0.29,
+   "type": "word"
+  },
+  {
+   "text": "mercado.",
+   "start": 0.29,
+   "end": 0.61,
+   "type": "word"
+  },
+  {
+   "text": "Entonces",
+   "start": 1.41,
+   "end": 1.65,
+   "type": "word"
+  },
+  {
+   "text": "ahí",
+   "start": 1.65,
+   "end": 1.89,
+   "type": "word"
+  },
+  {
+   "text": "pueden",
+   "start": 1.89,
+   "end": 2.21,
+   "type": "word"
+  },
+  {
+   "text": "evaluar.",
+   "start": 2.21,
+   "end": 2.85,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 3.01,
+   "end": 3.33,
+   "type": "word"
+  },
+  {
+   "text": "recientemente,",
+   "start": 3.33,
+   "end": 3.89,
+   "type": "word"
+  },
+  {
+   "text": "esta",
+   "start": 3.97,
+   "end": 4.21,
+   "type": "word"
+  },
+  {
+   "text": "semana,",
+   "start": 4.21,
+   "end": 4.37,
+   "type": "word"
+  },
+  {
+   "text": "The",
+   "start": 4.53,
+   "end": 4.69,
+   "type": "word"
+  },
+  {
+   "text": "Lancet,",
+   "start": 4.77,
+   "end": 5.17,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 5.33,
+   "end": 5.49,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 5.49,
+   "end": 5.57,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 5.57,
+   "end": 5.73,
+   "type": "word"
+  },
+  {
+   "text": "revista",
+   "start": 5.73,
+   "end": 6.21,
+   "type": "word"
+  },
+  {
+   "text": "pues",
+   "start": 6.21,
+   "end": 6.45,
+   "type": "word"
+  },
+  {
+   "text": "muy",
+   "start": 6.45,
+   "end": 6.61,
+   "type": "word"
+  },
+  {
+   "text": "reconocida",
+   "start": 6.61,
+   "end": 7.17,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 7.17,
+   "end": 7.33,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 7.33,
+   "end": 7.41,
+   "type": "word"
+  },
+  {
+   "text": "mundo",
+   "start": 7.41,
+   "end": 7.57,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 7.65,
+   "end": 7.73,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 7.73,
+   "end": 7.89,
+   "type": "word"
+  },
+  {
+   "text": "medicina,",
+   "start": 7.89,
+   "end": 8.21,
+   "type": "word"
+  },
+  {
+   "text": "montó",
+   "start": 8.69,
+   "end": 9.25,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 9.25,
+   "end": 9.41,
+   "type": "word"
+  },
+  {
+   "text": "resultados",
+   "start": 9.41,
+   "end": 9.97,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 10.37,
+   "end": 10.53,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 10.53,
+   "end": 10.69,
+   "type": "word"
+  },
+  {
+   "text": "estudio",
+   "start": 10.69,
+   "end": 11.01,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 11.01,
+   "end": 11.09,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 11.09,
+   "end": 11.17,
+   "type": "word"
+  },
+  {
+   "text": "llama",
+   "start": 11.17,
+   "end": 11.41,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 11.41,
+   "end": 11.57,
+   "type": "word"
+  },
+  {
+   "text": "Try",
+   "start": 11.57,
+   "end": 11.73,
+   "type": "word"
+  },
+  {
+   "text": "and",
+   "start": 11.81,
+   "end": 11.89,
+   "type": "word"
+  },
+  {
+   "text": "Tres.",
+   "start": 12.05,
+   "end": 12.29,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 12.52,
+   "end": 12.76,
+   "type": "word"
+  },
+  {
+   "text": "demostró",
+   "start": 12.76,
+   "end": 13.24,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 13.32,
+   "end": 13.48,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 13.48,
+   "end": 13.56,
+   "type": "word"
+  },
+  {
+   "text": "pacientes",
+   "start": 13.56,
+   "end": 13.88,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 13.88,
+   "end": 14.04,
+   "type": "word"
+  },
+  {
+   "text": "esos",
+   "start": 14.2,
+   "end": 14.36,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 14.44,
+   "end": 14.52,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 14.52,
+   "end": 14.68,
+   "type": "word"
+  },
+  {
+   "text": "diabetes",
+   "start": 14.68,
+   "end": 15.24,
+   "type": "word"
+  },
+  {
+   "text": "podrían",
+   "start": 15.24,
+   "end": 15.56,
+   "type": "word"
+  },
+  {
+   "text": "perder",
+   "start": 15.56,
+   "end": 15.8,
+   "type": "word"
+  },
+  {
+   "text": "hasta",
+   "start": 15.8,
+   "end": 16.04,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 16.04,
+   "end": 16.12,
+   "type": "word"
+  },
+  {
+   "text": "20%",
+   "start": 16.12,
+   "end": 16.44,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 16.76,
+   "end": 16.84,
+   "type": "word"
+  },
+  {
+   "text": "su",
+   "start": 16.84,
+   "end": 17.0,
+   "type": "word"
+  },
+  {
+   "text": "peso",
+   "start": 17.0,
+   "end": 17.32,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 17.56,
+   "end": 17.72,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 17.8,
+   "end": 17.96,
+   "type": "word"
+  },
+  {
+   "text": "dosis",
+   "start": 17.96,
+   "end": 18.36,
+   "type": "word"
+  },
+  {
+   "text": "máxima.",
+   "start": 18.36,
+   "end": 18.92,
+   "type": "word"
+  },
+  {
+   "text": "Increíble,",
+   "start": 19.16,
+   "end": 19.72,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 19.8,
+   "end": 19.88,
+   "type": "word"
+  },
+  {
+   "text": "sea,",
+   "start": 19.88,
+   "end": 20.04,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 20.04,
+   "end": 20.2,
+   "type": "word"
+  },
+  {
+   "text": "fue",
+   "start": 20.28,
+   "end": 20.6,
+   "type": "word"
+  },
+  {
+   "text": "apenas",
+   "start": 20.6,
+   "end": 20.92,
+   "type": "word"
+  },
+  {
+   "text": "ahorita,",
+   "start": 21.0,
+   "end": 21.32,
+   "type": "word"
+  },
+  {
+   "text": "esta",
+   "start": 21.48,
+   "end": 21.64,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-03a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-03/src/podcast-03a.mp4",
+  "size": 28467725,
+  "mtime_ns": 1793309620588756902
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 628.9,
+  "end": 650.833
+ }
+}

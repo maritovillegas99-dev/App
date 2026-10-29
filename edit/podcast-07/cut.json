@@ -1,0 +1,65 @@
+{
+ "fps": 30,
+ "sources": {
+  "a": {
+   "file": "edit/podcast-07/src/podcast-07a.mp4",
+   "transcript": "edit/podcast-07/transcripts/podcast-07a.json"
+  },
+  "b": {
+   "file": "edit/podcast-07/src/podcast-07b.mp4",
+   "transcript": "edit/podcast-07/transcripts/podcast-07b.json"
+  },
+  "c": {
+   "file": "edit/podcast-07/src/podcast-07c.mp4",
+   "transcript": "edit/podcast-07/transcripts/podcast-07c.json"
+  }
+ },
+ "ranges": [
+  {
+   "start": 2.54,
+   "end": 7.467,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 7.967,
+   "end": 8.933,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 3.067,
+   "end": 9.3,
+   "beat": "piece b",
+   "source": "b"
+  },
+  {
+   "start": 3.1,
+   "end": 5.867,
+   "beat": "piece c",
+   "source": "c"
+  },
+  {
+   "start": 6.067,
+   "end": 24.333,
+   "beat": "piece c",
+   "source": "c"
+  },
+  {
+   "start": 24.6,
+   "end": 36.72,
+   "beat": "piece c",
+   "source": "c"
+  }
+ ],
+ "look": {
+  "correct": "colorchannelmixer=rr=0.98:bb=1.01"
+ },
+ "balance": {
+  "look": "[null, null, null, \"\"]",
+  "sources": "{\"scale\": \"auto\", \"sources\": {\"a\": {\"file\": \"edit/podcast-07/src/podcast-07a.mp4\", \"transcript\": \"edit/podcast-07/transcripts/podcast-07a.json\"}, \"b\": {\"file\": \"edit/podcast-07/src/podcast-07b.mp4\", \"transcript\": \"edit/podcast-07/transcripts/podcast-07b.json\"}, \"c\": {\"file\": \"edit/podcast-07/src/podcast-07c.mp4\", \"transcript\": \"edit/podcast-07/transcripts/podcast-07c.json\"}}}",
+  "ranges": "[[\"a\", 2.54, 7.467], [\"a\", 7.967, 8.933], [\"b\", 3.067, 9.3], [\"c\", 3.1, 5.867], [\"c\", 6.067, 24.333], [\"c\", 24.6, 36.72]]",
+  "mode": "auto",
+  "result": "written"
+ }
+}

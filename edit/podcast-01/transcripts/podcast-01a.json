@@ -1,0 +1,1220 @@
+{
+ "language_code": "es",
+ "text": "que hace un péptido único su función. El péptido es como un mensajero. Haz de cuenta que es como que alguien llegue a una casa, toca una puerta y pida que en la casa se haga X o Y cosas. Eso hacen los péptidos, dan información. Pero lo más importante con este tema de los péptidos es que nadie puede entregar un mensaje si la otra persona no está dispuesta a escucharla. Y esto es lo que no va a hacer el entrenador, esto es lo que no va a hacer tu amiga que te vende péptidos, o el de la cafetería que estarán viendo pépidos. Porque para que un péptido funcione, el cuerpo tiene que estar... bien. Un péptido no va a funcionar bien en una persona que está inflamada, una persona que tiene un estrés acumulado, que no duerme bien, que no come bien, que tiene disbalances de ciertos nutrientes. Entonces, sí, los péptidos funcionan. Hay unos que tienen más estudios que otros, hay unos que tienen estudios en humanos, otros que tienen solo estudios en ratones o en células, pero sí también funcionan sobre el terreno limpio. Por eso es que mucha gente, porque he visto los",
+ "words": [
+  {
+   "text": "que",
+   "start": 0.04,
+   "end": 0.2,
+   "type": "word"
+  },
+  {
+   "text": "hace",
+   "start": 0.2,
+   "end": 0.6,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 0.6,
+   "end": 0.84,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 0.84,
+   "end": 1.56,
+   "type": "word"
+  },
+  {
+   "text": "único",
+   "start": 1.56,
+   "end": 2.04,
+   "type": "word"
+  },
+  {
+   "text": "su",
+   "start": 2.12,
+   "end": 2.36,
+   "type": "word"
+  },
+  {
+   "text": "función.",
+   "start": 2.36,
+   "end": 2.76,
+   "type": "word"
+  },
+  {
+   "text": "El",
+   "start": 3.0,
+   "end": 3.16,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 3.16,
+   "end": 3.8,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 3.8,
+   "end": 3.88,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 3.88,
+   "end": 4.04,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 4.04,
+   "end": 4.2,
+   "type": "word"
+  },
+  {
+   "text": "mensajero.",
+   "start": 4.2,
+   "end": 4.76,
+   "type": "word"
+  },
+  {
+   "text": "Haz",
+   "start": 4.84,
+   "end": 5.08,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 5.16,
+   "end": 5.32,
+   "type": "word"
+  },
+  {
+   "text": "cuenta",
+   "start": 5.32,
+   "end": 5.64,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 5.64,
+   "end": 5.72,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 5.72,
+   "end": 5.88,
+   "type": "word"
+  },
+  {
+   "text": "como",
+   "start": 5.88,
+   "end": 6.12,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 6.12,
+   "end": 6.28,
+   "type": "word"
+  },
+  {
+   "text": "alguien",
+   "start": 6.28,
+   "end": 6.6,
+   "type": "word"
+  },
+  {
+   "text": "llegue",
+   "start": 6.6,
+   "end": 7.0,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 7.0,
+   "end": 7.16,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 7.16,
+   "end": 7.32,
+   "type": "word"
+  },
+  {
+   "text": "casa,",
+   "start": 7.32,
+   "end": 7.56,
+   "type": "word"
+  },
+  {
+   "text": "toca",
+   "start": 7.72,
+   "end": 8.12,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 8.2,
+   "end": 8.36,
+   "type": "word"
+  },
+  {
+   "text": "puerta",
+   "start": 8.36,
+   "end": 8.76,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 8.76,
+   "end": 8.92,
+   "type": "word"
+  },
+  {
+   "text": "pida",
+   "start": 8.92,
+   "end": 9.48,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 9.48,
+   "end": 9.8,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 10.04,
+   "end": 10.28,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 10.28,
+   "end": 10.36,
+   "type": "word"
+  },
+  {
+   "text": "casa",
+   "start": 10.36,
+   "end": 10.68,
+   "type": "word"
+  },
+  {
+   "text": "se",
+   "start": 10.68,
+   "end": 10.84,
+   "type": "word"
+  },
+  {
+   "text": "haga",
+   "start": 10.84,
+   "end": 11.16,
+   "type": "word"
+  },
+  {
+   "text": "X",
+   "start": 11.16,
+   "end": 11.4,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 11.48,
+   "end": 11.56,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 11.64,
+   "end": 11.88,
+   "type": "word"
+  },
+  {
+   "text": "cosas.",
+   "start": 11.96,
+   "end": 12.12,
+   "type": "word"
+  },
+  {
+   "text": "Eso",
+   "start": 12.27,
+   "end": 12.59,
+   "type": "word"
+  },
+  {
+   "text": "hacen",
+   "start": 12.59,
+   "end": 12.83,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 12.83,
+   "end": 12.99,
+   "type": "word"
+  },
+  {
+   "text": "péptidos,",
+   "start": 12.99,
+   "end": 13.39,
+   "type": "word"
+  },
+  {
+   "text": "dan",
+   "start": 13.55,
+   "end": 13.71,
+   "type": "word"
+  },
+  {
+   "text": "información.",
+   "start": 13.87,
+   "end": 14.51,
+   "type": "word"
+  },
+  {
+   "text": "Pero",
+   "start": 14.75,
+   "end": 15.07,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 15.07,
+   "end": 15.23,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 15.23,
+   "end": 15.55,
+   "type": "word"
+  },
+  {
+   "text": "importante",
+   "start": 15.55,
+   "end": 15.87,
+   "type": "word"
+  },
+  {
+   "text": "con",
+   "start": 15.95,
+   "end": 16.19,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 16.19,
+   "end": 16.43,
+   "type": "word"
+  },
+  {
+   "text": "tema",
+   "start": 16.43,
+   "end": 16.67,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 16.67,
+   "end": 16.75,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 16.75,
+   "end": 16.99,
+   "type": "word"
+  },
+  {
+   "text": "péptidos",
+   "start": 16.99,
+   "end": 17.71,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 18.11,
+   "end": 18.43,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 18.43,
+   "end": 18.75,
+   "type": "word"
+  },
+  {
+   "text": "nadie",
+   "start": 18.91,
+   "end": 19.31,
+   "type": "word"
+  },
+  {
+   "text": "puede",
+   "start": 19.31,
+   "end": 19.47,
+   "type": "word"
+  },
+  {
+   "text": "entregar",
+   "start": 19.63,
+   "end": 20.11,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 20.11,
+   "end": 20.19,
+   "type": "word"
+  },
+  {
+   "text": "mensaje",
+   "start": 20.19,
+   "end": 20.67,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 20.67,
+   "end": 20.83,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 20.83,
+   "end": 20.99,
+   "type": "word"
+  },
+  {
+   "text": "otra",
+   "start": 20.99,
+   "end": 21.23,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 21.23,
+   "end": 21.63,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 21.63,
+   "end": 21.87,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 21.87,
+   "end": 22.11,
+   "type": "word"
+  },
+  {
+   "text": "dispuesta",
+   "start": 22.11,
+   "end": 22.59,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 22.59,
+   "end": 22.75,
+   "type": "word"
+  },
+  {
+   "text": "escucharla.",
+   "start": 22.75,
+   "end": 23.31,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 23.63,
+   "end": 23.87,
+   "type": "word"
+  },
+  {
+   "text": "esto",
+   "start": 23.87,
+   "end": 24.19,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 24.19,
+   "end": 24.35,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 24.35,
+   "end": 24.51,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 24.51,
+   "end": 24.75,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 24.75,
+   "end": 24.99,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 24.99,
+   "end": 25.07,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 25.07,
+   "end": 25.15,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 25.15,
+   "end": 25.31,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 25.79,
+   "end": 26.11,
+   "type": "word"
+  },
+  {
+   "text": "entrenador,",
+   "start": 26.11,
+   "end": 26.75,
+   "type": "word"
+  },
+  {
+   "text": "esto",
+   "start": 26.99,
+   "end": 27.23,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 27.23,
+   "end": 27.31,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 27.31,
+   "end": 27.39,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 27.39,
+   "end": 27.55,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 27.55,
+   "end": 27.71,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 27.71,
+   "end": 27.79,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 27.79,
+   "end": 27.87,
+   "type": "word"
+  },
+  {
+   "text": "hacer",
+   "start": 27.95,
+   "end": 28.19,
+   "type": "word"
+  },
+  {
+   "text": "tu",
+   "start": 28.19,
+   "end": 28.35,
+   "type": "word"
+  },
+  {
+   "text": "amiga",
+   "start": 28.35,
+   "end": 28.67,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 28.67,
+   "end": 28.75,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 28.75,
+   "end": 28.91,
+   "type": "word"
+  },
+  {
+   "text": "vende",
+   "start": 28.91,
+   "end": 29.23,
+   "type": "word"
+  },
+  {
+   "text": "péptidos,",
+   "start": 29.23,
+   "end": 29.79,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 29.95,
+   "end": 30.11,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 30.11,
+   "end": 30.27,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 30.27,
+   "end": 30.43,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 30.43,
+   "end": 30.51,
+   "type": "word"
+  },
+  {
+   "text": "cafetería",
+   "start": 30.51,
+   "end": 30.99,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 30.99,
+   "end": 31.07,
+   "type": "word"
+  },
+  {
+   "text": "estarán",
+   "start": 31.07,
+   "end": 31.39,
+   "type": "word"
+  },
+  {
+   "text": "viendo",
+   "start": 31.39,
+   "end": 31.55,
+   "type": "word"
+  },
+  {
+   "text": "pépidos.",
+   "start": 31.63,
+   "end": 32.03,
+   "type": "word"
+  },
+  {
+   "text": "Porque",
+   "start": 32.11,
+   "end": 32.35,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 32.35,
+   "end": 32.51,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 32.51,
+   "end": 32.67,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 32.67,
+   "end": 32.75,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 32.75,
+   "end": 33.31,
+   "type": "word"
+  },
+  {
+   "text": "funcione,",
+   "start": 33.31,
+   "end": 33.71,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 33.87,
+   "end": 34.03,
+   "type": "word"
+  },
+  {
+   "text": "cuerpo",
+   "start": 34.03,
+   "end": 34.35,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 34.35,
+   "end": 34.59,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 34.59,
+   "end": 34.83,
+   "type": "word"
+  },
+  {
+   "text": "estar...",
+   "start": 34.83,
+   "end": 34.99,
+   "type": "word"
+  },
+  {
+   "text": "bien.",
+   "start": 35.34,
+   "end": 35.5,
+   "type": "word"
+  },
+  {
+   "text": "Un",
+   "start": 35.82,
+   "end": 35.98,
+   "type": "word"
+  },
+  {
+   "text": "péptido",
+   "start": 35.98,
+   "end": 36.62,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 36.62,
+   "end": 36.7,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 36.7,
+   "end": 36.78,
+   "type": "word"
+  },
+  {
+   "text": "a",
+   "start": 36.78,
+   "end": 36.86,
+   "type": "word"
+  },
+  {
+   "text": "funcionar",
+   "start": 36.86,
+   "end": 37.18,
+   "type": "word"
+  },
+  {
+   "text": "bien",
+   "start": 37.18,
+   "end": 37.26,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 37.42,
+   "end": 37.58,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 37.58,
+   "end": 37.74,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 37.74,
+   "end": 37.98,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 37.98,
+   "end": 38.14,
+   "type": "word"
+  },
+  {
+   "text": "está",
+   "start": 38.14,
+   "end": 38.38,
+   "type": "word"
+  },
+  {
+   "text": "inflamada,",
+   "start": 38.38,
+   "end": 39.02,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 39.18,
+   "end": 39.34,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 39.34,
+   "end": 39.66,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 39.66,
+   "end": 39.82,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 39.82,
+   "end": 40.06,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 40.06,
+   "end": 40.22,
+   "type": "word"
+  },
+  {
+   "text": "estrés",
+   "start": 40.22,
+   "end": 40.62,
+   "type": "word"
+  },
+  {
+   "text": "acumulado,",
+   "start": 40.62,
+   "end": 41.1,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 41.18,
+   "end": 41.34,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 41.34,
+   "end": 41.42,
+   "type": "word"
+  },
+  {
+   "text": "duerme",
+   "start": 41.42,
+   "end": 41.9,
+   "type": "word"
+  },
+  {
+   "text": "bien,",
+   "start": 41.9,
+   "end": 42.14,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 42.3,
+   "end": 42.54,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 42.54,
+   "end": 42.7,
+   "type": "word"
+  },
+  {
+   "text": "come",
+   "start": 42.7,
+   "end": 43.02,
+   "type": "word"
+  },
+  {
+   "text": "bien,",
+   "start": 43.18,
+   "end": 43.5,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 43.66,
+   "end": 43.9,
+   "type": "word"
+  },
+  {
+   "text": "tiene",
+   "start": 43.9,
+   "end": 44.14,
+   "type": "word"
+  },
+  {
+   "text": "disbalances",
+   "start": 44.38,
+   "end": 45.18,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 45.18,
+   "end": 45.34,
+   "type": "word"
+  },
+  {
+   "text": "ciertos",
+   "start": 45.34,
+   "end": 45.66,
+   "type": "word"
+  },
+  {
+   "text": "nutrientes.",
+   "start": 45.66,
+   "end": 46.22,
+   "type": "word"
+  },
+  {
+   "text": "Entonces,",
+   "start": 46.38,
+   "end": 47.02,
+   "type": "word"
+  },
+  {
+   "text": "sí,",
+   "start": 47.26,
+   "end": 47.5,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 47.66,
+   "end": 47.9,
+   "type": "word"
+  },
+  {
+   "text": "péptidos",
+   "start": 47.9,
+   "end": 48.54,
+   "type": "word"
+  },
+  {
+   "text": "funcionan.",
+   "start": 48.62,
+   "end": 49.02,
+   "type": "word"
+  },
+  {
+   "text": "Hay",
+   "start": 49.18,
+   "end": 49.42,
+   "type": "word"
+  },
+  {
+   "text": "unos",
+   "start": 49.42,
+   "end": 49.66,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 49.66,
+   "end": 49.82,
+   "type": "word"
+  },
+  {
+   "text": "tienen",
+   "start": 49.82,
+   "end": 50.14,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 50.14,
+   "end": 50.3,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 50.3,
+   "end": 50.7,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 50.7,
+   "end": 50.86,
+   "type": "word"
+  },
+  {
+   "text": "otros,",
+   "start": 50.86,
+   "end": 51.1,
+   "type": "word"
+  },
+  {
+   "text": "hay",
+   "start": 51.26,
+   "end": 51.42,
+   "type": "word"
+  },
+  {
+   "text": "unos",
+   "start": 51.42,
+   "end": 51.58,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 51.58,
+   "end": 51.74,
+   "type": "word"
+  },
+  {
+   "text": "tienen",
+   "start": 51.74,
+   "end": 51.98,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 51.98,
+   "end": 52.38,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 52.38,
+   "end": 52.54,
+   "type": "word"
+  },
+  {
+   "text": "humanos,",
+   "start": 52.54,
+   "end": 52.94,
+   "type": "word"
+  },
+  {
+   "text": "otros",
+   "start": 53.1,
+   "end": 53.34,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 53.34,
+   "end": 53.5,
+   "type": "word"
+  },
+  {
+   "text": "tienen",
+   "start": 53.5,
+   "end": 53.74,
+   "type": "word"
+  },
+  {
+   "text": "solo",
+   "start": 53.74,
+   "end": 53.9,
+   "type": "word"
+  },
+  {
+   "text": "estudios",
+   "start": 53.98,
+   "end": 54.38,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 54.38,
+   "end": 54.54,
+   "type": "word"
+  },
+  {
+   "text": "ratones",
+   "start": 54.54,
+   "end": 55.02,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 55.02,
+   "end": 55.18,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 55.18,
+   "end": 55.34,
+   "type": "word"
+  },
+  {
+   "text": "células,",
+   "start": 55.34,
+   "end": 55.9,
+   "type": "word"
+  },
+  {
+   "text": "pero",
+   "start": 56.06,
+   "end": 56.3,
+   "type": "word"
+  },
+  {
+   "text": "sí",
+   "start": 56.3,
+   "end": 56.54,
+   "type": "word"
+  },
+  {
+   "text": "también",
+   "start": 56.54,
+   "end": 56.7,
+   "type": "word"
+  },
+  {
+   "text": "funcionan",
+   "start": 56.94,
+   "end": 57.34,
+   "type": "word"
+  },
+  {
+   "text": "sobre",
+   "start": 57.34,
+   "end": 57.5,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 57.5,
+   "end": 57.58,
+   "type": "word"
+  },
+  {
+   "text": "terreno",
+   "start": 57.66,
+   "end": 58.06,
+   "type": "word"
+  },
+  {
+   "text": "limpio.",
+   "start": 58.06,
+   "end": 58.7,
+   "type": "word"
+  },
+  {
+   "text": "Por",
+   "start": 59.31,
+   "end": 59.63,
+   "type": "word"
+  },
+  {
+   "text": "eso",
+   "start": 59.63,
+   "end": 59.79,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 59.79,
+   "end": 59.95,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 59.95,
+   "end": 60.19,
+   "type": "word"
+  },
+  {
+   "text": "mucha",
+   "start": 60.19,
+   "end": 60.43,
+   "type": "word"
+  },
+  {
+   "text": "gente,",
+   "start": 60.43,
+   "end": 60.67,
+   "type": "word"
+  },
+  {
+   "text": "porque",
+   "start": 60.75,
+   "end": 60.99,
+   "type": "word"
+  },
+  {
+   "text": "he",
+   "start": 60.99,
+   "end": 61.15,
+   "type": "word"
+  },
+  {
+   "text": "visto",
+   "start": 61.15,
+   "end": 61.47,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 61.47,
+   "end": 61.55,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-01a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-01/src/podcast-01a.mp4",
+  "size": 80162532,
+  "mtime_ns": 1793309533596753790
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 147.7,
+  "end": 209.4
+ }
+}

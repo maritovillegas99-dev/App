@@ -1,0 +1,794 @@
+{
+ "language_code": "es",
+ "text": "dime dime tres cosas o cuáles son esas tres cosas que tu jamás harías en este mundo de los pectivos bueno certificamiento más muscular jamás sacrificaría mi masa muscular por perder peso o por verme degada extrema. Jamás compraría un partido de goosa procedencia que no tenga COA, que no tenga certificados de análisis y que yo no haya podido verificar si es puro o no. Y otra cosa que jamás haría es tomar consejos de un entrenador o de una persona que no sepa nada en medicina, o tomar consejos de una persona que no ha hecho un abordaje completo, que no te ha hecho una historia clínica completa, que no te ha enviado exámenes médicos si estás bien y si eres apto para ponerte tus pectitos. Mitch,",
+ "words": [
+  {
+   "text": "dime",
+   "start": 0.937,
+   "end": 1.337,
+   "type": "word"
+  },
+  {
+   "text": "dime",
+   "start": 3.017,
+   "end": 3.497,
+   "type": "word"
+  },
+  {
+   "text": "tres",
+   "start": 3.577,
+   "end": 3.977,
+   "type": "word"
+  },
+  {
+   "text": "cosas",
+   "start": 3.977,
+   "end": 4.297,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 4.617,
+   "end": 4.777,
+   "type": "word"
+  },
+  {
+   "text": "cuáles",
+   "start": 4.937,
+   "end": 5.257,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 5.257,
+   "end": 5.417,
+   "type": "word"
+  },
+  {
+   "text": "esas",
+   "start": 5.417,
+   "end": 5.657,
+   "type": "word"
+  },
+  {
+   "text": "tres",
+   "start": 5.977,
+   "end": 6.217,
+   "type": "word"
+  },
+  {
+   "text": "cosas",
+   "start": 6.217,
+   "end": 6.377,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 6.457,
+   "end": 6.537,
+   "type": "word"
+  },
+  {
+   "text": "tu",
+   "start": 6.537,
+   "end": 6.697,
+   "type": "word"
+  },
+  {
+   "text": "jamás",
+   "start": 6.697,
+   "end": 7.017,
+   "type": "word"
+  },
+  {
+   "text": "harías",
+   "start": 7.017,
+   "end": 7.497,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 7.497,
+   "end": 7.657,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 7.657,
+   "end": 7.817,
+   "type": "word"
+  },
+  {
+   "text": "mundo",
+   "start": 7.817,
+   "end": 7.977,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 7.977,
+   "end": 8.057,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 8.057,
+   "end": 8.217,
+   "type": "word"
+  },
+  {
+   "text": "pectivos",
+   "start": 8.217,
+   "end": 9.097,
+   "type": "word"
+  },
+  {
+   "text": "bueno",
+   "start": 9.977,
+   "end": 10.617,
+   "type": "word"
+  },
+  {
+   "text": "certificamiento",
+   "start": 11.737,
+   "end": 12.457,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 12.537,
+   "end": 12.617,
+   "type": "word"
+  },
+  {
+   "text": "muscular",
+   "start": 12.777,
+   "end": 13.257,
+   "type": "word"
+  },
+  {
+   "text": "jamás",
+   "start": 13.527,
+   "end": 13.847,
+   "type": "word"
+  },
+  {
+   "text": "sacrificaría",
+   "start": 13.847,
+   "end": 14.487,
+   "type": "word"
+  },
+  {
+   "text": "mi",
+   "start": 14.487,
+   "end": 14.647,
+   "type": "word"
+  },
+  {
+   "text": "masa",
+   "start": 14.647,
+   "end": 14.887,
+   "type": "word"
+  },
+  {
+   "text": "muscular",
+   "start": 14.887,
+   "end": 15.447,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 15.447,
+   "end": 15.607,
+   "type": "word"
+  },
+  {
+   "text": "perder",
+   "start": 15.607,
+   "end": 16.007,
+   "type": "word"
+  },
+  {
+   "text": "peso",
+   "start": 16.007,
+   "end": 16.327,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 16.327,
+   "end": 16.487,
+   "type": "word"
+  },
+  {
+   "text": "por",
+   "start": 16.487,
+   "end": 16.647,
+   "type": "word"
+  },
+  {
+   "text": "verme",
+   "start": 16.647,
+   "end": 17.287,
+   "type": "word"
+  },
+  {
+   "text": "degada",
+   "start": 17.767,
+   "end": 18.567,
+   "type": "word"
+  },
+  {
+   "text": "extrema.",
+   "start": 18.567,
+   "end": 19.287,
+   "type": "word"
+  },
+  {
+   "text": "Jamás",
+   "start": 20.567,
+   "end": 21.127,
+   "type": "word"
+  },
+  {
+   "text": "compraría",
+   "start": 21.127,
+   "end": 21.687,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 21.687,
+   "end": 21.847,
+   "type": "word"
+  },
+  {
+   "text": "partido",
+   "start": 21.847,
+   "end": 22.247,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 22.327,
+   "end": 22.407,
+   "type": "word"
+  },
+  {
+   "text": "goosa",
+   "start": 22.647,
+   "end": 22.887,
+   "type": "word"
+  },
+  {
+   "text": "procedencia",
+   "start": 23.047,
+   "end": 23.607,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 23.607,
+   "end": 23.767,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 23.767,
+   "end": 23.847,
+   "type": "word"
+  },
+  {
+   "text": "tenga",
+   "start": 23.847,
+   "end": 24.087,
+   "type": "word"
+  },
+  {
+   "text": "COA,",
+   "start": 24.087,
+   "end": 24.567,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 24.887,
+   "end": 25.127,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 25.127,
+   "end": 25.287,
+   "type": "word"
+  },
+  {
+   "text": "tenga",
+   "start": 25.287,
+   "end": 25.607,
+   "type": "word"
+  },
+  {
+   "text": "certificados",
+   "start": 25.607,
+   "end": 26.167,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 26.167,
+   "end": 26.247,
+   "type": "word"
+  },
+  {
+   "text": "análisis",
+   "start": 26.247,
+   "end": 26.647,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 26.727,
+   "end": 26.807,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 26.807,
+   "end": 26.967,
+   "type": "word"
+  },
+  {
+   "text": "yo",
+   "start": 26.967,
+   "end": 27.047,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 27.047,
+   "end": 27.207,
+   "type": "word"
+  },
+  {
+   "text": "haya",
+   "start": 27.207,
+   "end": 27.367,
+   "type": "word"
+  },
+  {
+   "text": "podido",
+   "start": 27.847,
+   "end": 28.087,
+   "type": "word"
+  },
+  {
+   "text": "verificar",
+   "start": 28.167,
+   "end": 28.727,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 28.727,
+   "end": 28.967,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 28.967,
+   "end": 29.127,
+   "type": "word"
+  },
+  {
+   "text": "puro",
+   "start": 29.127,
+   "end": 29.607,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 29.607,
+   "end": 29.767,
+   "type": "word"
+  },
+  {
+   "text": "no.",
+   "start": 29.767,
+   "end": 30.087,
+   "type": "word"
+  },
+  {
+   "text": "Y",
+   "start": 30.727,
+   "end": 31.047,
+   "type": "word"
+  },
+  {
+   "text": "otra",
+   "start": 31.047,
+   "end": 31.367,
+   "type": "word"
+  },
+  {
+   "text": "cosa",
+   "start": 31.367,
+   "end": 31.607,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 31.607,
+   "end": 31.767,
+   "type": "word"
+  },
+  {
+   "text": "jamás",
+   "start": 31.767,
+   "end": 32.167,
+   "type": "word"
+  },
+  {
+   "text": "haría",
+   "start": 32.167,
+   "end": 32.647,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 32.967,
+   "end": 33.287,
+   "type": "word"
+  },
+  {
+   "text": "tomar",
+   "start": 33.607,
+   "end": 34.167,
+   "type": "word"
+  },
+  {
+   "text": "consejos",
+   "start": 34.167,
+   "end": 34.727,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 34.887,
+   "end": 35.047,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 35.047,
+   "end": 35.287,
+   "type": "word"
+  },
+  {
+   "text": "entrenador",
+   "start": 35.287,
+   "end": 35.767,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 35.847,
+   "end": 36.007,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 36.007,
+   "end": 36.087,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 36.087,
+   "end": 36.247,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 36.247,
+   "end": 36.407,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 36.407,
+   "end": 36.567,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 36.567,
+   "end": 36.727,
+   "type": "word"
+  },
+  {
+   "text": "sepa",
+   "start": 36.727,
+   "end": 37.047,
+   "type": "word"
+  },
+  {
+   "text": "nada",
+   "start": 37.377,
+   "end": 37.537,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 37.697,
+   "end": 37.777,
+   "type": "word"
+  },
+  {
+   "text": "medicina,",
+   "start": 37.777,
+   "end": 38.337,
+   "type": "word"
+  },
+  {
+   "text": "o",
+   "start": 38.497,
+   "end": 38.657,
+   "type": "word"
+  },
+  {
+   "text": "tomar",
+   "start": 38.817,
+   "end": 39.137,
+   "type": "word"
+  },
+  {
+   "text": "consejos",
+   "start": 39.137,
+   "end": 39.617,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 39.777,
+   "end": 39.937,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 39.937,
+   "end": 40.177,
+   "type": "word"
+  },
+  {
+   "text": "persona",
+   "start": 40.177,
+   "end": 40.657,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 40.657,
+   "end": 40.977,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 41.137,
+   "end": 41.377,
+   "type": "word"
+  },
+  {
+   "text": "ha",
+   "start": 41.377,
+   "end": 41.537,
+   "type": "word"
+  },
+  {
+   "text": "hecho",
+   "start": 41.537,
+   "end": 41.777,
+   "type": "word"
+  },
+  {
+   "text": "un",
+   "start": 41.777,
+   "end": 41.857,
+   "type": "word"
+  },
+  {
+   "text": "abordaje",
+   "start": 41.857,
+   "end": 42.337,
+   "type": "word"
+  },
+  {
+   "text": "completo,",
+   "start": 42.497,
+   "end": 42.737,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 42.897,
+   "end": 42.977,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 42.977,
+   "end": 43.137,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 43.137,
+   "end": 43.217,
+   "type": "word"
+  },
+  {
+   "text": "ha",
+   "start": 43.217,
+   "end": 43.377,
+   "type": "word"
+  },
+  {
+   "text": "hecho",
+   "start": 43.377,
+   "end": 43.537,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 43.537,
+   "end": 43.697,
+   "type": "word"
+  },
+  {
+   "text": "historia",
+   "start": 43.697,
+   "end": 43.937,
+   "type": "word"
+  },
+  {
+   "text": "clínica",
+   "start": 44.017,
+   "end": 44.417,
+   "type": "word"
+  },
+  {
+   "text": "completa,",
+   "start": 44.417,
+   "end": 44.737,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 44.897,
+   "end": 45.057,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 45.057,
+   "end": 45.137,
+   "type": "word"
+  },
+  {
+   "text": "te",
+   "start": 45.137,
+   "end": 45.297,
+   "type": "word"
+  },
+  {
+   "text": "ha",
+   "start": 45.297,
+   "end": 45.377,
+   "type": "word"
+  },
+  {
+   "text": "enviado",
+   "start": 45.377,
+   "end": 45.937,
+   "type": "word"
+  },
+  {
+   "text": "exámenes",
+   "start": 45.937,
+   "end": 46.497,
+   "type": "word"
+  },
+  {
+   "text": "médicos",
+   "start": 46.497,
+   "end": 47.137,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 47.377,
+   "end": 47.537,
+   "type": "word"
+  },
+  {
+   "text": "estás",
+   "start": 47.537,
+   "end": 47.777,
+   "type": "word"
+  },
+  {
+   "text": "bien",
+   "start": 47.777,
+   "end": 47.937,
+   "type": "word"
+  },
+  {
+   "text": "y",
+   "start": 48.017,
+   "end": 48.097,
+   "type": "word"
+  },
+  {
+   "text": "si",
+   "start": 48.097,
+   "end": 48.257,
+   "type": "word"
+  },
+  {
+   "text": "eres",
+   "start": 48.257,
+   "end": 48.577,
+   "type": "word"
+  },
+  {
+   "text": "apto",
+   "start": 48.577,
+   "end": 48.817,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 48.897,
+   "end": 49.057,
+   "type": "word"
+  },
+  {
+   "text": "ponerte",
+   "start": 49.057,
+   "end": 49.377,
+   "type": "word"
+  },
+  {
+   "text": "tus",
+   "start": 49.617,
+   "end": 49.697,
+   "type": "word"
+  },
+  {
+   "text": "pectitos.",
+   "start": 49.857,
+   "end": 50.337,
+   "type": "word"
+  },
+  {
+   "text": "Mitch,",
+   "start": 52.257,
+   "end": 52.737,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-10a.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-10/src/podcast-10a.mp4",
+  "size": 72780341,
+  "mtime_ns": 1793310095052773870
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 2371.033,
+  "end": 2424.367
+ }
+}

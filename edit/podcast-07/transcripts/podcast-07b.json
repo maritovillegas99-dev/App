@@ -1,0 +1,218 @@
+{
+ "language_code": "es",
+ "text": "cuan caliente, sí, bueno, el de lo que más me preocupa en este momento de los péptidos, son específicamente de los péptidos para bajar de peso. Porque la obesidad es una enfermedad, no",
+ "words": [
+  {
+   "text": "cuan",
+   "start": 0.31,
+   "end": 0.63,
+   "type": "word"
+  },
+  {
+   "text": "caliente,",
+   "start": 0.63,
+   "end": 1.03,
+   "type": "word"
+  },
+  {
+   "text": "sí,",
+   "start": 2.31,
+   "end": 2.47,
+   "type": "word"
+  },
+  {
+   "text": "bueno,",
+   "start": 2.55,
+   "end": 2.87,
+   "type": "word"
+  },
+  {
+   "text": "el",
+   "start": 3.03,
+   "end": 3.19,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 3.35,
+   "end": 3.51,
+   "type": "word"
+  },
+  {
+   "text": "lo",
+   "start": 3.51,
+   "end": 3.67,
+   "type": "word"
+  },
+  {
+   "text": "que",
+   "start": 3.67,
+   "end": 3.83,
+   "type": "word"
+  },
+  {
+   "text": "más",
+   "start": 3.83,
+   "end": 3.99,
+   "type": "word"
+  },
+  {
+   "text": "me",
+   "start": 3.99,
+   "end": 4.07,
+   "type": "word"
+  },
+  {
+   "text": "preocupa",
+   "start": 4.07,
+   "end": 4.47,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 4.55,
+   "end": 4.71,
+   "type": "word"
+  },
+  {
+   "text": "este",
+   "start": 4.71,
+   "end": 4.79,
+   "type": "word"
+  },
+  {
+   "text": "momento",
+   "start": 4.87,
+   "end": 5.03,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 5.35,
+   "end": 5.51,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 5.51,
+   "end": 5.75,
+   "type": "word"
+  },
+  {
+   "text": "péptidos,",
+   "start": 5.75,
+   "end": 6.39,
+   "type": "word"
+  },
+  {
+   "text": "son",
+   "start": 6.55,
+   "end": 6.79,
+   "type": "word"
+  },
+  {
+   "text": "específicamente",
+   "start": 6.79,
+   "end": 7.51,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 7.51,
+   "end": 7.67,
+   "type": "word"
+  },
+  {
+   "text": "los",
+   "start": 7.67,
+   "end": 7.83,
+   "type": "word"
+  },
+  {
+   "text": "péptidos",
+   "start": 7.83,
+   "end": 8.39,
+   "type": "word"
+  },
+  {
+   "text": "para",
+   "start": 8.39,
+   "end": 8.55,
+   "type": "word"
+  },
+  {
+   "text": "bajar",
+   "start": 8.55,
+   "end": 8.95,
+   "type": "word"
+  },
+  {
+   "text": "de",
+   "start": 8.95,
+   "end": 9.11,
+   "type": "word"
+  },
+  {
+   "text": "peso.",
+   "start": 9.11,
+   "end": 9.67,
+   "type": "word"
+  },
+  {
+   "text": "Porque",
+   "start": 10.15,
+   "end": 10.55,
+   "type": "word"
+  },
+  {
+   "text": "la",
+   "start": 10.55,
+   "end": 10.71,
+   "type": "word"
+  },
+  {
+   "text": "obesidad",
+   "start": 10.71,
+   "end": 11.27,
+   "type": "word"
+  },
+  {
+   "text": "es",
+   "start": 11.27,
+   "end": 11.35,
+   "type": "word"
+  },
+  {
+   "text": "una",
+   "start": 11.35,
+   "end": 11.51,
+   "type": "word"
+  },
+  {
+   "text": "enfermedad,",
+   "start": 11.51,
+   "end": 11.99,
+   "type": "word"
+  },
+  {
+   "text": "no",
+   "start": 12.31,
+   "end": 12.39,
+   "type": "word"
+  }
+ ],
+ "source": "podcast-07b.mp4",
+ "source_identity": {
+  "path": "/home/user/App/edit/podcast-07/src/podcast-07b.mp4",
+  "size": 16800735,
+  "mtime_ns": 1793309884164766328
+ },
+ "model": "transcript (slice)",
+ "timeline": "video",
+ "audio_offset": 0.0,
+ "slice_of": {
+  "source": null,
+  "start": 1728.5,
+  "end": 1741.167
+ }
+}

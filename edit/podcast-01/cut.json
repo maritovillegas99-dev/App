@@ -1,0 +1,69 @@
+{
+ "fps": 30,
+ "sources": {
+  "a": {
+   "file": "edit/podcast-01/src/podcast-01a.mp4",
+   "transcript": "edit/podcast-01/transcripts/podcast-01a.json"
+  }
+ },
+ "ranges": [
+  {
+   "start": 3.067,
+   "end": 9.933,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 10.133,
+   "end": 14.433,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 14.8,
+   "end": 17.733,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 17.933,
+   "end": 23.267,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 23.633,
+   "end": 25.533,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 25.867,
+   "end": 35.667,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 35.867,
+   "end": 46.933,
+   "beat": "piece a",
+   "source": "a"
+  },
+  {
+   "start": 47.4,
+   "end": 58.433,
+   "beat": "piece a",
+   "source": "a"
+  }
+ ],
+ "look": {
+  "correct": "colorchannelmixer=rr=0.98:bb=1.04"
+ },
+ "balance": {
+  "look": "[null, null, null, \"\"]",
+  "sources": "{\"scale\": \"auto\", \"sources\": {\"a\": {\"file\": \"edit/podcast-01/src/podcast-01a.mp4\", \"transcript\": \"edit/podcast-01/transcripts/podcast-01a.json\"}}}",
+  "ranges": "[[\"a\", 3.067, 9.933], [\"a\", 10.133, 14.433], [\"a\", 14.8, 17.733], [\"a\", 17.933, 23.267], [\"a\", 23.633, 25.533], [\"a\", 25.867, 35.667], [\"a\", 35.867, 46.933], [\"a\", 47.4, 58.433]]",
+  "mode": "auto",
+  "result": "unchanged"
+ }
+}
