@@ -1,0 +1,1077 @@
+{
+ "video": "podcast-06/video.mp4",
+ "captions": {
+  "duration": 42.0,
+  "segments": [
+   {
+    "i": 0,
+    "source": "a",
+    "src_start": 2.933,
+    "src_end": 11.767,
+    "out_start": 0.0,
+    "out_dur": 8.833,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 1,
+    "source": "a",
+    "src_start": 12.367,
+    "src_end": 21.3,
+    "out_start": 8.833,
+    "out_dur": 8.933,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 2,
+    "source": "a",
+    "src_start": 21.533,
+    "src_end": 26.433,
+    "out_start": 17.767,
+    "out_dur": 4.9,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 3,
+    "source": "a",
+    "src_start": 26.7,
+    "src_end": 35.167,
+    "out_start": 22.667,
+    "out_dur": 8.467,
+    "speed": 1.0,
+    "beat": "piece a"
+   },
+   {
+    "i": 4,
+    "source": "b",
+    "src_start": 3.0,
+    "src_end": 9.7,
+    "out_start": 31.133,
+    "out_dur": 6.7,
+    "speed": 1.0,
+    "beat": "piece b"
+   },
+   {
+    "i": 5,
+    "source": "b",
+    "src_start": 10.067,
+    "src_end": 12.2,
+    "out_start": 37.833,
+    "out_dur": 2.133,
+    "speed": 1.0,
+    "beat": "piece b"
+   },
+   {
+    "i": 6,
+    "source": "b",
+    "src_start": 12.5,
+    "src_end": 14.533,
+    "out_start": 39.967,
+    "out_dur": 2.033,
+    "speed": 1.0,
+    "beat": "piece b"
+   }
+  ],
+  "words": [
+   {
+    "text": "O",
+    "src": 3.02,
+    "start": 0.087,
+    "end": 0.167,
+    "seg": 0
+   },
+   {
+    "text": "sea,",
+    "src": 3.1,
+    "start": 0.167,
+    "end": 0.327,
+    "seg": 0
+   },
+   {
+    "text": "sí,",
+    "src": 3.26,
+    "start": 0.327,
+    "end": 0.407,
+    "seg": 0
+   },
+   {
+    "text": "sin",
+    "src": 3.5,
+    "start": 0.567,
+    "end": 0.727,
+    "seg": 0
+   },
+   {
+    "text": "duda",
+    "src": 3.82,
+    "start": 0.887,
+    "end": 1.127,
+    "seg": 0
+   },
+   {
+    "text": "alguna,",
+    "src": 4.06,
+    "start": 1.127,
+    "end": 1.287,
+    "seg": 0
+   },
+   {
+    "text": "los",
+    "src": 4.38,
+    "start": 1.447,
+    "end": 1.607,
+    "seg": 0
+   },
+   {
+    "text": "péptidos",
+    "src": 4.54,
+    "start": 1.607,
+    "end": 2.247,
+    "seg": 0
+   },
+   {
+    "text": "son",
+    "src": 5.18,
+    "start": 2.247,
+    "end": 2.407,
+    "seg": 0
+   },
+   {
+    "text": "una",
+    "src": 5.34,
+    "start": 2.407,
+    "end": 2.567,
+    "seg": 0
+   },
+   {
+    "text": "revolución",
+    "src": 5.5,
+    "start": 2.567,
+    "end": 3.207,
+    "seg": 0
+   },
+   {
+    "text": "para",
+    "src": 6.14,
+    "start": 3.207,
+    "end": 3.447,
+    "seg": 0
+   },
+   {
+    "text": "la",
+    "src": 6.38,
+    "start": 3.447,
+    "end": 3.607,
+    "seg": 0
+   },
+   {
+    "text": "medicina,",
+    "src": 6.54,
+    "start": 3.607,
+    "end": 4.007,
+    "seg": 0
+   },
+   {
+    "text": "porque",
+    "src": 7.26,
+    "start": 4.327,
+    "end": 4.567,
+    "seg": 0
+   },
+   {
+    "text": "sus",
+    "src": 7.74,
+    "start": 4.807,
+    "end": 4.967,
+    "seg": 0
+   },
+   {
+    "text": "efectos",
+    "src": 7.9,
+    "start": 4.967,
+    "end": 5.367,
+    "seg": 0
+   },
+   {
+    "text": "son",
+    "src": 8.3,
+    "start": 5.367,
+    "end": 5.527,
+    "seg": 0
+   },
+   {
+    "text": "muy",
+    "src": 8.46,
+    "start": 5.527,
+    "end": 5.687,
+    "seg": 0
+   },
+   {
+    "text": "buenos.",
+    "src": 8.62,
+    "start": 5.687,
+    "end": 6.007,
+    "seg": 0
+   },
+   {
+    "text": "A",
+    "src": 9.1,
+    "start": 6.167,
+    "end": 6.327,
+    "seg": 0
+   },
+   {
+    "text": "mí",
+    "src": 9.26,
+    "start": 6.327,
+    "end": 6.487,
+    "seg": 0
+   },
+   {
+    "text": "me",
+    "src": 9.42,
+    "start": 6.487,
+    "end": 6.567,
+    "seg": 0
+   },
+   {
+    "text": "gustan,",
+    "src": 9.5,
+    "start": 6.567,
+    "end": 6.887,
+    "seg": 0
+   },
+   {
+    "text": "yo",
+    "src": 9.9,
+    "start": 6.967,
+    "end": 7.047,
+    "seg": 0
+   },
+   {
+    "text": "los",
+    "src": 10.14,
+    "start": 7.207,
+    "end": 7.367,
+    "seg": 0
+   },
+   {
+    "text": "uso,",
+    "src": 10.3,
+    "start": 7.367,
+    "end": 7.607,
+    "seg": 0
+   },
+   {
+    "src": 10.62,
+    "seg": 0,
+    "text": "los",
+    "start": 7.687,
+    "end": 7.886
+   },
+   {
+    "src": 10.62,
+    "seg": 0,
+    "text": "uso",
+    "start": 7.886,
+    "end": 8.086
+   },
+   {
+    "src": 10.62,
+    "seg": 0,
+    "text": "en",
+    "start": 8.086,
+    "end": 8.235
+   },
+   {
+    "src": 10.62,
+    "seg": 0,
+    "text": "mi",
+    "start": 8.235,
+    "end": 8.385
+   },
+   {
+    "src": 10.62,
+    "seg": 0,
+    "text": "familia.",
+    "start": 8.385,
+    "end": 8.833
+   },
+   {
+    "text": "Y",
+    "src": 12.54,
+    "start": 9.007,
+    "end": 9.327,
+    "seg": 1
+   },
+   {
+    "text": "personalmente,",
+    "src": 13.66,
+    "start": 10.127,
+    "end": 10.687,
+    "seg": 1
+   },
+   {
+    "text": "personalmente,",
+    "src": 14.94,
+    "start": 11.407,
+    "end": 11.887,
+    "seg": 1
+   },
+   {
+    "text": "yo",
+    "src": 15.82,
+    "start": 12.287,
+    "end": 12.607,
+    "seg": 1
+   },
+   {
+    "text": "a",
+    "src": 16.46,
+    "start": 12.927,
+    "end": 13.087,
+    "seg": 1
+   },
+   {
+    "text": "inicios",
+    "src": 16.62,
+    "start": 13.087,
+    "end": 13.567,
+    "seg": 1
+   },
+   {
+    "text": "de",
+    "src": 17.1,
+    "start": 13.567,
+    "end": 13.727,
+    "seg": 1
+   },
+   {
+    "text": "este",
+    "src": 17.26,
+    "start": 13.727,
+    "end": 13.887,
+    "seg": 1
+   },
+   {
+    "text": "año",
+    "src": 17.42,
+    "start": 13.887,
+    "end": 14.047,
+    "seg": 1
+   },
+   {
+    "text": "pensaba",
+    "src": 17.66,
+    "start": 14.127,
+    "end": 14.607,
+    "seg": 1
+   },
+   {
+    "text": "como",
+    "src": 18.22,
+    "start": 14.687,
+    "end": 14.847,
+    "seg": 1
+   },
+   {
+    "text": "muchos",
+    "src": 18.54,
+    "start": 15.007,
+    "end": 15.407,
+    "seg": 1
+   },
+   {
+    "text": "de",
+    "src": 18.94,
+    "start": 15.407,
+    "end": 15.647,
+    "seg": 1
+   },
+   {
+    "text": "mis",
+    "src": 19.18,
+    "start": 15.647,
+    "end": 15.887,
+    "seg": 1
+   },
+   {
+    "text": "colegas",
+    "src": 19.42,
+    "start": 15.887,
+    "end": 16.287,
+    "seg": 1
+   },
+   {
+    "text": "que",
+    "src": 19.98,
+    "start": 16.447,
+    "end": 16.687,
+    "seg": 1
+   },
+   {
+    "text": "decía",
+    "src": 20.22,
+    "start": 16.687,
+    "end": 17.007,
+    "seg": 1
+   },
+   {
+    "text": "como",
+    "src": 20.7,
+    "start": 17.167,
+    "end": 17.407,
+    "seg": 1
+   },
+   {
+    "text": "que",
+    "src": 20.94,
+    "start": 17.407,
+    "end": 17.567,
+    "seg": 1
+   },
+   {
+    "text": "no,",
+    "src": 21.5,
+    "start": 17.767,
+    "end": 17.893,
+    "seg": 2
+   },
+   {
+    "text": "esos",
+    "src": 21.82,
+    "start": 18.053,
+    "end": 18.453,
+    "seg": 2
+   },
+   {
+    "text": "péptidos,",
+    "src": 22.22,
+    "start": 18.453,
+    "end": 19.013,
+    "seg": 2
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "la",
+    "start": 19.173,
+    "end": 19.282
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "gente",
+    "start": 19.282,
+    "end": 19.5
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "que",
+    "start": 19.5,
+    "end": 19.646
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "se",
+    "start": 19.646,
+    "end": 19.755
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "pone",
+    "start": 19.755,
+    "end": 19.937
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "péptidos",
+    "start": 19.937,
+    "end": 20.264
+   },
+   {
+    "src": 22.94,
+    "seg": 2,
+    "text": "es",
+    "start": 20.264,
+    "end": 20.373
+   },
+   {
+    "text": "súper",
+    "src": 24.14,
+    "start": 20.373,
+    "end": 20.613,
+    "seg": 2
+   },
+   {
+    "text": "irresponsable,",
+    "src": 24.38,
+    "start": 20.613,
+    "end": 21.333,
+    "seg": 2
+   },
+   {
+    "text": "etcétera,",
+    "src": 25.34,
+    "start": 21.573,
+    "end": 22.133,
+    "seg": 2
+   },
+   {
+    "text": "etcétera.",
+    "src": 25.9,
+    "start": 22.133,
+    "end": 22.667,
+    "seg": 2
+   },
+   {
+    "text": "Y",
+    "src": 26.81,
+    "start": 22.777,
+    "end": 22.937,
+    "seg": 3
+   },
+   {
+    "text": "me",
+    "src": 26.97,
+    "start": 22.937,
+    "end": 23.097,
+    "seg": 3
+   },
+   {
+    "text": "di",
+    "src": 27.13,
+    "start": 23.097,
+    "end": 23.257,
+    "seg": 3
+   },
+   {
+    "text": "cuenta",
+    "src": 27.29,
+    "start": 23.257,
+    "end": 23.577,
+    "seg": 3
+   },
+   {
+    "text": "que",
+    "src": 27.61,
+    "start": 23.577,
+    "end": 23.737,
+    "seg": 3
+   },
+   {
+    "text": "en",
+    "src": 27.77,
+    "start": 23.737,
+    "end": 23.817,
+    "seg": 3
+   },
+   {
+    "text": "realidad",
+    "src": 27.85,
+    "start": 23.817,
+    "end": 24.217,
+    "seg": 3
+   },
+   {
+    "text": "estaba",
+    "src": 28.25,
+    "start": 24.217,
+    "end": 24.537,
+    "seg": 3
+   },
+   {
+    "text": "hablando",
+    "src": 28.57,
+    "start": 24.537,
+    "end": 24.857,
+    "seg": 3
+   },
+   {
+    "text": "desde",
+    "src": 28.89,
+    "start": 24.857,
+    "end": 25.097,
+    "seg": 3
+   },
+   {
+    "text": "mi",
+    "src": 29.13,
+    "start": 25.097,
+    "end": 25.257,
+    "seg": 3
+   },
+   {
+    "text": "ignorancia,",
+    "src": 29.29,
+    "start": 25.257,
+    "end": 25.897,
+    "seg": 3
+   },
+   {
+    "text": "porque",
+    "src": 30.01,
+    "start": 25.977,
+    "end": 26.137,
+    "seg": 3
+   },
+   {
+    "text": "yo",
+    "src": 30.25,
+    "start": 26.217,
+    "end": 26.377,
+    "seg": 3
+   },
+   {
+    "text": "no",
+    "src": 30.41,
+    "start": 26.377,
+    "end": 26.457,
+    "seg": 3
+   },
+   {
+    "text": "sabía",
+    "src": 30.49,
+    "start": 26.457,
+    "end": 26.777,
+    "seg": 3
+   },
+   {
+    "text": "absolutamente,",
+    "src": 30.81,
+    "start": 26.777,
+    "end": 27.097,
+    "seg": 3
+   },
+   {
+    "text": "yo",
+    "src": 31.45,
+    "start": 27.417,
+    "end": 27.497,
+    "seg": 3
+   },
+   {
+    "text": "decía",
+    "src": 31.61,
+    "start": 27.577,
+    "end": 27.977,
+    "seg": 3
+   },
+   {
+    "text": "eso",
+    "src": 32.01,
+    "start": 27.977,
+    "end": 28.297,
+    "seg": 3
+   },
+   {
+    "text": "y",
+    "src": 32.41,
+    "start": 28.377,
+    "end": 28.537,
+    "seg": 3
+   },
+   {
+    "text": "no",
+    "src": 32.57,
+    "start": 28.537,
+    "end": 28.697,
+    "seg": 3
+   },
+   {
+    "text": "sabía",
+    "src": 32.73,
+    "start": 28.697,
+    "end": 29.097,
+    "seg": 3
+   },
+   {
+    "text": "absolutamente",
+    "src": 33.13,
+    "start": 29.097,
+    "end": 29.737,
+    "seg": 3
+   },
+   {
+    "src": 33.93,
+    "seg": 3,
+    "text": "nada",
+    "start": 29.897,
+    "end": 30.24
+   },
+   {
+    "src": 33.93,
+    "seg": 3,
+    "text": "de",
+    "start": 30.24,
+    "end": 30.446
+   },
+   {
+    "src": 33.93,
+    "seg": 3,
+    "text": "péptidos.",
+    "start": 30.446,
+    "end": 31.133
+   },
+   {
+    "text": "Aprendí",
+    "src": 3.01,
+    "start": 31.143,
+    "end": 31.623,
+    "seg": 4
+   },
+   {
+    "text": "cómo",
+    "src": 3.49,
+    "start": 31.623,
+    "end": 31.783,
+    "seg": 4
+   },
+   {
+    "text": "se",
+    "src": 3.65,
+    "start": 31.783,
+    "end": 31.943,
+    "seg": 4
+   },
+   {
+    "text": "usan,",
+    "src": 3.81,
+    "start": 31.943,
+    "end": 32.263,
+    "seg": 4
+   },
+   {
+    "text": "aprendí",
+    "src": 4.21,
+    "start": 32.343,
+    "end": 32.743,
+    "seg": 4
+   },
+   {
+    "text": "los",
+    "src": 4.61,
+    "start": 32.743,
+    "end": 32.903,
+    "seg": 4
+   },
+   {
+    "text": "efectos",
+    "src": 4.77,
+    "start": 32.903,
+    "end": 33.143,
+    "seg": 4
+   },
+   {
+    "text": "adversos,",
+    "src": 5.17,
+    "start": 33.303,
+    "end": 33.863,
+    "seg": 4
+   },
+   {
+    "text": "cómo",
+    "src": 5.89,
+    "start": 34.023,
+    "end": 34.183,
+    "seg": 4
+   },
+   {
+    "text": "manejarlos,",
+    "src": 6.05,
+    "start": 34.183,
+    "end": 34.743,
+    "seg": 4
+   },
+   {
+    "text": "qué",
+    "src": 6.85,
+    "start": 34.983,
+    "end": 35.143,
+    "seg": 4
+   },
+   {
+    "text": "tan",
+    "src": 7.17,
+    "start": 35.303,
+    "end": 35.543,
+    "seg": 4
+   },
+   {
+    "text": "seguros",
+    "src": 7.41,
+    "start": 35.543,
+    "end": 36.103,
+    "seg": 4
+   },
+   {
+    "text": "son,",
+    "src": 7.97,
+    "start": 36.103,
+    "end": 36.263,
+    "seg": 4
+   },
+   {
+    "text": "cómo",
+    "src": 8.29,
+    "start": 36.423,
+    "end": 36.663,
+    "seg": 4
+   },
+   {
+    "text": "preparar",
+    "src": 8.53,
+    "start": 36.663,
+    "end": 37.143,
+    "seg": 4
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "a",
+    "start": 37.143,
+    "end": 37.257
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "una",
+    "start": 37.257,
+    "end": 37.486
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "persona",
+    "start": 37.486,
+    "end": 37.943
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "para",
+    "start": 37.943,
+    "end": 38.229
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "que",
+    "start": 38.229,
+    "end": 38.457
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "pueda",
+    "start": 38.457,
+    "end": 38.8
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "recibir",
+    "start": 38.8,
+    "end": 39.257
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "los",
+    "start": 39.257,
+    "end": 39.486
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "péptidos",
+    "start": 39.486,
+    "end": 40.0
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "y",
+    "start": 40.0,
+    "end": 40.114
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "que",
+    "start": 40.114,
+    "end": 40.343
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "tenga",
+    "start": 40.343,
+    "end": 40.686
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "resultados",
+    "start": 40.686,
+    "end": 41.314
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "más",
+    "start": 41.314,
+    "end": 41.543
+   },
+   {
+    "src": 9.01,
+    "seg": 4,
+    "text": "buenos.",
+    "start": 41.543,
+    "end": 42.0
+   }
+  ],
+  "leveling": {
+   "threshold_db": {
+    "a": -38.8,
+    "b": -45.7
+   },
+   "target_db": -25.64,
+   "pieces": [
+    {
+     "source": "a",
+     "level_db": -25.73,
+     "gain_db": 0.09
+    },
+    {
+     "source": "a",
+     "level_db": -22.64,
+     "gain_db": -3.0
+    },
+    {
+     "source": "a",
+     "level_db": -25.97,
+     "gain_db": 0.33
+    },
+    {
+     "source": "a",
+     "level_db": -23.09,
+     "gain_db": -2.55
+    },
+    {
+     "source": "b",
+     "level_db": -30.09,
+     "gain_db": 4.45
+    },
+    {
+     "source": "b",
+     "level_db": -31.01,
+     "gain_db": 5.37
+    },
+    {
+     "source": "b",
+     "level_db": -31.18,
+     "gain_db": 5.54
+    }
+   ],
+   "sources": {
+    "a": {
+     "before_db": -23.92,
+     "after_db": -25.87
+    },
+    "b": {
+     "before_db": -30.39,
+     "after_db": -25.75
+    }
+   },
+   "max_gain_db": 6.83
+  },
+  "fixed": 4
+ },
+ "brand": {
+  "slug": "podcast-peptidos",
+  "name": "Podcast Peptidos",
+  "tagline": "",
+  "colors": {
+   "primary": "#111111",
+   "accent": "#FFFFFF",
+   "light": "#FFFFFF",
+   "text_on_primary": "#FFFFFF",
+   "text_on_accent": "#111111",
+   "extra": {}
+  },
+  "fonts": {
+   "heading": {
+    "family": "Montserrat",
+    "weights": [
+     600,
+     700,
+     800
+    ],
+    "source": "google"
+   },
+   "body": {
+    "family": "Montserrat",
+    "weights": [
+     500,
+     600,
+     700
+    ],
+    "source": "google"
+   }
+  },
+  "logos": {},
+  "motion": "calm",
+  "tone": {
+   "preset": "expert",
+   "label": "Expert, calm",
+   "loudness": "calm",
+   "overshoot": false,
+   "shake": false,
+   "scene_tone": "calm",
+   "scene_tones": [
+    "calm",
+    "feature",
+    "cinematic",
+    "deadpan"
+   ],
+   "full_scenes_max": 2,
+   "transitions": [
+    "cut",
+    "fade",
+    "whip",
+    "slide",
+    "flash"
+   ],
+   "flash_max": 2,
+   "whip_max": 3,
+   "sfx": "sparse"
+  },
+  "subtitles_default": "accent",
+  "style_default": "marker"
+ },
+ "inserts": [],
+ "subtitles": "none",
+ "style": "marker",
+ "hideSubtitles": [],
+ "drift": true,
+ "hook": null,
+ "corner": false,
+ "endCard": null,
+ "subtitlesTop": 1250,
+ "callouts": [],
+ "scenes": [],
+ "sceneTone": "calm",
+ "minimalHook": null,
+ "emphasis": [
+  "revolución",
+  "irresponsable",
+  "ignorancia"
+ ]
+}
